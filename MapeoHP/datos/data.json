@@ -1,0 +1,311 @@
+{
+    "titulo": "Mapeo de Habilidades Personales",
+    "contenido": "Descripción: Reflexiona sobre tus propias habilidades como emprendedor. \nEvalúa tus fortalezas y debilidades en áreas como liderazgo, gestión del tiempo, toma de decisiones, y creatividad. Basándote en tu autodiagnóstico, identifica áreas que necesitas mejorar y planteá un plan de acción para desarrollar estas habilidades.\nReflexión: ¿Qué habilidades deberías desarrollar más para mejorar tus posibilidades de éxito como emprendedor?",
+
+    "habilidades":  [
+        {
+            "item": "Liderazgo", 
+            
+            "preguntas": [
+                {
+                    "pregunta":	"¿Cómo te describirías como líder?",
+                    "rtas": {
+                        "0": "No me considero un líder.",
+                        "1": "A veces tomo el rol de líder.",
+                        "2": "Frecuentemente asumo el liderazgo. ",
+                        "3": "Siempre me considero un líder natural. "
+                    }
+                },
+                {
+                    "pregunta":	"En general, ¿tenés tendencia a tomar la iniciativa o a seguir órdenes?",
+                    "rtas": {
+                        "0": "Prefiero seguir órdenes. ",
+                        "1": "A veces tomo la iniciativa.",
+                        "2": "Frecuentemente tomo la iniciativa. ",
+                        "3": "Siempre busco tomar la iniciativa. "
+                    }
+                },
+                {
+                    "pregunta":	"¿Cómo manejás las situaciones donde es necesario guiar a otras personas?",
+                    "rtas": {
+                        "0": "Me resulta incómodo guiar a otros. ",
+                        "1": "A veces guío a otros, pero con dificultades.",
+                        "2": "Frecuentemente guío a otros con confianza. ",
+                        "3": "Siempre guío a los demás con seguridad. "
+                    }
+                },
+                {
+                    "pregunta":	"¿Cómo reaccionas cuando tus decisiones como líder no son bien recibidas?",
+                    "rtas": {
+                        "0": "Me siento frustrado/a y tiendo a dudar. ",
+                        "1": "Acepto las críticas, pero me afectan.",
+                        "2": "Manejo las críticas con objetividad. ",
+                        "3": "Siempre mantengo la calma y ajusto mi enfoque según sea necesario. "
+                    }
+                },
+                {
+                    "pregunta":	"¿Cómo manejás la responsabilidad cuando liderás un equipo o proyecto?",
+                    "rtas": {
+                        "0": "Me cuesta asumir la responsabilidad. ",
+                        "1": "Acepto la responsabilidad, pero me genera ansiedad.",
+                        "2": "Asumo la responsabilidad con equilibrio. ",
+                        "3": "Siempre disfruto y acepto la responsabilidad de liderar. "
+                    }
+                }
+            ]
+        },
+        {
+            "item": "Toma de decisiones",
+            "preguntas": [
+            {
+    
+                "pregunta": "¿Cómo solés enfrentar situaciones difíciles?",
+                "rtas":{
+            
+                    "0": "Evito tomar decisiones difíciles. ",
+                    "1": "Enfrento las decisiones con temor.",
+                    "2": "Tomo decisiones difíciles con anális,is y calma. ",
+                    "3": "Siempre enfrento situaciones difíciles con confianza. "
+                }
+            },
+            {
+
+                "pregunta": "¿Te basás en datos y análisis o seguís más tu intuición?",
+                "rtas":{
+                    "0": "Me baso exclusivamente en intuición. ",
+                    "1": "A veces uso datos, pero prefiero seguir mi intuición.",
+                    "2": "Uso tanto datos como intuición de forma equilibrada. ",
+                    "3": "Me baso principalmente en datos y análisis. "
+                }
+            },
+            {
+
+                "pregunta": "¿Cómo evaluás las posibles consecuencias de tus decisiones?",
+                "rtas":{
+                    "0": "No suelo pensar en las consecuencias. ",
+                    "1": "Considero algunas consecuencias, pero no en profundidad.",
+                    "2": "Evalúo las consecuencias de manera cuidadosa. ",
+                    "3": "Siempre analizo en profundidad las posibles consecuencias. "
+                }
+            },
+            {
+                "pregunta": "¿Cuánto tiempo dedicás a tomar decisiones importantes y cómo gestionás la presión?",
+                "rtas":{
+                    "0": "Me cuesta tomar decisiones bajo presión. ",
+                    "1": "A veces tomo decisiones apresuradas debido a la presión.",
+                    "2": "Manejo bien la presión y tomo el tiempo necesario. ",
+                    "3": "Siempre tomo decisiones importantes de manera equilibrada, sin dejarme llevar por la presión. "
+                }
+            },
+            {
+
+                "pregunta": "¿Cómo te asegurás de aprender de las decisiones que no resultaron como esperabas?",
+                "rtas":{
+                    "0": "No suelo reflexionar sobre mis errores. ",
+                    "1": "Reflexiono, pero no siempre saco lecciones claras.",
+                    "2": "Evalúo mis errores para mejorar. ",
+                    "3": "Siempre saco valiosas lecciones de mis errores. "
+                }
+            }
+        ]
+        },
+        {
+                "item": "Creatividad",
+                "preguntas": [
+                {
+                    "pregunta": "¿En qué medida te considerás una persona creativa?",
+                    "rtas":{
+                        "0": "No me considero creativo/a. ",
+                        "1": "A veces tengo ideas creativas.",
+                        "2": "Frecuentemente genero ideas creativas. ",
+                        "3": "Siempre me considero una persona creativa. "
+                    }
+                },
+                {
+                    "pregunta": "¿Cómo integrás la creatividad en la resolución de problemas o en la búsqueda de oportunidades en tu negocio?",
+                    "rtas":{
+                        "0": "No suelo aplicar creatividad en la resolución de problemas. ",
+                        "1": "A veces aplico ideas creativas en problemas menores.",
+                        "2": "Frecuentemente utilizo creatividad para solucionar problemas. ",
+                        "3": "Siempre recurro a la creatividad para buscar soluciones innovadoras. "
+                    }
+                },
+                {
+                    "pregunta": "¿Qué técnicas usás para fomentar tu creatividad en el día a día?",
+                    "rtas":{
+                        "0": "No tengo técnicas definidas. ",
+                        "1": "A veces uso técnicas, pero de forma esporádica.",
+                        "2": "Frecuentemente uso técnicas como lluvia de ideas o mapas mentales. ",
+                        "3": "Siempre implemento técnicas de creatividad para generar ideas. "
+                    }
+                },
+                {
+                    "pregunta": "¿Cómo reaccionás cuando te encontrás con un bloqueo creativo?",
+                    "rtas":{
+                        "0": "Me frustro y abandono la tarea. ",
+                        "1": "A veces logro superarlo después de un tiempo.",
+                        "2": "Encuentro formas de salir del bloqueo con nuevas estrategias. ",
+                        "3": "Siempre enfrento bloqueos creativos con paciencia y soluciones efectivas. "
+                    }
+                },
+                {
+                    "pregunta": "¿Cómo usarías la creatividad para diferenciarte de la competencia?",
+                    "rtas":{
+                        "0": "No suelo pensar en estrategias diferenciadoras. ",
+                        "1": "A veces intento ideas nuevas, pero no siempre son efectivas.",
+                        "2": "Frecuentemente utilizo creatividad para destacar. ",
+                        "3": "Siempre busco formas creativas para superar a la competencia. "
+                    }
+                }
+            ]
+        },
+        {
+                "item": "Trabajo en equipo", 
+                "preguntas": [
+                {
+                    "pregunta": "¿Cómo te sentís trabajando en equipo?",
+                    "rtas": {
+                        "0": "Prefiero trabajar solo/a. ",
+                        "1": "A veces disfruto trabajar en equipo.",
+                        "2": "Frecuentemente me siento cómodo/a trabajando en equipo. ",
+                        "3": "Siempre disfruto trabajar en equipo. "
+                    }
+                },
+                {
+                    "pregunta": "¿Preferís trabajar solo/a o creés que tus habilidades mejoran al colaborar con otros?",
+                    "rtas": {
+                        "0": "Prefiero trabajar solo/a. ",
+                        "1": "A veces mejoro trabajando con otros.",
+                        "2": "Frecuentemente colaboro bien con otros. ",
+                        "3": "Siempre mejoro mis resultados cuando trabajo en equipo. "
+                    }
+                },
+                {
+                    "pregunta": "¿Cómo solés contribuir al trabajo en equipo?",
+                    "rtas": {
+                        "0": "No suelo contribuir mucho. ",
+                        "1": "A veces hago pequeñas contribuciones.",
+                        "2": "Frecuentemente hago aportes valiosos. ",
+                        "3": "Siempre soy un gran contribuidor/a en los equipos. "
+                    }
+                },
+                {
+                    "pregunta": "¿Cómo manejás los conflictos dentro de un equipo?",
+                    "rtas": {
+                        "0": "Evito involucrarme en conflictos. ",
+                        "1": "A veces enfrento los conflictos, pero con dificultad.",
+                        "2": "Manejo bien los conflictos buscando soluciones. ",
+                        "3": "Siempre enfrento y resuelvo los conflictos de manera constructiva. "
+                    }
+                },
+                {
+                    "pregunta": "¿Qué acciones tomás para asegurar que todos en el grupo se sientan valorados y respetados?",
+                    "rtas": {
+                        "0": "No suelo tomar medidas activas para esto. ",
+                        "1": "A veces hago comentarios para reforzar la importancia del respeto.",
+                        "2": "Normalmente propongo actividades o conversaciones para generar un ambiente de apoyo mutuo. ",
+                        "3": "Siempre me esfuerzo por que todos en el equipo se sientan valorados, destacando la importancia de la colaboración. "
+                    }
+                }
+            ]
+        },
+        {
+                "item": "Autoconocimiento", 
+                "preguntas": [
+                {
+                    "pregunta": "¿Qué habilidades creés que necesitás mejorar para ser un mejor emprendedor?",
+                    "rtas": {
+                        "0": "No tengo claras mis áreas a mejorar. ",
+                        "1": "A veces reconozco algunas debilidades.",
+                        "2": "Frecuentemente identifico áreas para mejorar. ",
+                        "3": "Siempre tengo claridad sobre lo que necesito mejorar. "
+                    }
+                },
+                {
+                    "pregunta": "¿Qué acciones concretas podrías tomar para fortalecer esas áreas en las próximas semanas o meses?",
+                    "rtas": {
+                        "0": "No tengo un plan de acción. ",
+                        "1": "A veces pienso en acciones, pero no las implemento.",
+                        "2": "Frecuentemente desarrollo acciones para mejorar. ",
+                        "3": "Siempre tengo un plan claro para mejorar mis habilidades. "
+                    }
+                },
+                {
+                    "pregunta": "¿Cómo evaluás tu propio progreso personal y profesional como emprendedor?",
+                    "rtas": {
+                        "0": "No suelo evaluar mi progreso. ",
+                        "1": "A veces reflexiono sobre mi progreso.",
+                        "2": "Frecuentemente reviso mi desarrollo personal y profesional. ",
+                        "3": "Siempre evalúo mi progreso de manera consistente. "
+                    }
+                },
+                {
+                    "pregunta": "¿Cómo te motivás para seguir mejorando en los momentos de incertidumbre?",
+                    "rtas": {
+                        "0": "Me cuesta mantener la motivación en tiempos difíciles. ",
+                        "1": "A veces logro motivarme, pero con dificultad.",
+                        "2": "Frecuentemente encuentro formas de motivarme. ",
+                        "3": "Siempre mantengo la motivación, incluso en momentos difíciles. "
+                    }
+                },
+                {
+                    "pregunta": "¿Cómo gestionás los momentos de frustración o desafíos que enfrentás como emprendedor?",
+                    "rtas": {
+                        "0": "No suelo manejar bien la frustración y me desanimo fácilmente. ",
+                        "1": "A veces logro manejarla, pero puede afectarme por un tiempo.",
+                        "2": "Generalmente, encuentro formas de sobrellevar los desafíos y seguir adelante. ",
+                        "3": "Siempre enfrento los desafíos con resiliencia y mantengo una actitud positiva. "
+                    }
+                }
+            ]
+        }
+    ],
+    "resultados": [
+        {
+            "item": "Liderazgo",
+            "valor_mensaje": {
+                    "3": "Potencial para desarrollar el liderazgo. Aún no te sentís totalmente cómodo/a en roles de liderazgo, pero este es un área clave para tu crecimiento. Podrías empezar tomando pequeñas responsabilidades y desafiándote a asumir el rol de líder en situaciones cotidianas. Desarrollar confianza en tus capacidades de guiar a otros será un gran impulso para tus emprendimientos.",
+                    "6": "Progresando en tu rol como líder. Ya tenés tendencia a asumir el liderazgo en muchas situaciones, aunque a veces podés dudar. Fortalecer la toma de decisiones bajo presión y manejar la responsabilidad con seguridad te ayudará a consolidarte como un líder aún más fuerte.",
+                    "9": "Líder en crecimiento. Frecuentemente asumís el liderazgo y tenés confianza en guiar a otros. Continuá desarrollando esta habilidad y buscá nuevas formas de influir positivamente en los equipos con los que trabajás. Una habilidad para seguir mejorando es cómo manejar críticas constructivas.",
+                    "12": "Líder natural. Te ves a vos mismo/a como un líder natural y las demás personas probablemente también. Aprovechá esta habilidad para fortalecer tus proyectos y ser una inspiración para quienes te rodean. Seguí buscando maneras de mejorar tus capacidades para guiar equipos en situaciones complejas."
+            }
+        },
+        {
+            "item": "Toma de decisiones",
+            "valor_mensaje": {
+                "3": "Oportunidad de mejorar en la toma de decisiones. Tomar decisiones difíciles puede ser intimidante, pero es una habilidad esencial como emprendedor. Invertí tiempo en analizar situaciones antes de decidir y adoptá una postura más proactiva frente a los desafíos. Practicar la toma de decisiones te permitirá ser más seguro/a y ágil en el futuro. ",
+                "6": "En camino hacia decisiones más sólidas. Si bien ya sos capaz de enfrentar decisiones importantes, a veces podés sentir dudas o presión. Enfocarte en un análisis más profundo de las consecuencias y mejorar tu capacidad para manejar la presión te ayudará a perfeccionar esta habilidad.",
+                "9": "Decisor estratégico. Manejás bien las situaciones difíciles y basás tus decisiones tanto en datos como en intuición. Continuá aplicando estas habilidades, pero también reflexioná sobre los resultados de tus decisiones para seguir creciendo.",
+                "12": "Tomador de decisiones experto/a. Tenés la capacidad de tomar decisiones importantes con confianza y claridad. Aseguráte de seguir evaluando tus decisiones, incluso cuando las cosas no resulten como esperabas. Siempre hay lecciones que pueden contribuir a tu crecimiento como emprendedor."
+            }
+        },
+        {
+            "item": "Creatividad",
+            "valor_mensaje": {
+                "3": "Potenciá tu creatividad.Aunque todavía no te considerás una persona creativa, todos tenemos el potencial de desarrollar esta habilidad. Explorá técnicas como la lluvia de ideas, buscá inspiración en tu entorno y date el espacio para experimentar con nuevas ideas. La creatividad es una herramienta clave en la solución de problemas.",
+                "6": "Explorando tu creatividad. Ya integrás la creatividad en ciertas áreas de tu vida, aunque podrías beneficiarte de usarla de manera más consistente. Aplicar técnicas como mapas mentales o crear espacios dedicados para desarrollar ideas nuevas te ayudará a liberar aún más tu potencial creativo.",
+                "9": "Creativo/a en acción. Utilizás la creatividad de manera regular para resolver problemas y encontrar oportunidades. Seguí desarrollando esta habilidad y buscá nuevas formas de diferenciarte de la competencia mediante soluciones innovadoras.",
+                "12": "Creativo/a innato/a. Sos una persona altamente creativa y utilizás esta capacidad para superar desafíos y encontrar nuevas oportunidades en tu negocio. Continuá fomentando tu creatividad a través de nuevas técnicas y seguí destacando como un emprendedor/a innovador/a."
+            }
+        },
+        {
+            "item": "Trabajo en equipo",
+            "valor_mensaje": {
+                "3": "Oportunidad de mejorar en trabajo en equipo.A veces preferís trabajar solo/a, pero mejorar tus habilidades colaborativas te ayudará a lograr mejores resultados como emprendedor/a. Empezá por involucrarte más activamente en equipos pequeños y practicar la escucha activa.",
+                "6": "En proceso de mejorar la colaboración. Ya estás avanzando en tu habilidad para colaborar, aunque podés sentir que hay momentos en los que trabajar solo/a es más fácil. Fortalecer tus habilidades de comunicación y resolución de conflictos te permitirá aprovechar todo el potencial del trabajo en equipo.",
+                "9": "Colaborador/a confiable. Te sentís cómodo/a trabajando en equipo y solés aportar ideas valiosas. Seguí desarrollando esta capacidad y proponé formas de mejorar la dinámica de los equipos en los que participás. La colaboración es esencial para los proyectos exitosos.",
+                "12": "Líder colaborativo/a. Trabajar en equipo es uno de tus puntos fuertes. No solo colaborás bien, sino que además promovés un ambiente de respeto y cooperación en los grupos. Seguí desarrollando esta habilidad y usá tu influencia para inspirar a otros."
+            }
+        },
+        {
+            "item": "Autoconocimiento",
+            "valor_mensaje": {
+                "3": "Autoconocimiento en desarrollo.Reconocer tus áreas de mejora es un primer paso importante hacia el éxito. Te sugerimos tomarte un tiempo para reflexionar sobre tus habilidades, identificar aquellas que podrían potenciar tu emprendimiento y crear un plan de acción para trabajar en ellas.",
+                "6": "Progresando en el autoconocimiento. Ya empezás a identificar áreas de mejora y a trabajar en ellas, aunque podrías beneficiarte de desarrollar un plan más claro para alcanzar tus metas. Reflexionar regularmente sobre tu progreso te ayudará a consolidar tus fortalezas y superar tus debilidades.",
+                "9": "Consciente de tus habilidades. Estás en buen camino, ya que frecuentemente revisás tus áreas de mejora y trabajás en ellas. Continuá evaluando tu progreso y buscá nuevas oportunidades para seguir desarrollando tus habilidades como emprendedor/a.",
+                "12": "Autoconocimiento claro. Sos una persona que tiene claridad sobre sus habilidades y trabaja activamente para mejorar. Este nivel de autoconocimiento te dará una ventaja significativa en tu camino como emprendedor/a, ya que te permite ajustar tus estrategias y seguir creciendo de manera continua."
+            }
+        }
+        ],
+    "salida": "¡Felicitaciones por haber completado el cuestionario de habilidades emprendedoras!\nComo emprendedor, identificar las áreas en las que destacás y aquellas en las que podés mejorar es fundamental para seguir creciendo. Este cuestionario no solo refleja tu autoconocimiento, sino que también te brinda una guía sobre cómo potenciar tus capacidades en liderazgo, toma de decisiones, creatividad, trabajo en equipo y autoconocimiento. \nA continuación, te ofrecemos un análisis de tus resultados en cada área. Recordá que no hay respuestas correctas o incorrectas; más bien, cada respuesta te brinda una oportunidad de mejora. El emprendimiento es un viaje continuo de aprendizaje, y este cuestionario es solo un paso más hacia tu éxito."
+}

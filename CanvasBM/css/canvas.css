@@ -1,0 +1,33 @@
+#bizcanvas {
+    margin-top: 5%;
+    width: 100%;
+}
+
+#bizcanvas td {
+    margin: 3%;
+    border: 2px solid #153244;
+    vertical-align: top;
+    height: 20%;
+    width: 18%;
+    padding: 1%;
+}
+
+
+#bizcanvas h4 {
+    font-weight: 700;
+    font-size: 1em;
+}
+
+#bizcanvas h5 {
+    font-weight: 700;
+    font-size: 0.7em;
+}
+
+#centrar {
+    text-align: center;
+    font-weight: 700;
+}
+
+textarea {
+    resize: none;
+}
