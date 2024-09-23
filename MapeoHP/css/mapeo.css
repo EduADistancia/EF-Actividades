@@ -23,12 +23,32 @@ input:checked {
     border: 10px solid black;
 }
 
+ol > li > ul {
+    padding-left: 0;
+}
+
+li > ol {
+    padding-left: 0;
+}
+
 ol > li {
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
 }
 
+ul#cuestionario {
+    padding-left: 0;
+}
+
 ul > li {
     list-style-type: none;
     margin-top: 0.5rem;
+    margin-left: 0;
+}
+
+.marco {
+    border: 1px solid #153244;
+    border-radius: 5px;
+    margin-top: 0.5rem;
+    padding: 0.5rem 1rem;
 }

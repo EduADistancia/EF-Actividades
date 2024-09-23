@@ -74,9 +74,13 @@ async function cargarContenido(options, resultados) {
     let chart = new ApexCharts(document.querySelector("#chart"), options);
     chart.render();
     
+    let saludo = data["salida"];
+    let salida = document.querySelector('#saludo');
+    salida.innerHTML = saludo;
+    
     let devolucion = data["resultados"];
     let dev = document.querySelector('#salida');
-    let texto_dev = []
+    // let texto_dev = []
 
     for (let d in resultados) {
         let compara = devolucion;
@@ -85,7 +89,11 @@ async function cargarContenido(options, resultados) {
             if (c["item"] == d) {
                 for (let e of escala) {
                     if (resultados[d] <= e) {
-                        texto_dev.push(c["valor_mensaje"][e]);
+                        let p = document.createElement('p');
+                        p.className = 'marco';
+                        p.innerHTML = c["valor_mensaje"][e];
+                        // texto_dev.push(c["valor_mensaje"][e]);
+                        dev.append(p);
                         break;
                     }
                 }
@@ -93,15 +101,11 @@ async function cargarContenido(options, resultados) {
         }
     }
 
-    texto_dev.forEach(t => {
-        let p = document.createElement('p');
-        p.innerHTML = t;
-        dev.append(p);
-    });
-    
-    let saludo = data["salida"];
-    let salida = document.querySelector('#saludo');
-    salida.innerHTML = saludo;
+    // texto_dev.forEach(t => {
+    //     let p = document.createElement('p');
+    //     p.innerHTML = t;
+    //     dev.append(p);
+    // });
     
     let capturar1 = document.getElementById('descarga');
     capturar1.addEventListener('click', ev => {

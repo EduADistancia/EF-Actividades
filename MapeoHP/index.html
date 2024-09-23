@@ -7,6 +7,7 @@
     <meta name="description" content="Material didáctico adicional.">
     <link rel="stylesheet" href="./css/estilos.css">
     <link rel="stylesheet" href="./css/mapeo.css">
+    <link rel="stylesheet" href="./css/carousel.css">
     <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.5/dist/html2canvas.min.js"></script>
     <title>EF - Actividad</title>
 </head>
@@ -26,13 +27,26 @@
             <main>
                 <section>
                     <p id="descripcion"></p>
+                    
                     <form>
-                        <ul id="cuestionario"></ul>
+                        <ul id="cuestionario">
+
+                            <!-- Carrousel con contenido dinámico -->
+                            <div id="baseContDinamico">
+                                <div id="contenidoDinamico"></div>
+                            </div>
+                        </ul>
                 
                         <div id="botonera">
-                            <input class="boton colorFondo1" type="submit" value="Evaluar">
+                            <input id="evaluar" class="boton colorFondo1 oculto" type="submit" value="Evaluar">
                         </div>
+
                     </form>
+
+                    <div id="botonera">
+                        <button id="anterior" class="boton colorFondo1"><< Anterior</button>
+                        <button id="siguiente" class="boton colorFondo1">Siguiente >></button>
+                    </div>
                 </section>
             </main>
         </div>

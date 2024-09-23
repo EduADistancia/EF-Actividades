@@ -13,7 +13,21 @@ function cargarCuestionario(datos) {
     descripcion.textContent = datos.contenido;
     let cuestionario = document.querySelector('#cuestionario');
 
+    let i = 0;
+
+    let baseContDinamico = document.querySelector('#baseContDinamico');
+
     for (let h of datos.habilidades) {
+        let tarjeta = document.createElement('div');
+        tarjeta.classList = ['tarjetaDinamica'];
+        let contadorTarjeta = document.createElement('p');
+        contadorTarjeta.style.textAlign = 'center';
+        contadorTarjeta.className = 'contadorTarjeta';
+        contadorTarjeta.innerHTML = `${i+1} de ${datos.habilidades.length}`;
+
+        let divContDinamico = document.querySelector('#contenidoDinamico');
+        let divCont = document.createElement('div');
+
         let habili = document.createElement('li');
         let habiliP = document.createElement('p');
         habiliP.innerHTML = h["item"];
@@ -22,12 +36,11 @@ function cargarCuestionario(datos) {
         habili.append(habiliP);
         let ol = document.createElement('ol');
 
+
         for (let preg of h["preguntas"]) {
             let li = document.createElement('li');
             let pPreg = document.createElement('p');
             pPreg.innerHTML = preg["pregunta"];
-            // li.innerHTML = preg["pregunta"];
-            // ol.append(li);
             li.appendChild(pPreg);
 
             let ulPreg = document.createElement('ul');
@@ -50,13 +63,26 @@ function cargarCuestionario(datos) {
                 ulPreg.appendChild(liPreg);
                 li.append(ulPreg);
             }
+
+            
             ol.append(li);
             habili.append(ol)
+            divCont.append(habili);
+            tarjeta.append(divCont);
         }
-        cuestionario.append(habili);
-        // cuestionario.append(habili, ol);
+
+        if (i == 0){
+            tarjeta.classList.add('visible')
+        } else {
+            tarjeta.classList.add('oculto')
+        }
+        i++;
+
+        divContDinamico.append(tarjeta);
+        baseContDinamico.appendChild(divContDinamico);
+        cuestionario.append(baseContDinamico);
     }
-    
+
 }
 
 
