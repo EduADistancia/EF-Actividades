@@ -6,3 +6,4 @@ Vista de actividades:
 
 - [Mapeo de habilidades personales](https://eduadistancia.github.io/EF-Actividades/MapeoHP/)
 - [Modelo de negocio CANVA](https://eduadistancia.github.io/EF-Actividades/CanvasBM/)
+- [Matriz FODA](https://eduadistancia.github.io/EF-Actividades/MatrizFODA/)
