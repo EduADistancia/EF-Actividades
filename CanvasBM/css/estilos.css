@@ -10,11 +10,6 @@
     font-style: normal;
 }
 
-body {
-    display: flex;
-    justify-content: center;
-}
-
 #contenedor {
     position: relative;
     min-height: 100vh;
@@ -49,6 +44,10 @@ body {
 h2, section {
     margin-top: 1rem;
     margin-bottom: 1rem;
+}
+
+#scrollH {
+    width: fit-content;
 }
 
 #botonera {
@@ -109,6 +108,15 @@ h2, section {
     #contenido {
         font-size: x-large;
     }
+
+    body {
+        display: block;
+    }
+
+    #scrollH {
+        width: auto;
+        overflow-x: auto;
+    }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -116,11 +124,25 @@ h2, section {
     #contenido {
         font-size: larger;
     }
+
+    body {
+        display: block;
+    }
+
+    #scrollH {
+        width: auto;
+        overflow-x: auto;
+    }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
     #contenido {
         font-size: large;
+    }
+    
+    body {
+        display: flex;
+        justify-content: center;
     }
 }
