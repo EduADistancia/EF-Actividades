@@ -1,0 +1,227 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cómo calificarías tu conocimiento sobre qué es el emprendedorismo y ser emprendedor?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alto: Tengo una comprensión sólida de los conceptos y las cualidades necesarias para emprender.",
+        "Devolucion": "Aprovecha esta base sólida para profundizar en las estrategias avanzadas y en el análisis de oportunidades en el módulo. Revisa las secciones sobre  Identificación de oportunidades: análisis de mercado y tendencias para mejorar tu capacidad de aplicar estas habilidades en contextos prácticos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderado: Entiendo los conceptos básicos, pero me falta profundizar en algunos aspectos.",
+        "Devolucion": "Enfócate en la sección de 'Introducción al Emprendedorismo'. Esto te ayudará a desarrollar habilidades más avanzadas en identificación de oportunidades y planificación estratégica, mejorando así tu capacidad para emprender con éxito."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Bajo: Conozco poco sobre el emprendedorismo y las características de un emprendedor.",
+        "Devolucion": "Dedica tiempo a las secciones introductorias del módulo, como '¿Qué es el emprendedorismo?' y '¿Qué es ser emprendedor?'. Asegúrate de aprender los fundamentos básicos para construir una base sólida, lo que te permitirá mejorar tus habilidades en identificación de oportunidades y creación de planes de negocio."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nulo: No tengo conocimientos previos sobre el emprendedorismo ni sobre ser emprendedor.",
+        "Devolucion": "Comienza con las secciones básicas del módulo para familiarizarte con los conceptos fundamentales del emprendedorismo. Comprender bien estos conceptos es esencial para desarrollar habilidades en análisis de mercado y formulación de planes de negocios efectivos."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué tan familiarizado/a estás con las herramientas de análisis de oportunidades de negocio (PESTEL, FODA, PORTER)?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Muy familiarizado/a: Utilizo estas herramientas con frecuencia en mi trabajo.",
+        "Devolucion": "Utiliza tu experiencia para aplicar estas herramientas a nuevos escenarios y casos de estudio presentados en el módulo. Profundiza en la sección sobre '¿Cómo aplicar las herramientas de análisis?' para mejorar tu habilidad en la identificación y evaluación de oportunidades y amenazas, optimizando así tus estrategias de emprendedorismo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algo familiarizado/a: Conozco las herramientas y sus aplicaciones generales.",
+        "Devolucion": "Revisa en detalle la sección sobre cada herramienta (PESTEL, FODA, PORTER) para mejorar tu comprensión y aplicación práctica. Practicar con los ejemplos y casos del módulo te ayudará a fortalecer tus habilidades en el análisis estratégico de oportunidades."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Poco familiarizado/a: He oído hablar de estas herramientas, pero no sé cómo aplicarlas.",
+        "Devolucion": "Enfócate en las explicaciones y ejemplos de cada herramienta en el módulo para aprender su uso práctico. La sección de '¿Cómo aplicar las herramientas de análisis?' te permitirá mejorar tu capacidad de aplicar estas herramientas en situaciones reales."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No estoy familiarizado/a: No conozco estas herramientas ni su propósito.",
+        "Devolucion": "Comienza con las secciones básicas sobre herramientas de análisis como PESTEL, FODA y PORTER. Asegúrate de entender los conceptos fundamentales y cómo aplicarlos para desarrollar habilidades efectivas en la identificación y gestión de oportunidades de negocio."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué nivel de conocimiento tenes sobre la importancia de la visión en un emprendimiento?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alto: Tengo una comprensión clara sobre cómo desarrollar una visión inspiradora para mi emprendimiento.",
+        "Devolucion": "Utiliza esta comprensión para refinar la proyección a largo plazo de tu negocio. Revisa la sección \"Visión, misión y valores\" para mejorar tu habilidad de articular una visión que guíe estratégicamente el crecimiento de tu emprendimiento."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderado: Entiendo los conceptos básicos de la visión, pero me falta profundizar en algunos aspectos.",
+        "Devolucion": "Enfócate en mejorar tu capacidad de visualizar los objetivos a largo plazo de tu negocio, revisando las preguntas sobre la visión. Esto te permitirá definir mejor el impacto que quieres generar en el mercado y en los clientes."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Bajo: Conozco poco sobre cómo desarrollar una visión clara y estratégica.",
+        "Devolucion": "Dedica tiempo a estudiar la sección sobre  \"Visión, misión y valores\" Esto te ayudará a proyectar una imagen clara de lo que deseas lograr con tu emprendimiento en los próximos años."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nulo: No tengo conocimientos previos sobre la importancia de la visión en un emprendimiento.",
+        "Devolucion": "Comienza con los conceptos básicos sobre  \"Visión, misión y valores\" para aprender a desarrollar una visión inspiradora que guíe el rumbo estratégico de tu negocio."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál es tu experiencia en la identificación y gestión de riesgos en emprendimientos?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Amplia: Tengo experiencia en identificar y gestionar diferentes tipos de riesgos en proyectos.",
+        "Devolucion": "Revisa las secciones sobre 'Tipos de Riesgos' y '¿Cómo gestionar el Riesgo?' para aplicar tu experiencia en nuevos contextos y casos prácticos del módulo. Perfecciona tus habilidades en la gestión de riesgos para mejorar tu capacidad de anticipar y mitigar posibles problemas en emprendimientos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderada: He gestionado algunos riesgos, pero no en todos los aspectos del emprendimiento.",
+        "Devolucion": "Estudia la sección de '¿Qué es el riesgo?' para fortalecer tu comprensión y habilidades en la gestión de riesgos. Utiliza los casos prácticos para mejorar tu capacidad de identificar y manejar riesgos de manera más efectiva."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Limitada: Conozco los conceptos básicos, pero no tengo mucha experiencia práctica.",
+        "Devolucion": "Dedica tiempo a la sección sobre '¿Qué es el riesgo?' y '¿Cómo gestionar el Riesgo?' para construir una base sólida en la gestión de riesgos.Realiza ejercicios prácticos para reforzar tus habilidades y mejorar tu capacidad de identificar y manejar riesgos en emprendimientos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nula: No he trabajado en la identificación o gestión de riesgos en un entorno de emprendimiento.",
+        "Devolucion": "Comienza desde los conceptos básicos en '¿Qué es el riesgo?' y la introducción a la gestión de riesgos. Familiarízate con los tipos de riesgos y su gestión a través de ejemplos y prácticas guiadas para desarrollar tus habilidades en esta área."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál es tu nivel de experiencia en la elaboración y desarrollo de un plan de negocios?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alto: He creado y presentado planes de negocio en diferentes contextos.",
+        "Devolucion": "Aplica tus conocimientos avanzados revisando la sección del 'Modelo Canvas' y mejorando tus planes con nuevas técnicas del módulo. Utiliza tu experiencia para desarrollar habilidades más complejas en la formulación y presentación de planes de negocios."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderado: He trabajado en algunos planes de negocio con apoyo.",
+        "Devolucion": "Revisa la sección sobre 'Elaboración del Plan de Negocios' y el 'Modelo Canvas' para consolidar tu comprensión y aplicar tus conocimientos en la práctica. Realiza ejercicios para mejorar tus habilidades en la estructuración y desarrollo de planes de negocios."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Básico: He visto ejemplos de planes de negocio, pero no he creado uno por mí mismo/a.",
+        "Devolucion": "Dedica tiempo a entender la estructura y los elementos clave de un plan de negocio en el módulo. La práctica con el Modelo Canvas te ayudará a aprender a organizar y desarrollar planes de negocios efectivos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nulo: No he tenido experiencia en la elaboración de planes de negocio.",
+        "Devolucion": "Comienza con la introducción básica sobre '¿Qué es un Plan de Negocio?' y el Modelo Canvas. Asegúrate de entender los componentes fundamentales y realiza ejercicios prácticos para aprender a crear y desarrollar planes de negocios."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cómo calificas tu conocimiento sobre estrategias de marketing digital y tradicional?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Extenso: Tengo un sólido entendimiento y experiencia en ambas estrategias.",
+        "Devolucion": "Utiliza tu conocimiento para explorar nuevas estrategias en la sección del módulo sobre '¿Qué estrategia de marketing es la mejor para tu emprendimiento?'. Perfecciona tus habilidades aplicando técnicas avanzadas en casos prácticos para optimizar tus campañas de marketing."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Bueno: Conozco las estrategias y sus aplicaciones generales, pero me falta práctica.",
+        "Devolucion": "Profundiza en las secciones sobre '¿Marketing Digital o Tradicional?' para mejorar tu capacidad de implementar estrategias efectivas. Practica con actividades del módulo para fortalecer tus habilidades en la ejecución de campañas de marketing."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Básico: Entiendo algunos conceptos, pero me falta experiencia en la aplicación.",
+        "Devolucion": "Profundiza en las secciones sobre '¿Marketing Digital o Tradicional?'para construir una comprensión más completa. Realiza ejercicios prácticos para mejorar tu capacidad de aplicar estas estrategias en situaciones reales."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Mínimo: Mi conocimiento sobre marketing es muy limitado.",
+        "Devolucion": "Enfócate en aprender los conceptos fundamentales de marketing digital y tradicional en el módulo. Realiza prácticas guiadas para desarrollar tus habilidades en la planificación y ejecución de estrategias de marketing."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cómo calificarías tu conocimiento sobre el desarrollo de la misión de un emprendimiento?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alto: Tengo una comprensión sólida sobre cómo definir la misión de mi emprendimiento.",
+        "Devolucion": "Aprovecha esta base para profundizar en la alineación de tu misión con las necesidades del mercado. Revisa las secciones sobre \"Visión, misión y valores\" para mejorar tu capacidad de comunicar claramente el propósito de tu negocio y cómo contribuye al sector."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderado: Entiendo los conceptos básicos, pero me falta profundizar en algunos aspectos.",
+        "Devolucion": "Enfócate en la sección sobre \"Visión, misión y valores\". Esto te ayudará a identificar mejor el propósito de tu emprendimiento y las características que lo diferencian, fortaleciendo su impacto en el mercado."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Bajo: Conozco poco sobre cómo desarrollar la misión de un emprendimiento.",
+        "Devolucion": "Dedica tiempo a las secciones introductorias del módulo sobre \"Visión, misión y valores\". Desarrollar una misión clara es esencial para guiar el enfoque estratégico de tu negocio."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nulo: No tengo conocimientos previos sobre el desarrollo de la misión de un emprendimiento.",
+        "Devolucion": "Comienza con los conceptos básicos sobre \"Visión, misión y valores\" para familiarizarte con su propósito y función. Esto te permitirá crear una base sólida para definir el propósito de tu emprendimiento."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál es tu nivel de familiaridad con las fuentes de financiamiento para emprendimientos?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alto: Conozco varias fuentes y cómo acceder a ellas",
+        "Devolucion": "Explora nuevas fuentes y oportunidades en la sección del módulo sobre 'Fuentes de financiamiento para emprendimientos'. Aprovecha tu experiencia para mejorar tu habilidad en la identificación y evaluación de opciones de financiamiento, aplicando técnicas avanzadas."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderado: Tengo una idea general de algunas fuentes, pero me gustaría conocer más.",
+        "Devolucion": "Revisa las secciones sobre 'Fuentes de financiamiento para emprendimientos' para obtener una comprensión más profunda. Realiza actividades prácticas para mejorar tu capacidad de identificar y evaluar diversas fuentes de financiamiento."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Básico: He oído hablar de algunas fuentes, pero no estoy seguro/a de cómo funcionan.",
+        "Devolucion": "Dedica tiempo a estudiar las secciones básicas sobre 'Fuentes de financiamiento para emprendimientos' para entender su funcionamiento. Practica con ejemplos del módulo para mejorar tu capacidad de aplicar esta información en situaciones reales."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nulo: No tengo conocimiento sobre las fuentes de financiamiento para emprendedores.",
+        "Devolucion": "Comienza con las secciones introductorias sobre'Fuentes de financiamiento para emprendimientos''. Familiarízate con las opciones disponibles y realiza ejercicios prácticos para desarrollar habilidades en la identificación y uso de fuentes de financiamiento."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué tan familiarizado/a estás con el proceso de creación y ejecución de estrategias de marketing para emprendedores?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Muy familiarizado/a: Tengo experiencia creando y ejecutando estrategias de marketing efectivas.",
+        "Devolucion": "Aprovecha tu experiencia para analizar nuevas estrategias y aplicar las mejores prácticas en los casos de estudio del módulo. Explora las secciones avanzadas sobre '¿Qué estrategia de marketing es la mejor para tu emprendimiento?' para mejorar tu habilidad en la planificación y ejecución de campañas más complejas, desafíate con ejercicios que requieran un análisis más profundo y creativo de diferentes escenarios."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algo familiarizado/a: He trabajado en estrategias de marketing, pero con soporte o guía.",
+        "Devolucion": "Revisa las secciones sobre '¿Qué estrategia de marketing es la mejor para tu emprendimiento?' para mejorar tu capacidad de desarrollar y ejecutar estrategias de manera autónoma. Practicar con las actividades propuestas te ayudará a reforzar tus habilidades en la toma de decisiones estratégicas y en la implementación efectiva de tácticas de marketing."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Poco familiarizado/a: Entiendo algunos conceptos básicos, pero no he desarrollado estrategias completas.",
+        "Devolucion": "Dedica tiempo a estudiar la sección sobre '¿Qué estrategia de marketing es la mejor para tu emprendimiento?' y realiza actividades prácticas para fortalecer tu conocimiento. A medida que avances, también mejorarás tu capacidad para organizar ideas y crear estrategias coherentes que impulsen tu emprendimiento."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No familiarizado/a: No tengo experiencia en la creación o ejecución de estrategias de marketing.",
+        "Devolucion": "Comienza con los conceptos básicos de '¿Qué estrategia de marketing es la mejor para tu emprendimiento?' y realiza ejercicios prácticos para construir una base sólida. Para aprender a organizar y aplicar estos conocimientos de manera efectiva, practica con los ejemplos y casos del módulo que te guiarán en el proceso de desarrollo de estrategias iniciales."
+    }
+]
