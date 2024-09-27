@@ -1,42 +1,32 @@
 #fortalezas {
-    background-color: #68D1BF;
+    background-color: #153244;
+    color: #ffffff;
     border-radius: 50px 15px;
-}
-
-#fortalezas > div > textarea {
-    background-color: #A0F7E8;
 }
 
 #oportunidades {
-    background-color: #F2C14B;
+    background-color: #153244;
+    color: #ffffff;
     border-radius: 15px 50px;
 }
 
-#oportunidades > div > textarea {
-    background-color: #FFE19B;
-}
 
 #debilidades {
-    background-color: #EFA8B0;
+    background-color: #153244;
+    color: #ffffff;
     border-radius: 15px 50px;
-}
-
-#debilidades > div > textarea {
-    background-color: #FFD9DD;
 }
 
 #amenazas {
-    background-color: #B686F5;
+    background-color: #153244;
+    color: #ffffff;
     border-radius: 50px 15px;
 }
 
-#amenazas > div > textarea {
-    background-color: #D3B1FF;
-}
-
 textarea {
+    background-color: rgb(241, 241, 241);
     resize: none;
-    font-size: large;
+    font-size: larger;
 }
 
 td {
@@ -78,4 +68,12 @@ div > p {
 
 .derecha.abajo, .izquierda.arriba {
     border-radius: 15px 50px;
+}
+
+.visible {
+    display: inherit;
+}
+
+.oculto {
+    display: none;
 }
