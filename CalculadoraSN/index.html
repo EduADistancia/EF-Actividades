@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Area Educación a Distacia - Min. de Educación GCABA">
+    <meta name="description" content="Material didáctico adicional.">
+    <link rel="stylesheet" href="./css/estilos.css">
+    <link rel="stylesheet" href="./css/calculadora.css">
+    <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.5/dist/html2canvas.min.js"></script>
+    <title>EF - Actividad</title>
+</head>
+<body id="captura" class="colorFondo2">
+    <div id="contenedor" class="colorFondo4">
+        
+        <!-- Membrete superior -->
+        <div id="membsup">
+            <img class="membrete" src="./img/membreteHeader.jpg" alt="Membrete Ministerio de Educación GCABA">
+        </div>
+
+        <!-- Contenido del documento -->
+        <div id="contenido" class="colorTexto2">
+            <header>
+                <div class="divHeader">
+                    <h1>Educación Financiera</h1>
+                    <img src="./img/contabilidad.png" alt="Imagen calculadora" class="imgCabecera">
+                </div>
+            </header>
+            <main>
+                <section>
+                    <h2>Calculadora de Sueldo Neto</h2>
+                    <div class="container">
+                        <label for="sueldo-bruto">Sueldo Bruto ($):</label>
+                        <input type="number" id="sueldo-bruto" placeholder="Ej. 600000">
+                        
+                        <label for="aporte-sindicato">Porcentaje de aportes al sindicato (%):</label>
+                        <input type="number" id="aporte-sindicato" placeholder="Ej. 3">
+    
+                        <button id="calcularSueldo">Calcular Sueldo Neto</button>
+    
+                        <div class="warning" id="advertencia">
+                            <p><strong>INFORMACIÓN A CONSIDERAR:</strong> Su sueldo podría estar alcanzado por el impuesto a las ganancias, por lo que este sueldo neto no es el que correspondería. Para más información, por favor visita el <a href="#" style="color: #721c24; text-decoration: underline;">apartado de Impuesto a las Ganancias del Módulo 2</a>.</p>
+                        </div>
+    
+                        <div class="result" id="resultado">
+                            <p><strong>Sueldo Bruto Mensual:</strong> $<span id="res-sueldo-bruto"></span></p>
+                            <p><strong>Aporte Jubilación (11%):</strong> $<span id="res-jubilacion"></span></p>
+                            <p><strong>Aporte INSSJP (PAMI) (3%):</strong> $<span id="res-pami"></span></p>
+                            <p><strong>Obra Social (3%):</strong> $<span id="res-obra-social"></span></p>
+                            <p><strong>Sindicato:</strong> $<span id="res-sindicato"></span></p>
+                            <hr>
+                            <p class="highlight"><strong>Sueldo Neto Mensual (Estimado):</strong> $<span id="res-sueldo-neto"></span></p>
+                        </div>
+                    </div>
+                </section>
+            </main>
+            <div id="botonera">
+                <button type="button" id="descarga" class="boton colorFondo1">Descargar resultados</button>
+            </div>
+        </div>
+    </div>
+    <script src="./js/main.js" type="module"></script>
+</body>
+</html>

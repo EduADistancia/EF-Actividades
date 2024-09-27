@@ -8,3 +8,4 @@ Vista de actividades:
 - [Modelo de negocio CANVA](https://eduadistancia.github.io/EF-Actividades/CanvasBM/)
 - [Matriz FODA](https://eduadistancia.github.io/EF-Actividades/MatrizFODA/)
 - [Punto de Partida - Emprendedorismo](https://eduadistancia.github.io/EF-Actividades/PuntoDePartida/)
+- [Calculadora de Sueldo Neto](https://eduadistancia.github.io/EF-Actividades/CalculadorSN/)
