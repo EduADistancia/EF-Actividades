@@ -24,6 +24,7 @@ function calcular(){
 
     let options = {
         chart: {
+            width: "100%",
             height: 500,
             type: 'radar'
         },
@@ -38,7 +39,7 @@ function calcular(){
         },
         plotOptions: {
             radar: {
-                size: 250,
+                size: 230,
                 offsetX: 0,
                 offsetY: 50,
                 polygons: {

@@ -26,7 +26,6 @@ function cargarCuestionario(datos) {
         contadorTarjeta.innerHTML = `${i+1} de ${datos.habilidades.length}`;
 
         let divContDinamico = document.querySelector('#contenidoDinamico');
-        let divCont = document.createElement('div');
 
         let habili = document.createElement('li');
         let habiliP = document.createElement('p');
@@ -41,10 +40,12 @@ function cargarCuestionario(datos) {
             let li = document.createElement('li');
             let pPreg = document.createElement('p');
             pPreg.innerHTML = preg["pregunta"];
-            li.appendChild(pPreg);
-
+            
+            let divPregRta = document.createElement('div');
+            divPregRta.className = 'marco';
             let ulPreg = document.createElement('ul');
-
+            divPregRta.appendChild(pPreg);
+            
             for (let r of Object.keys(preg["rtas"])) {
                 let liPreg = document.createElement('li');
                 let div = document.createElement('div');
@@ -58,17 +59,16 @@ function cargarCuestionario(datos) {
                 etiqueta.innerHTML = preg["rtas"][r];
                 etiqueta.setAttribute('for', preg["rtas"][r]);
                 div.append(chBox, etiqueta);
-                // ol.append(div);
                 liPreg.appendChild(div);
                 ulPreg.appendChild(liPreg);
-                li.append(ulPreg);
+                divPregRta.append(ulPreg);
+                li.appendChild(divPregRta);
             }
 
             
             ol.append(li);
             habili.append(ol)
-            divCont.append(habili);
-            tarjeta.append(divCont);
+            tarjeta.append(habili,contadorTarjeta );
         }
 
         if (i == 0){
