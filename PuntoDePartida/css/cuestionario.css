@@ -26,6 +26,7 @@ input {
     margin: 0.5rem 1rem;
 }
 
+<<<<<<< HEAD
 .seleccionado {
     background-color: #ffcc008a;
     padding: 0.25rem 2rem;
@@ -34,10 +35,23 @@ input {
 }
 
 p.marco {
+=======
+div.marco > p {
+>>>>>>> gammaiframe
     font-size: larger;
     margin: 1rem 0.5rem;
     padding: 0.75rem ;
     background-color: #153244;
     color: white;
     border-radius: 10px;
+<<<<<<< HEAD
+=======
+}
+
+.seleccionado {
+    background-color: #ffcc008a;
+    padding: 0.25rem 0;
+    border: 1px solid #153244;
+    border-radius: 5px;
+>>>>>>> gammaiframe
 }
