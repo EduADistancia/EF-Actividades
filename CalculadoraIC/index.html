@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Area Educación a Distacia - Min. de Educación GCABA">
+    <meta name="description" content="Material didáctico adicional.">
+    <link rel="stylesheet" href="./css/estilos.css">
+    <link rel="stylesheet" href="./css/calculadora.css">
+    <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.5/dist/html2canvas.min.js"></script>
+    <title>EF - Actividad</title>
+</head>
+<body id="captura" class="colorFondo2">
+    <div id="contenedor" class="colorFondo4">
+        
+        <!-- Membrete superior -->
+        <div id="membsup">
+            <img class="membrete" src="./img/membreteHeader.jpg" alt="Membrete Ministerio de Educación GCABA">
+        </div>
+
+        <!-- Contenido del documento -->
+        <div id="contenido" class="colorTexto2">
+            <header>
+                <div class="divHeader">
+                    <h1>Educación Financiera</h1>
+                    <img src="./img/contabilidad.png" alt="Imagen calculadora" class="imgCabecera">
+                </div>
+            </header>
+            <main>
+                <section>
+                    <h2>Calculadora de Interés Compuesto</h2>
+                    <div class="container">
+                        <form id="interest-form">
+                            <label for="principal">Monto inicial ($):</label>
+                            <input type="number" id="principal" name="principal" step="0.01" required>
+                    
+                            <label for="rate">Tasa de interés anual (%):</label>
+                            <input type="number" id="rate" name="rate" step="0.01" required>
+                    
+                            <label for="years">Número de años:</label>
+                            <input type="number" id="years" name="years" step="1" required>
+                    
+                            <label for="compoundings">Número de capitalizaciones por año:</label>
+                            <input type="number" id="compoundings" name="compoundings" step="1" required>
+                    
+                            <button type="button" id="calcularIC">Calcular</button>
+                        </form>
+                    
+                        <h2>Resultados</h2>
+                        <div class="result-summary">
+                            <p id="summary-text"></p>
+                            <p>La tabla a continuación muestra una estimación de cómo crecerá su inversión inicial a lo largo del tiempo, considerando la tasa de interés anual y el cronograma de capitalización especificado.</p>
+                        </div>
+                        
+                        <div class="auxTabla">
+                            <table id="results-table">
+                                <thead>
+                                    <tr>
+                                        <th>Mes</th>
+                                        <th>Valor final ($)</th>
+                                    </tr>
+                                </thead>
+                                <tbody></tbody>
+                            </table>
+                        </div>
+                    
+                        <div id="chart-container">
+                            <p>El gráfico proporciona una visualización de la evolución del capital mes a mes. Recuerde que ajustes menores en cualquiera de estas variables pueden afectar los resultados. Experimente con diferentes valores para ver cómo cambian los resultados.</p>
+                            <!-- <canvas id="interest-chart"></canvas> -->
+                        </div>
+                    </div>
+                </section>
+            </main>
+            <div id="botonera">
+                <button type="button" id="descarga" class="boton colorFondo1">Descargar resultados</button>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="./js/main.js" type="module"></script>
+</body>
+</html>
