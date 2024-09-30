@@ -9,3 +9,4 @@ Vista de actividades:
 - [Matriz FODA](https://eduadistancia.github.io/EF-Actividades/MatrizFODA/)
 - [Punto de Partida - Emprendedorismo](https://eduadistancia.github.io/EF-Actividades/PuntoDePartida/)
 - [Calculadora de Sueldo Neto](https://eduadistancia.github.io/EF-Actividades/CalculadoraSN/)
+- [Calculadora de Interés Compuesto](https://eduadistancia.github.io/EF-Actividades/CalculadoraIC/)
