@@ -14,7 +14,7 @@ let descargar = function (fragmento) {
 
         const link = document.createElement('a');
         link.href = dataURL;
-        link.download = `partidaEF${fecha}.png`;
+        link.download = `puntoDePartidaEF${fecha}.png`;
         
         // Trigger a click event on the anchor to start the download
         link.click();

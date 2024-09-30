@@ -6,23 +6,11 @@ function mostrarRtaInmediata() {
         let idInput = op.id;
         op.addEventListener('change', function() {
             let devolucion = document.querySelector(`p[name=${idInput}]`);
+            let devoluciones = devolucion.parentElement;
+            devoluciones.childNodes.forEach(d => d.classList.remove('visible'));
+            devoluciones.childNodes.forEach(d => d.classList.add('oculto'));
             devolucion.classList.remove('oculto');
             devolucion.classList.add('visible');
-
-            if (devolucion.nextElementSibling !== null){
-                if (devolucion.nextElementSibling.classList.contains('visible')) {
-                    devolucion.nextElementSibling.classList.remove('visible');
-                    devolucion.nextElementSibling.classList.add('oculto');
-                }
-            }
-            
-            if (devolucion.previousElementSibling !== null) {
-                if (devolucion.previousElementSibling.classList.contains('visible')) {
-                    devolucion.previousElementSibling.classList.remove('visible');
-                    devolucion.previousElementSibling.classList.add('oculto');
-    
-                }
-            }
         });
     });
 }
