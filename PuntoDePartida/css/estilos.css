@@ -63,6 +63,13 @@ h2, section {
     margin-bottom: 1rem;
 }
 
+iframe {
+    width: 1080px; 
+    max-width: 100%; 
+    height: 600px;
+} 
+    
+
 #botonera {
     padding: 5%;
     display: flex;
