@@ -1,0 +1,182 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "El trabajador tiene derecho a recibir su sueldo, aguinaldo y otros pagos puntualmente.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "Uno de los derechos del trabajador es cobrar a tiempo, incluyendo sueldos, aguinaldos y otros pagos acordados.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "Uno de los derechos del trabajador es cobrar a tiempo, incluyendo sueldos, aguinaldos y otros pagos acordados.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "El trabajador puede delegar su trabajo a otros si no puede hacerlo personalmente.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "El trabajador tiene la obligación de prestar servicios personalmente, sin delegar su trabajo a terceros.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "El trabajador tiene la obligación de prestar servicios personalmente, sin delegar su trabajo a terceros.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "El trabajador debe seguir las órdenes del empleador, incluso si estas le generan algún perjuicio moral o están por fuera de la ley.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "El trabajador solo está obligado a seguir instrucciones razonables y legales del empleador.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "El trabajador solo está obligado a seguir instrucciones razonables y legales del empleador.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "El trabajador tiene derecho a un ambiente de trabajo seguro y a exigir el  equipo necesario para prevenir accidentes.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "El derecho a un trabajo seguro y condiciones dignas es fundamental para el bienestar del trabajador.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "El derecho a un trabajo seguro y condiciones dignas es fundamental para el bienestar del trabajador.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "El trabajador no está obligado a cuidar las herramientas y equipos que le proporciona el empleador.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "El trabajador debe mantener en buen estado las herramientas y equipos que le proporciona el empleador.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "El trabajador debe mantener en buen estado las herramientas y equipos que le proporciona el empleador.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "El empleador puede cambiar las condiciones de trabajo siempre que no perjudiquen al trabajador económica o moralmente.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "El empleador tiene el derecho de modificar las condiciones de trabajo siempre que esto no cause perjuicio al trabajador.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "El empleador tiene el derecho de modificar las condiciones de trabajo siempre que esto no cause perjuicio al trabajador.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "El trabajador tiene la obligación de actuar de buena fe y colaborar con su empleador y compañeros.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "El trabajador debe cumplir con su trabajo y colaborar con el empleador y compañeros de manera honesta.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "El trabajador debe cumplir con su trabajo y colaborar con el empleador y compañeros de manera honesta.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "El empleador, al finalizar la relación laboral, no debe entregar ninguna certificación ni documentación al trabajador.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "El trabajador tiene derecho a recibir certificados de trabajo y de los pagos recibidos al finalizar una relación laboral.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "El trabajador tiene derecho a recibir certificados de trabajo y de los pagos recibidos al finalizar una relación laboral.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "El empleador puede imponer sanciones si un trabajador no cumple con las normas de conducta.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "El empleador tiene el derecho de aplicar sanciones por incumplimiento de las reglas de la empresa.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "El empleador tiene el derecho de aplicar sanciones por incumplimiento de las reglas de la empresa.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "El trabajador puede usar el tiempo de trabajo para realizar negocios personales.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "El trabajador no puede usar su tiempo o recursos de la empresa para realizar negocios personales.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "El trabajador no puede usar su tiempo o recursos de la empresa para realizar negocios personales.",
+        "Estado": 1
+    }
+]
