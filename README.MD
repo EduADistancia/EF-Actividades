@@ -7,6 +7,7 @@ Vista de actividades:
 ### Módulo 2
 - [Actividad 1 - Cuestionario Verdadero o Falso](https://eduadistancia.github.io/EF-Actividades/Mod2-Act1/)
 - [Actividad 5 - Cuestionario Opción Múltiple](https://eduadistancia.github.io/EF-Actividades/Mod2-Act5/)
+- [Actividad 9 - Cálculo de salario neto](https://eduadistancia.github.io/EF-Actividades/Mod2-Act9/)
 - [Calculadora de Sueldo Neto](https://eduadistancia.github.io/EF-Actividades/CalculadoraSN/)
 
 ### Módulo 3

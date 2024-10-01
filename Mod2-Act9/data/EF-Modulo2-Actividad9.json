@@ -1,0 +1,26 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Selecciona el valor neto correcto:",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "$487.200",
+        "Devolucion": "Esta opción es incorrecta porque no se han aplicado debidamente los descuentos de los aportes correspondientes al salario bruto de $600.000. Para calcular el salario neto, debés restar todos los aportes (jubilación, obra social y ) PAMI, el fondo nacional de empleo, seguro de vida y ART son contribuciones a cargo del empleador. Verificá los porcentajes y asegúrate de sumar todos los descuentos correctamente.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "$489.200",
+        "Devolucion": "Esta opción es incorrecta porque no se han aplicado debidamente los descuentos de los aportes correspondientes al salario bruto de $600.000. Para calcular el salario neto, debes restar todos los aportes (jubilación, obra social y ) PAMI, el fondo nacional de empleo, seguro de vida y ART son contribuciones a cargo del empleador. Verificá los porcentajes y asegurate de sumar todos los descuentos.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "$498.000",
+        "Devolucion": "¡Correcto! Esta opción es la correcta porque has aplicado todos los descuentos de los aportes sobre el salario bruto de $600.000. Al restar los porcentajes correspondientes para jubilación, PAMI y obra social, obtenés un salario neto de $498.000. Este resultado refleja adecuadamente cómo se desglosa el salario en función de los aportes. ¡Bien hecho!",
+        "Estado": 1
+    }
+]
