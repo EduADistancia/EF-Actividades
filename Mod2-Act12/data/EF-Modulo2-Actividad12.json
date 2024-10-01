@@ -1,0 +1,182 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué sucede si un empleador no especifica el motivo del despido en el telegrama?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El despido se considera con causa y no corresponde indemnización",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El despido se considera sin causa y el trabajador tiene derecho a una indemnización",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El trabajador no puede responder al telegrama",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El despido no es válido y el trabajador sigue en su puesto",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué debe hacer un trabajador si recibe un despido verbal?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Dejar de asistir al trabajo inmediatamente",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Ignorar el despido verbal y buscar otro empleo",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Enviar un telegrama gratuito solicitando que se aclare la situación laboral por escrito",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No hacer nada hasta recibir una indemnización",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Está permitido que una obra social exija un examen médico antes de la afiliación?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, es obligatorio",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Solo si el trabajador lo solicita",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No, está prohibido exigir un examen médico para la afiliación",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Depende de la situación laboral",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Por cuánto tiempo se puede seguir utilizando la obra obra social luego de que termina una relación laboral?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Inmediatamente pierde el derecho",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Por 1 mes más",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Por 3 meses más",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Por 6 meses más",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué porcentaje del sueldo aporta el trabajador para su obra social?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "1%",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "3%",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "5%",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "7%",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué cubren las Aseguradoras de Riesgos del Trabajo (ART)?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Solo los accidentes laborales",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Accidentes laborales y enfermedades relacionadas con el trabajo",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Enfermedades comunes",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Solo enfermedades ocupacionales",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    }
+]

@@ -1,5 +1,6 @@
 // Botón de captura y descarga
 let descargar = function (fragmento) {
+    document.querySelector('#reintentar').classList.add('oculto');
     document.querySelector('#descarga').classList.add('oculto');
     html2canvas(document.querySelector(fragmento))
         .then(function(canvas) {
@@ -14,11 +15,12 @@ let descargar = function (fragmento) {
         // Create an anchor element
         const link = document.createElement('a');
         link.href = dataURL;
-        link.download = `calculoSalarioNetoEF${fecha}.png`;
+        link.download = `cuestionarioEF${fecha}.png`;
         
         // Trigger a click event on the anchor to start the download
         link.click();
         });
+    document.querySelector('#reintentar').classList.remove('oculto');
     document.querySelector('#descarga').classList.remove('oculto');
 };
 

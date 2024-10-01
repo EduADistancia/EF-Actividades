@@ -9,6 +9,7 @@ Vista de actividades:
 - [Actividad 5 - Cuestionario Opción Múltiple](https://eduadistancia.github.io/EF-Actividades/Mod2-Act5/)
 - [Actividad 9 - Cálculo de salario neto](https://eduadistancia.github.io/EF-Actividades/Mod2-Act9/)
 - [Calculadora de Sueldo Neto](https://eduadistancia.github.io/EF-Actividades/CalculadoraSN/)
+- [Actividad 12 - Cuestionario](https://eduadistancia.github.io/EF-Actividades/Mod2-Act12/)
 
 ### Módulo 3
 - [Punto de Partida - Emprendedorismo](https://eduadistancia.github.io/EF-Actividades/PuntoDePartida/)
