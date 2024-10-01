@@ -18,13 +18,6 @@ li {
     list-style-type: none;
 }
 
-ul {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    padding-left: 0;
-}
-
 input {
     margin: 0.5rem 1rem;
 }
@@ -57,9 +50,9 @@ ul + div {
 }
 
 .marcoOK {
-    border: 4px solid greenyellow;
+    border: 5px solid greenyellow;
 }
 
 .marcoNoOk {
-    border: 4px solid yellow;
+    border: 5px solid yellow;
 }

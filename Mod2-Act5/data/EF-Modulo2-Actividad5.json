@@ -1,0 +1,182 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál es el máximo de horas diarias permitidas en una jornada laboral regular en Argentina?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "6 horas diarias",
+        "Devolucion": "La normativa establece que la jornada laboral regular no debe exceder las 8 horas diarias.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "8 horas diarias",
+        "Devolucion": "La normativa establece que la jornada laboral regular no debe exceder las 8 horas diarias.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "9 horas diarias",
+        "Devolucion": "La normativa establece que la jornada laboral regular no debe exceder las 8 horas diarias.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "10 horas diarias",
+        "Devolucion": "La normativa establece que la jornada laboral regular no debe exceder las 8 horas diarias.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál es el límite de horas semanales que puede trabajar un empleado en una jornada regular diurna?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "36 horas semanales",
+        "Devolucion": "La ley fija un máximo de 48 horas semanales para la jornada laboral regular.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "42 horas semanales",
+        "Devolucion": "La ley fija un máximo de 48 horas semanales para la jornada laboral regular.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "48 horas semanales",
+        "Devolucion": "La ley fija un máximo de 48 horas semanales para la jornada laboral regular.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "56 horas semanales",
+        "Devolucion": "La ley fija un máximo de 48 horas semanales para la jornada laboral regular.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué sucede si un empleado trabaja en una jornada mixta (parte diurna y parte nocturna)?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Cada hora trabajada entre las 21:00 y las 06:00 se contabiliza como 1 hora y 8 minutos",
+        "Devolucion": "En jornadas mixtas, las horas nocturnas se contabilizan con un incremento de 1 hora y 8 minutos cada una.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No hay diferencias entre las horas diurnas y nocturnas",
+        "Devolucion": "En jornadas mixtas, las horas nocturnas se contabilizan con un incremento de 1 hora y 8 minutos cada una.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Las horas nocturnas se contabilizan como 1 hora exacta",
+        "Devolucion": "En jornadas mixtas, las horas nocturnas se contabilizan con un incremento de 1 hora y 8 minutos cada una.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Las horas nocturnas se contabilizan como 1 hora y 30 minutos",
+        "Devolucion": "En jornadas mixtas, las horas nocturnas se contabilizan con un incremento de 1 hora y 8 minutos cada una.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuántas horas puede trabajar un empleado en un entorno insalubre o peligroso para la salud?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "7 horas diarias o 42 horas semanales",
+        "Devolucion": "El trabajo en ambientes insalubres está limitado a un máximo de 6 horas diarias o 36 horas semanales para proteger la salud del trabajador.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "8 horas diarias o 48 horas semanales",
+        "Devolucion": "El trabajo en ambientes insalubres está limitado a un máximo de 6 horas diarias o 36 horas semanales para proteger la salud del trabajador.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "6 horas diarias o 36 horas semanales",
+        "Devolucion": "El trabajo en ambientes insalubres está limitado a un máximo de 6 horas diarias o 36 horas semanales para proteger la salud del trabajador.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "9 horas diarias o 45 horas semanales",
+        "Devolucion": "El trabajo en ambientes insalubres está limitado a un máximo de 6 horas diarias o 36 horas semanales para proteger la salud del trabajador.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuántas horas extra se permiten por día y cuántas en total por mes?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "3 horas extra por día y hasta 30 horas al mes",
+        "Devolucion": "La normativa permite hasta 3 horas extra diarias y un máximo de 30 horas extra mensuales.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "5 horas extra por día y hasta 50 horas al mes",
+        "Devolucion": "La normativa permite hasta 3 horas extra diarias y un máximo de 30 horas extra mensuales.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No hay límite para las horas extra diarias, pero no más de 20 horas mensuales",
+        "Devolucion": "La normativa permite hasta 3 horas extra diarias y un máximo de 30 horas extra mensuales.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "2 horas extra por día y hasta 20 horas al mes",
+        "Devolucion": "La normativa permite hasta 3 horas extra diarias y un máximo de 30 horas extra mensuales.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Si un empleado trabaja horas extra en un feriado o domingo, ¿cómo debe ser remunerado?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con un incremento del 50% sobre el salario habitual",
+        "Devolucion": "Si un empleado trabaja horas extra en feriados, sábados después de las 13:00 o domingos, el pago debe incrementarse al 100% sobre el salario habitual.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con un incremento del 100% sobre el salario habitual",
+        "Devolucion": "Si un empleado trabaja horas extra en feriados, sábados después de las 13:00 o domingos, el pago debe incrementarse al 100% sobre el salario habitual.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con el mismo salario habitual, sin incremento",
+        "Devolucion": "Si un empleado trabaja horas extra en feriados, sábados después de las 13:00 o domingos, el pago debe incrementarse al 100% sobre el salario habitual.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con un bono adicional no especificado",
+        "Devolucion": "Si un empleado trabaja horas extra en feriados, sábados después de las 13:00 o domingos, el pago debe incrementarse al 100% sobre el salario habitual.",
+        "Estado": 0
+    }
+]
