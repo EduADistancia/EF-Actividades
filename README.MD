@@ -6,8 +6,12 @@ Vista de actividades:
 
 ### Módulo 2
 - [Actividad 1 - Cuestionario Verdadero o Falso](https://eduadistancia.github.io/EF-Actividades/Mod2-Act1/)
+- [Actividad 2 - Asociar tipos de contrato con definición](https://eduadistancia.github.io/EF-Actividades/Mod2-Act2/)
 - [Actividad 5 - Cuestionario Opción Múltiple](https://eduadistancia.github.io/EF-Actividades/Mod2-Act5/)
+- [Actividad 6 - Completar cálculo de compensación por horas extra](https://eduadistancia.github.io/EF-Actividades/Mod2-Act6/)
+- [Actividad 8 - Cálculo del SAC](https://eduadistancia.github.io/EF-Actividades/Mod2-Act8/)
 - [Actividad 9 - Cálculo de salario neto](https://eduadistancia.github.io/EF-Actividades/Mod2-Act9/)
+- [Actividad 10 - Relacionar conceptos](https://eduadistancia.github.io/EF-Actividades/Mod2-Act10/)
 - [Calculadora de Sueldo Neto](https://eduadistancia.github.io/EF-Actividades/CalculadoraSN/)
 - [Actividad 12 - Cuestionario](https://eduadistancia.github.io/EF-Actividades/Mod2-Act12/)
 
