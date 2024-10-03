@@ -7,6 +7,7 @@ Vista de actividades:
 ### Módulo 2
 - [Actividad 1 - Cuestionario Verdadero o Falso](https://eduadistancia.github.io/EF-Actividades/Mod2-Act1/)
 - [Actividad 2 - Asociar tipos de contrato con definición](https://eduadistancia.github.io/EF-Actividades/Mod2-Act2/)
+- [Actividad 4 - Comparativa entre trabajo salubre e insalubre](https://eduadistancia.github.io/EF-Actividades/Mod2-Act4/)
 - [Actividad 5 - Cuestionario Opción Múltiple](https://eduadistancia.github.io/EF-Actividades/Mod2-Act5/)
 - [Actividad 6 - Completar cálculo de compensación por horas extra](https://eduadistancia.github.io/EF-Actividades/Mod2-Act6/)
 - [Actividad 8 - Cálculo del SAC](https://eduadistancia.github.io/EF-Actividades/Mod2-Act8/)
