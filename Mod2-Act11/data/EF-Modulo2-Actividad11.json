@@ -1,0 +1,92 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Caso 1: Mauro ha trabajado para una empresa durante 6 años. ¿Cuántos días de vacaciones le corresponden?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "14 días",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "21 días",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "28 días",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "35 días",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Caso 2: Laura comenzó a trabajar bajo un contrato por tiempo indeterminado. Su empleador no le proporcionó copia del contrato. ¿Es esto legal?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, porque el contrato por tiempo indeterminado no requiere formalización escrita.",
+        "Devolucion": "¡Correcto!",
+        "Estado": "1"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No, el contrato por tiempo indeterminado debe formalizarse por escrito y el trabajador debe recibir copia.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, siempre y cuando el empleador lo notifique verbalmente.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No, porque cualquier tipo de contrato debe ser formalizado por escrito.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Caso 3: María ha trabajado en una fábrica durante 5 años. Decide renunciar voluntariamente a su trabajo. ¿Qué derechos le corresponden al momento de la renuncia?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El pago del sueldo correspondiente al mes trabajado, el proporcional de Aguinaldo y vacaciones no gozadas.",
+        "Devolucion": "¡Correcto!",
+        "Estado": "1"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Indemnización por despido y sueldo proporcional.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Solo las vacaciones no gozadas.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No tiene derecho a ninguna compensación.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    }
+]
