@@ -9,7 +9,7 @@ let descargar = function (fragmento) {
 
         // Fecha en nombre de archivo
         let hoy = new Date(Date.now());
-        let fecha = `${hoy.getDate()}-${hoy.getMonth()}-${hoy.getFullYear()}`
+        let fecha = `${hoy.getDate()}-${hoy.getMonth()+1}-${hoy.getFullYear()}`
 
         // Create an anchor element
         const link = document.createElement('a');
