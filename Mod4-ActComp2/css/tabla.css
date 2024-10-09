@@ -39,5 +39,9 @@ tbody > tr {
 
 
 .dragging {
-    opacity: 0.5;
+    color: white;
+    background-color: #153244; /* Azul claro */
+    opacity: 0.8;
+    transform: scale(1.02); /* Agranda ligeramente la fila */
+    transition: background-color 0.3s;
 }
