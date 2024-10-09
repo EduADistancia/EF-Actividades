@@ -1,0 +1,107 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál es la principal diferencia entre un préstamo y un crédito?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": " El préstamo requiere pagos de intereses sobre el monto total prestado, mientras que el crédito solo sobre el monto utilizado.",
+        "Devolucion": "Los préstamos tienen un único desembolso con intereses calculados sobre el total prestado, mientras que los créditos son más flexibles y aplican intereses solo sobre el monto utilizado.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": " El crédito siempre tiene un plazo más largo que el préstamo.",
+        "Devolucion": "Los préstamos tienen un único desembolso con intereses calculados sobre el total prestado, mientras que los créditos son más flexibles y aplican intereses solo sobre el monto utilizado.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": " Los préstamos no incluyen intereses, mientras que los créditos sí.",
+        "Devolucion": "Los préstamos tienen un único desembolso con intereses calculados sobre el total prestado, mientras que los créditos son más flexibles y aplican intereses solo sobre el monto utilizado.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": " El crédito es una opción de financiamiento para compras de gran valor, como viviendas.",
+        "Devolucion": "Los préstamos tienen un único desembolso con intereses calculados sobre el total prestado, mientras que los créditos son más flexibles y aplican intereses solo sobre el monto utilizado.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál de las siguientes es una ventaja del endeudamiento bien gestionado?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": " Incrementa el costo total de las compras debido a los intereses.",
+        "Devolucion": "Una de las ventajas del endeudamiento es que otorga acceso a recursos que de otro modo no serían accesibles de inmediato, distribuyendo los pagos en el tiempo.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": " Permite adquirir bienes o servicios sin necesidad de pagar de inmediato.",
+        "Devolucion": "Una de las ventajas del endeudamiento es que otorga acceso a recursos que de otro modo no serían accesibles de inmediato, distribuyendo los pagos en el tiempo.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": " Puede llevar a problemas de sobreendeudamiento.",
+        "Devolucion": "Una de las ventajas del endeudamiento es que otorga acceso a recursos que de otro modo no serían accesibles de inmediato, distribuyendo los pagos en el tiempo.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": " Disminuye el historial crediticio de la persona.",
+        "Devolucion": "Una de las ventajas del endeudamiento es que otorga acceso a recursos que de otro modo no serían accesibles de inmediato, distribuyendo los pagos en el tiempo.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál de las siguientes es una desventaja potencial de recurrir a préstamos personales rápidos?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": " Permiten obtener fondos de manera inmediata.",
+        "Devolucion": "A pesar de su conveniencia, los préstamos personales rápidos suelen tener altos costos asociados, lo que puede convertirse en una carga si no se gestionan adecuadamente.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": " Los trámites son simplificados y no requieren verificación de ingresos.",
+        "Devolucion": "A pesar de su conveniencia, los préstamos personales rápidos suelen tener altos costos asociados, lo que puede convertirse en una carga si no se gestionan adecuadamente.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": " Suelen tener tasas de interés y comisiones elevadas, lo que puede generar una carga financiera.",
+        "Devolucion": "A pesar de su conveniencia, los préstamos personales rápidos suelen tener altos costos asociados, lo que puede convertirse en una carga si no se gestionan adecuadamente.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": " Los pagos mensuales siempre son bajos y accesibles.",
+        "Devolucion": "A pesar de su conveniencia, los préstamos personales rápidos suelen tener altos costos asociados, lo que puede convertirse en una carga si no se gestionan adecuadamente.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    }
+]

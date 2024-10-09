@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Area Educación a Distacia - Min. de Educación GCABA">
+    <meta name="description" content="Material didáctico adicional.">
+    <link rel="stylesheet" href="./css/estilos.css">
+    <link rel="stylesheet" href="./css/calculadora.css">
+    <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.5/dist/html2canvas.min.js"></script>
+    <title>EF - Actividad</title>
+</head>
+<body id="captura" class="colorFondo2">
+    <div id="contenedor" class="colorFondo4">
+        
+        <!-- Membrete superior -->
+        <div id="membsup">
+            <img class="membrete" src="./img/membreteHeader.jpg" alt="Membrete Ministerio de Educación GCABA">
+        </div>
+
+        <!-- Contenido del documento -->
+        <div id="contenido" class="colorTexto2">
+            <header>
+                <div class="divHeader">
+                    <h1>Educación Financiera</h1>
+                    <img src="./img/contabilidad.png" alt="Imagen calculadora" class="imgCabecera">
+                </div>
+            </header>
+            <main>
+                <section>
+                    <h2>Calculadora de Endeudamiento</h2>
+                    <div class="container">
+                        <label for="income">Ingresos Mensuales (en $):</label>
+                        <input type="number" id="income" required>
+                        
+                        <label for="fixedExpenses">Gastos Fijos Mensuales (en $):</label>
+                        <input type="number" id="fixedExpenses" required>
+                        
+                        <label for="variableExpenses">Gastos Variables Mensuales (en $):</label>
+                        <input type="number" id="variableExpenses" required>
+                
+                        <label for="totalDebt">Total de Deudas Mensuales (en $):</label>
+                        <input type="number" id="totalDebt">
+                        
+                        <button id="calcularDeuda">Calcular</button>
+                    
+                        <div class="result oculto" id="result"></div>
+                    </div>
+                </section>
+            </main>
+            <div id="botonera">
+                <button type="button" id="descarga" class="boton colorFondo1">Descargar resultados</button>
+            </div>
+        </div>
+    </div>
+    <script src="./js/main.js" type="module"></script>
+</body>
+</html>

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Area Educación a Distacia - Min. de Educación GCABA">
+    <meta name="description" content="Material didáctico adicional.">
+    <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.5/dist/html2canvas.min.js"></script>
+    <link rel="stylesheet" href="./css/estilos.css">
+    <link rel="stylesheet" href="./css/tabla.css">
+    <link rel="stylesheet" href="./css/cuestionario.css">
+    <title>EF - Actividad</title>
+</head>
+<body id="captura" class="colorFondo2">
+    <div id="contenedor" class="colorFondo4">
+        
+        <!-- Membrete superior -->
+        <div id="membsup">
+            <img class="membrete" src="./img/membreteHeader.jpg" alt="Membrete Ministerio de Educación GCABA">
+        </div>
+
+        <!-- Contenido del documento -->
+        <div id="contenido" class="colorTexto2">
+            <header>
+                <div class="divHeader">
+                    <h1>Educación Financiera</h1>
+                    <img src="./img/contabilidad.png" alt="Imagen contabilidad" class="imgCabecera">
+                </div>
+            </header>
+            <main>
+                <section>
+                    <h2>Actividad: Comprobación</h2>
+                    <p>Imaginá que necesitás comprar una impresora para estudiar o trabajar y tenés posibilidad de acceder a  cuatro opciones de financiamiento. A continuación, se presentan estas cuatro ofertas de diferentes entidades financieras y bancarias. Tu tarea será analizar cada una, teniendo en cuenta la TNA, TEA, y el CFT, y luego seleccionar la opción más conveniente.</p>
+                    <h3>Instrucciones</h3>
+                    <p>Lee detenidamente los datos en la tabla y ordena las opciones del 1 al 4 según su conveniencia, siendo 1 la más conveniente y 4 la menos conveniente, tomando en cuenta la TNA, TEA, y CFT.</p>
+                    <div id="scrollH">
+                        <table id="orden">
+                            <tbody>
+                                <tr>
+                                    <th>Orden</th>
+                                </tr>
+                                <tr>
+                                    <td class="orden">1</td>
+                                </tr>
+                                <tr>
+                                    <td class="orden">2</td>
+                                </tr>
+                                <tr>
+                                    <td class="orden">3</td>
+                                </tr>
+                                <tr>
+                                    <td class="orden">4</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <table id="datos">
+                            <tbody>
+                                <tr>
+                                    <th>Entidad Financiera</th>
+                                    <th>Producto</th>
+                                    <th>Monto del Préstamo</th>
+                                    <th>Plazo</th>
+                                    <th>TNA</th>
+                                    <th>TEA</th>
+                                    <th>CFT</th>
+                                </tr>
+                                <tr draggable="true" name="4" class="ordenar">
+                                    <td>PAGOXDIA Soluciones Integrales</td>
+                                    <td>Crédito personal solo con DNI</td>
+                                    <td>$200,000</td>
+                                    <td>12 meses</td>
+                                    <td>85%</td>
+                                    <td>110%</td>
+                                    <td>120%</td>
+                                </tr>
+                                <tr draggable="true" name="2" class="ordenar">
+                                    <td>Banco Privado “LUMENES”</td>
+                                    <td>Crédito personal bancario</td>
+                                    <td>$200,000</td>
+                                    <td>12 meses</td>
+                                    <td>45%</td>
+                                    <td>55%</td>
+                                    <td>70%</td>
+                                </tr>
+                                <tr draggable="true" name="3" class="ordenar">
+                                    <td>Casa de Electrodomésticos “RIMAU”</td>
+                                    <td>Crédito directo en tienda</td>
+                                    <td>$200,000</td>
+                                    <td>12 meses</td>
+                                    <td>60%</td>
+                                    <td>70%</td>
+                                    <td>90%</td>
+                                </tr>
+                                <tr draggable="true" name="1" class="ordenar">
+                                    <td>Banco Provincial “BOSTON”</td>
+                                    <td>Crédito personal de su propio banco</td>
+                                    <td>$200,000</td>
+                                    <td>12 meses</td>
+                                    <td>35%</td>
+                                    <td>40%</td>
+                                    <td>50%</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </section>
+                <section id="conclusion" class="oculto">
+                    <h2>Justificación</h2>
+                    <h3>1. Banco Provincial “BOSTON” (Crédito personal de su propio banco)</h3>
+                    <p class="marco">Esta opción resulta ser la más conveniente debido a su CFT más bajo (50%). Al tener menores costos financieros asociados, la cuota mensual será la más accesible, lo que te permitirá ahorrar en intereses y otros gastos. Es ideal optar por este préstamo, ya que ofrece el menor costo total para el cliente.</p>
+                    <h3>2. Banco Privado “LUMENES” (Crédito personal bancario)</h3>
+                    <p class="marco">Aunque esta opción es menos conveniente que la ofrecida por el Banco Provincial “BOSTON”, sigue siendo competitiva con un CFT del 70%. Si por algún motivo no puedes acceder al préstamo de tu banco habitual, esta sería la segunda mejor opción. Su cuota mensual es más alta que la del Banco Provincial “BOSTON”, pero sigue siendo más baja que las opciones restantes.</p>
+                    <h3>3. Casa de Electrodomésticos “RIMAU” (Crédito directo en tienda)</h3>
+                    <p class="marco">Esta opción tiene un CFT del 90%, lo que la hace menos atractiva en comparación con los préstamos bancarios. Es habitual que los créditos directos en tiendas tengan mayores costos debido a la facilidad de acceso y la falta de requisitos estrictos. Aunque sigue siendo mejor que la opción más costosa, esta alternativa representa un mayor costo total y una cuota mensual más elevada.</p>
+                    <h3>4. PAGOXDIA Soluciones Integrales (Crédito personal solo con DNI)</h3>
+                    <p class="marco">Esta es la opción menos conveniente debido a su CFT extremadamente alto (120%). Aunque la facilidad de acceso es un factor atractivo (solo requiere DNI), los costos asociados son significativamente mayores, lo que resulta en la cuota mensual más alta. Esta opción debería ser considerada solo en casos de extrema necesidad, donde las otras alternativas no estén disponibles.</p>
+                    <h3>Conclusión:</h3>
+                    <p class="marco">Al ordenar las opciones por conveniencia, queda claro que elegir el préstamo del Banco Provincial “BOSTON” te permitirá minimizar los costos asociados a tu financiamiento. Es fundamental evaluar no solo la tasa de interés (TNA) sino también el CFT, que incluye todos los costos adicionales, para tomar decisiones financieras más informadas.</p>
+                </section>
+            </main>
+            <div id="botonera">
+                <button id="comprobar" class="boton colorFondo1">Comprobar</button>
+                <button id="reintentar" class="boton colorFondo1 oculto">Reintentar</button>
+                <button id="descarga" class="boton colorFondo1 oculto">Descargar resultados</button>
+            </div>
+        </div>
+
+    </div>
+    <script type="module" src="./js/main.js"></script>
+</body>
+</html>

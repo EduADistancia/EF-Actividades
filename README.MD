@@ -23,5 +23,14 @@ Vista de actividades:
 - [Matriz FODA](https://eduadistancia.github.io/EF-Actividades/MatrizFODA/)
 - [Modelo de negocio CANVA](https://eduadistancia.github.io/EF-Actividades/CanvasBM/)
 
+### Módulo 4
+- [Actividad de comprobación 1 (escenarios deuda)](https://eduadistancia.github.io/EF-Actividades/Mod4-ActComp1/)
+- [Actividad caso práctico (préstamo)](https://eduadistancia.github.io/EF-Actividades/Mod4-ActCaso1/)
+- [Actividad cuestionario de opción múltiple](https://eduadistancia.github.io/EF-Actividades/Mod4-ActQuiz1/)
+- [Calculadora de Endeudamiento](https://eduadistancia.github.io/EF-Actividades/CalculadoraEF/)
+- [Actividad de comprobación 2 (ordenar tabla)](https://eduadistancia.github.io/EF-Actividades/Mod4-ActComp2/)
+- [Actividad de comprobación 3 (cuestionario)](https://eduadistancia.github.io/EF-Actividades/Mod4-ActComp3/)
+
+
 ### Módulo 6
 - [Calculadora de Interés Compuesto](https://eduadistancia.github.io/EF-Actividades/CalculadoraIC/)

@@ -1,0 +1,72 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué opción sería más conveniente si lo que querés es cubrir esos gastos imprevistos, como la reparación del auto o el reemplazo de un electrodoméstico?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El préstamo de $500,000.",
+        "Devolucion": "El préstamo no sería la mejor opción para gastos imprevistos y puntuales. ya que estarías asumiendo una deuda con cuotas fijas durante varios años, lo que puede ser innecesario si solo necesitás cubrir gastos menores. Es mejor optar por una solución más flexible, como una línea de crédito.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "La línea de crédito de $400,000.",
+        "Devolucion": "La línea de crédito es mucho más flexible para cubrir gastos imprevistos. Te permite usar solo lo necesario y pagar intereses únicamente sobre el monto que utilices, lo que evita que te endeudes innecesariamente o tengas que afrontar un pago fijo grande cuando solo necesitás cubrir un gasto puntual.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Ninguna de las dos opciones es adecuada.",
+        "Devolucion": "Ambas opciones son adecuadas dependiendo de la situación financiera en la que te encontrás. Si bien el préstamo podría parecer menos adecuado para gastos imprevistos, la línea de crédito es una buena opción si necesitás flexibilidad.Responder que ninguna opción es adecuada no es correcto, porque la línea de crédito cumple con las condiciones necesarias para cubrir gastos imprevistos sin obligarte a asumir pagos fijos y prolongados. Te permite usar el dinero solo cuando lo necesitás, sin generar una carga financiera innecesaria.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Ambas son igualmente convenientes.",
+        "Devolucion": "No es correcto afirmar que ambas opciones son igualmente convenientes. Mientras que el préstamo ofrece una suma fija de dinero con pagos regulares, la línea de crédito te permite mayor flexibilidad, ya que solo pagarías intereses por el monto que uses. En el caso de gastos imprevistos, la línea de crédito es claramente la opción más conveniente.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Si decidís tomar el préstamo de $500,000, ¿qué riesgo principal podrías enfrentar si más adelante no mejoran tus ingresos?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Podrías quedarte sin acceso al crédito.",
+        "Devolucion": "Esta opción no es correcta porque tomar un préstamo no te impide acceder a otros créditos en el futuro, siempre y cuando mantengas al día tus pagos y tu historial crediticio sea positivo. Lo que puede suceder es que tu capacidad de endeudamiento se vea afectada si ya tienes un alto nivel de deuda, pero no te quedarías sin acceso total al crédito.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tendrías que pagar cuotas fijas más altas, sin importar si usaste todo el dinero o no.",
+        "Devolucion": "Los préstamos tienen cuotas fijas que incluyen tanto el capital como los intereses, lo que puede representar una carga si tus ingresos no aumentan o si los imprevistos afectan tu capacidad de pago. Esto es especialmente importante si necesitás cubrir gastos imprevistos que puedan surgir.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No tendrías que preocuparte por intereses altos.",
+        "Devolucion": "Esta opción es incorrecta porque, al optar por un préstamo, los intereses se calculan sobre el monto total del préstamo. Dado que debes pagar cuotas fijas que incluyen tanto el capital como los intereses, sí tendrías que preocuparte por los intereses a lo largo del plazo del préstamo. Además, si tus ingresos no mejoran, esa carga de intereses se volverá un problema a largo plazo.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El préstamo no tendría ningún impacto en tu situación financiera.",
+        "Devolucion": "Esta opción no es correcta. Un préstamo afecta directamente tu situación financiera, ya que tendrás una obligación de pago mensual que incluye intereses y capital. Si no mejoras tus ingresos, podrías enfrentarte a dificultades para cumplir con estas obligaciones, lo que podría impactar tu capacidad para cubrir otros gastos esenciales.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    }
+]

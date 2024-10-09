@@ -1,0 +1,93 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál es la principal ventaja de la consolidación de deudas?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Aumenta el número de pagos que debes hacer cada mes.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Reduce el monto total de tu deuda.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Simplifica la gestión de tus deudas al combinar varios pagos en uno solo.",
+        "Devolucion": "Correcto",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Te permite evitar por completo el pago de intereses.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué característica tiene normalmente un préstamo de consolidación de deudas?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Una tasa de interés variable.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Un período de pago que cambia cada mes.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Una tasa de interés fija.",
+        "Devolucion": "Correcto",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Ninguna tasa de interés.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Verdadero o Falso: Consolidar tus deudas siempre reducirá el monto total de los intereses que pagarás.",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "Incorrecto. La consolidación de deudas no siempre reduce el monto total de los intereses, depende de la tasa del nuevo préstamo y las condiciones anteriores.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "¡Correcto! La consolidación de deudas no siempre reduce el monto total de los intereses, depende de la tasa del nuevo préstamo y las condiciones anteriores.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    }
+]
