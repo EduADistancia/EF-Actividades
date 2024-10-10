@@ -1,0 +1,37 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿En qué categoría del Monotributo se debe inscribir Lucas?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Categoría D",
+        "Devolucion": "Incorrecto. Aunque la categoría D permite ingresos hasta $16.450.000, Lucas supera los límites de superficie y electricidad, lo que lo inhabilita a inscribirse en esta categoría",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Categoría E",
+        "Devolucion": "¡Correcto! La categoría E permite ingresos hasta $19.350.000, y Lucas cumple con los requisitos de ingresos, superficie afectada y consumo de electricidad.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Categoría F",
+        "Devolucion": "Incorrecto. Esta opción es incorrecta. Si bien la categoría F permite ingresos de hasta $24.250.000, Lucas no necesita inscribirse en esta categoría, ya que sus ingresos son de $15.000.000, lo que lo coloca en una categoría inferior. Inscribirse en una categoría más alta le resultaría innecesario y podría implicar mayores costos en el pago del Monotributo sin razón válida.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Categoría G",
+        "Devolucion": "Incorrecto. Esta opción es incorrecta. Aunque la categoría G permite ingresos de hasta $29.000.000, Lucas no necesita optar por una categoría tan alta. Sus ingresos, superficie afectada y consumo de electricidad son adecuados para la categoría E, por lo que inscribirse en la categoría G implicaría un pago mayor al necesario sin obtener beneficios adicionales.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    }
+]

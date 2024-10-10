@@ -1,0 +1,72 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿En qué categoría del Monotributo se debería inscribir Mariana?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Categoría A",
+        "Devolucion": "Incorrecto. La categoría A permite ingresos de hasta $6.450.000, por lo que Mariana no cumple con este límite.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Categoría B",
+        "Devolucion": "¡Correcto! La categoría B permite ingresos de hasta $9.450.000, y Mariana cumple con los requisitos de ingresos, superficie afectada y consumo de electricidad.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Categoría C",
+        "Devolucion": "Incorrecto. La categoría C permite ingresos de hasta $13.250.000, pero Mariana no necesita una categoría más alta dado su perfil.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Categoría D",
+        "Devolucion": "Incorrecto. La categoría D permite ingresos de hasta $16.450.000, por lo que no sería una opción adecuada para Mariana en este momento.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál sería el total a abonar mensualmente por Mariana, si se inscribe en la categoría B?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "$26.600",
+        "Devolucion": "Incorrecto. Este es el monto correspondiente a la categoría A.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "$30.280",
+        "Devolucion": "¡Correcto! Mariana debería abonar $30.280 mensuales si se inscribe en la categoría B.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "$35.458",
+        "Devolucion": "Incorrecto. Este es el monto correspondiente a la categoría C.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "$44.343,80",
+        "Devolucion": "Incorrecto. Este es el monto correspondiente a la categoría D.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    }
+]

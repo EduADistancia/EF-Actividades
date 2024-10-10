@@ -1,0 +1,107 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál es la fecha de vencimiento para el pago del Monotributo?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "15 de cada mes",
+        "Devolucion": "Incorrecto. La fecha de vencimiento no es el 15; esto podría causar confusión en el cumplimiento de las obligaciones fiscales.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "20 de cada mes",
+        "Devolucion": "¡Correcto! El pago del Monotributo debe realizarse mensualmente y vence el día 20 de cada mes.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "30 de cada mes",
+        "Devolucion": "Incorrecto. Este es un error común, pero el vencimiento no es el 30, lo que podría llevar a sanciones si se confunde.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "1 de cada mes",
+        "Devolucion": "Incorrecto. El primer día del mes no es el plazo de pago; el contribuyente debe pagar antes del día 20.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Si trabajás en relación de dependencia y estás inscripto en el Monotributo, ¿cuáles de los siguientes aportes NO deberías abonar dentro del Monotributo?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Impuesto integrado",
+        "Devolucion": "El impuesto integrado es un componente que los monotributistas deben abonar, independientemente de si están trabajando en relación de dependencia. Este impuesto incluye tanto el IVA como el Impuesto a las Ganancias y es obligatorio para todos los inscriptos en el Monotributo.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Aportes jubilatorios",
+        "Devolucion": "Los aportes jubilatorios no deben abonarse en el Monotributo si la persona ya está trabajando en relación de dependencia. Esto se debe a que los aportes a la jubilación ya se están descontando de su salario como empleado, por lo que no es necesario abonarlos nuevamente en el Monotributo, lo que reduce considerablemente la cuota mensual a pagar.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Aportes a la obra social",
+        "Devolucion": "Similar a los aportes jubilatorios, los aportes a la obra social no son requeridos para aquellos monotributistas que ya están trabajando en relación de dependencia. Los empleados tienen sus aportes a la obra social ya descontados de su salario, lo que significa que no tienen que abonar esta cuota dentro del régimen de Monotributo.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Todos los anteriores",
+        "Devolucion": "Esta opción es incorrecta, ya que el impuesto integrado (A) es un aporte que sí debe ser abonado por todos los monotributistas, independientemente de su situación laboral. Por lo tanto, no todos los aportes mencionados son exentos; solo los aportes jubilatorios y a la obra social son los que se pueden evitar.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué requisito es necesario para poder emitir facturas electrónicas?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Contar con un punto de venta declarado ante la AFIP",
+        "Devolucion": "¡Correcto! Para poder emitir facturas electrónicas, es necesario haber declarado al menos un punto de venta ante la AFIP. Este paso es fundamental para identificar el lugar desde donde se emitirán las facturas y para el correcto registro fiscal.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tener un ingreso anual superior a $1,000,000",
+        "Devolucion": "Incorrecto. No hay un requisito de ingreso mínimo para poder emitir facturas electrónicas. Cualquier monotributista, independientemente de sus ingresos, puede emitir facturas siempre que cumpla con los requisitos de inscripción y habilitación.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Haber presentado la declaración de impuestos en los últimos dos años",
+        "Devolucion": "Incorrecto. Si bien presentar declaraciones es importante para la administración fiscal, no es un requisito específico para emitir facturas electrónicas. La habilitación para la facturación electrónica está más relacionada con la Clave Fiscal y la inscripción en la AFIP.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Estar inscripto en el régimen de Responsables Inscriptos",
+        "Devolucion": "Incorrecto. La facturación electrónica es obligatoria para todas las categorías, incluidos los monotributistas. No es necesario estar inscripto en el régimen de Responsables Inscriptos para emitir facturas electrónicas; los monotributistas también deben cumplir con esta obligación.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    }
+]
