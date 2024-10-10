@@ -4,6 +4,13 @@
 
 Vista de actividades:
 
+### Módulo 1
+- [Actividad 2: Análisis de categorías](https://eduadistancia.github.io/EF-Actividades/Mod1-Act2/)
+- [Actividad 3: Comparación de costos y límites](https://eduadistancia.github.io/EF-Actividades/Mod1-Act3/)
+- [Actividad 5: Reflexión](https://eduadistancia.github.io/EF-Actividades/Mod1-Act5/)
+- [Actividad 6: Cuestionario](https://eduadistancia.github.io/EF-Actividades/Mod1-Act6/)
+- [Actividad 7: Identificación de incumplimientos](https://eduadistancia.github.io/EF-Actividades/Mod1-Act7/)
+
 ### Módulo 2
 - [Actividad 1 - Cuestionario Verdadero o Falso](https://eduadistancia.github.io/EF-Actividades/Mod2-Act1/)
 - [Actividad 2 - Asociar tipos de contrato con definición](https://eduadistancia.github.io/EF-Actividades/Mod2-Act2/)
