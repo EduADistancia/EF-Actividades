@@ -1,0 +1,72 @@
+.visible {
+    display: inherit;
+}
+
+.oculto {
+    display: none;
+}
+
+.marco {
+    border: 1px solid #153244;
+    border-radius: 5px;
+    margin: 1rem 0;
+    padding: 0.5rem 0.5rem;
+}
+
+p.marco, div.marco > p {
+    font-size: larger;
+    margin: 1rem 0.5rem;
+    padding: 0.75rem ;
+    background-color: #153244;
+    color: white;
+    border-radius: 10px;
+}
+
+.imgEstado {
+    width: 2.5rem;
+}
+
+.marcoOK {
+    border: 5px solid greenyellow;
+}
+
+.marcoNoOk {
+    border: 5px solid yellow;
+}
+
+li {
+    margin: 0.5rem 0;
+    list-style-type: none;
+}
+
+ul {
+    padding-left: 0;
+    margin: 1rem 0.5rem;
+}
+
+input[type=checkbox] {
+    width: 20px;
+    height: 20px;
+    margin: 0 1rem;
+}
+
+.seleccionado {
+    background-color: #ffcc008a;
+    padding: 0.25rem 1rem;
+    border: 1px solid #153244;
+    border-radius: 5px;
+}
+
+.checkOp {
+    display: grid;
+    grid-template-columns: 85% 15%;
+    align-items: center;
+    justify-items: stretch;
+}
+
+.devRtas {
+    display: grid;
+    grid-template-columns: 85% 15%;
+    align-items: center;
+    justify-items: center;
+}
