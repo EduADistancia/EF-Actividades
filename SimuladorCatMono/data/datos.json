@@ -1,0 +1,90 @@
+[
+    {
+        "categoria": "A",
+        "ingresos": "$ 6.450.000",
+        "superficie": "Hasta 30 m2",
+        "energia": "Hasta 3330 Kw",
+        "alquileres": "$ 1.500.000",
+        "precio": "$ 385.000"
+    },
+    {
+        "categoria": "B",
+        "ingresos": "$ 9.450.000",
+        "superficie": "Hasta 45 m2",
+        "energia": "Hasta 5000 Kw",
+        "alquileres": "$ 1.500.000",
+        "precio": "$ 385.000"
+    },
+    {
+        "categoria": "C",
+        "ingresos": "$ 13.250.000",
+        "superficie": "Hasta 60 m2",
+        "energia": "Hasta 6700 Kw",
+        "alquileres": "$ 2.050.000",
+        "precio": "$ 385.000"
+    },
+    {
+        "categoria": "D",
+        "ingresos": "$ 16.450.000",
+        "superficie": "Hasta 85 m2",
+        "energia": "Hasta 10000 Kw",
+        "alquileres": "$ 2.050.000",
+        "precio": "$ 385.000"
+    },
+    {
+        "categoria": "E",
+        "ingresos": "$ 19.350.000",
+        "superficie": "Hasta 110 m2",
+        "energia": "Hasta 13000 Kw",
+        "alquileres": "$ 2.600.000",
+        "precio": "$ 385.000"
+    },
+    {
+        "categoria": "F",
+        "ingresos": "$ 24.250.000",
+        "superficie": "Hasta 150 m2",
+        "energia": "Hasta 16500 Kw",
+        "alquileres": "$ 2.600.000",
+        "precio": "$ 385.000"
+    },
+    {
+        "categoria": "G",
+        "ingresos": "$ 29.000.000",
+        "superficie": "Hasta 200 m2",
+        "energia": "Hasta 20000 Kw",
+        "alquileres": "$ 3.100.000",
+        "precio": "$ 385.000"
+    },
+    {
+        "categoria": "H",
+        "ingresos": "$ 44.000.000",
+        "superficie": "Hasta 200 m2",
+        "energia": "Hasta 20000 Kw",
+        "alquileres": "$ 4.500.000",
+        "precio": "$ 385.000"
+    },
+    {
+        "categoria": "I",
+        "ingresos": "$ 49.250.000",
+        "superficie": "Hasta 200 m2",
+        "energia": "Hasta 20000 Kw",
+        "alquileres": "$ 4.500.000",
+        "precio": "$ 385.000"
+    },
+    {
+        "categoria": "J",
+        "ingresos": "$ 56.400.000",
+        "superficie": "Hasta 200 m2",
+        "energia": "Hasta 20000 Kw",
+        "alquileres": "$ 4.500.000",
+        "precio": "$ 385.000"
+    },
+    {
+        "categoria": "K",
+        "ingresos": "$ 68.000.000",
+        "superficie": "Hasta 200 m2",
+        "energia": "Hasta 20000 Kw",
+        "alquileres": "$ 4.500.000",
+        "precio": "$ 385.000"
+    }
+]

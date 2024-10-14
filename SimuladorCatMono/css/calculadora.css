@@ -1,0 +1,105 @@
+main {
+    background-color: #153244;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 0.5rem;
+    border-radius: 10px;
+}
+
+.container {
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+    width: 100%;
+    max-width: 450px;
+}
+
+label {
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 8px;
+    display: block;
+}
+
+input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    color: #333;
+    transition: border-color 0.3s;
+}
+
+input[type="number"]:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+#calcularDeuda {
+    background-color: #8DE2D6;
+    font-weight: 700;
+    font-size: large;
+    color: #153244;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #0056b3;
+    color: white;
+}
+
+.result {
+    background-color: #8DE2D6;
+    color: #153244;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.result p {
+    margin: 10px 0;
+}
+
+.highlight {
+    font-weight: bold;
+}
+
+.warning {
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+/* ************************************************** */
+.alert, .success, .warning {
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+}
+.alert {
+    background-color: #fa382a;
+}
+.success {
+    background-color: #153244;
+}
+.warning {
+    background-color: #ffcc00;
+}

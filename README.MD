@@ -8,6 +8,7 @@ Vista de actividades:
 - [Actividad 1: Casos prácticos](https://eduadistancia.github.io/EF-Actividades/Mod1-Act1/)
 - [Actividad 2: Análisis de categorías](https://eduadistancia.github.io/EF-Actividades/Mod1-Act2/)
 - [Actividad 3: Comparación de costos y límites](https://eduadistancia.github.io/EF-Actividades/Mod1-Act3/)
+- [Actividad 4: Simulador de categoría monotributo](https://eduadistancia.github.io/EF-Actividades/SimuladorCatMono/)
 - [Actividad 5: Reflexión](https://eduadistancia.github.io/EF-Actividades/Mod1-Act5/)
 - [Actividad 6: Cuestionario](https://eduadistancia.github.io/EF-Actividades/Mod1-Act6/)
 - [Actividad 7: Identificación de incumplimientos](https://eduadistancia.github.io/EF-Actividades/Mod1-Act7/)
