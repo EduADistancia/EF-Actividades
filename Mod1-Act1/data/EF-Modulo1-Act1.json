@@ -1,0 +1,198 @@
+[
+    {
+        "Tipo": "Titulo",
+        "Texto": "Caso 1: Limitación de ingresos",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Situación: Tomás tiene un negocio de venta de ropa personalizada y, en el último año, sus ingresos anuales alcanzaron los $75.000.000. La categoría K del Monotributo establece un límite de ingresos de $68.000.000.",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Puede Tomás inscribirse como Monotributista? ¿Qué opciones tiene?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, puede inscribirse como Monotributista en la categoría K y mantener su actividad.",
+        "Devolucion": "Esta opción es incorrecta porque Tomás ha superado el límite de ingresos establecido para la categoría K ($68.000.000), lo que lo inhabilita para inscribirse en este régimen.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No, no puede inscribirse como Monotributista, pero puede optar por inscribirse en el Régimen General.",
+        "Devolucion": "Tomás supera el límite de ingresos establecido para la categoría K del Monotributo, por lo que no puede inscribirse en este régimen. Su única opción viable será registrarse en el Régimen General, donde deberá pagar impuestos de manera separada y llevar una contabilidad más detallada.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, puede inscribirse en el Monotributo, pero debe recategorizarse a la categoría J.",
+        "Devolucion": "Esta opción es incorrecta. La categoría J también tiene un límite de ingresos, por lo que Tomás no puede recategorizarse a la categoría J, ya que continuaría superando el límite establecido.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, puede inscribirse en el Monotributo siempre y cuando su actividad sea diferente a la venta de ropa.",
+        "Devolucion": "Esta opción es incorrecta. La inscripción en el Monotributo no depende del tipo de actividad si los ingresos superan el límite de la categoría K. Independientemente de la actividad, Tomás no puede inscribirse en el Monotributo porque sus ingresos anuales de $75.000.000 superan el límite establecido.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Titulo",
+        "Texto": "Caso 2: Exceso de actividades",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Situación: Ana comenzó su emprendimiento vendiendo productos de cosmética natural y, después de un tiempo, decidió agregar servicios de maquillaje y asesoría de imagen. Posteriormente, empezó a organizar talleres de maquillaje, sumando así tres actividades. Adicionalmente, comienza a vender productos de bisutería.",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Puede Ana seguir inscripta en el Monotributo?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, puede seguir inscripta en el Monotributo ya que todas sus actividades son compatibles con el régimen.",
+        "Devolucion": "Esta opción es incorrecta porque el Monotributo tiene un límite en la cantidad de actividades permitidas (tres)  y Ana lo ha superado ya que actualmente desarrolla cinco actividades: venta de productos de cosmética natural, servicios de maquillaje, asesoría de imagen, talleres de maquillaje y venta de productos de bisutería.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No, no puede seguir inscripta en el Monotributo porque ha superado el límite de actividades permitidas, y debe inscribirse en el Régimen General.",
+        "Devolucion": "Según las normas del Monotributo, Ana ha excedido el límite de tres actividades permitidas y, por lo tanto, debe inscribirse en el Régimen General. Actualmente Ana desarrolla cuatro actividades: venta de productos de cosmética natural, servicios de maquillaje y asesoría de imagen, talleres de maquillaje y venta de productos de bisutería.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, pero debe eliminar una de las actividades que ha agregado para mantener su inscripción en el Monotributo.",
+        "Devolucion": "Esta opción es incorrecta. Aunque podría eliminar una actividad, esto no sería suficiente para solucionar su situación. Actualmente Ana desarrolla cinco actividades: venta de productos de cosmética natural, servicios de maquillaje, asesoría de imagen, talleres de maquillaje y venta de productos de bisutería. Aunque podría eliminar una actividad, esto no sería suficiente para solucionar su situación ya que el límite permitido en Monotributo es de 3 actividades como máximo.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No, puede continuar en el Monotributo si se registra como un grupo de actividades, sin necesidad de cambiar de régimen.",
+        "Devolucion": "Esta opción es incorrecta porque el Monotributo no permite agrupar actividades que exceden el límite permitido; al haber agregado una cuarta actividad, Ana debe inscribirse en el Régimen General.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Titulo",
+        "Texto": "Caso 3: Costos que afectan a la Categoría",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Situación: Martín es un emprendedor que se inscribió en el Monotributo en la categoría A, que permite un ingreso anual de hasta $6.450.000, por la cual debedebe abonar $26.600 mensuales del monotributo. Al principio Martín trabajaba desde su casa pero cuando su negocio comenzó a crecer, decidió alquilar un local que vale $110.000 al mes. Además, su consumo de electricidad aumentó considerablemente debido al uso de máquinas y equipos necesarios para su actividad, la factura de electricidad en el nuevo local mostraban un consumo de 400 Kw mensuales. <br>Según la tabla de categorías de AFIP de octubre 2024 , los límites establecidos para la categoría A incluyen:<br>- Alquiler: hasta $125.000 mensuales.<br>- Consumo de electricidad: hasta 3330 Kw anuales.<br>Según la tabla de categorías de AFIP de octubre 2024, los límites establecidos para la categoría B incluyen:<br>- Alquiler: hasta $125.000 mensuales.<br>- Consumo de electricidad: hasta 5000 Kw anuales.\n",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué implicaciones tiene en la categoría del Monotributo,  el aumento del alquiler y el consumo de electricidad para su inscripción en el Monotributo? ¿Qué debería hacer Martín en esta nueva etapa de su emprendimiento? ",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Martín puede continuar en la categoría A, ya que su ingreso anual es de $4.000.000, por lo tanto sigue siendo menor al límite establecido.",
+        "Devolucion": "Esta opción es incorrecta. Aunque Martín cumple con el límite de ingresos anuales para la categoría A, que es de hasta $6.450.000, su consumo de electricidad no le permite permanecer en esta categoría. Si bien su ingreso es menor al límite, el alquiler de $110.000 está por debajo del máximo permitido de $125.000 para la categoría A, lo que en principio podría permitirle mantenerse. Sin embargo, el consumo de electricidad, que es de 400 kWh mensuales (equivalente a 4.800 kWh anuales), excede el límite de 3.330 kWh anuales establecido para la categoría A. Por lo tanto, Martín no puede continuar en esta categoría, ya que uno de los requisitos fundamentales es cumplir con ambos criterios: ingresos y costos. A pesar de que su ingreso anual es aceptable, la combinación de sus costos lo obliga a considerar una recategorización.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Martín debe recategorizarse a la categoría B, ya que su consumo de energía eléctrica está dentro del límite de esta categoría.",
+        "Devolucion": "Aunque Martín inicialmente se inscribió en la categoría A, sus costos han cambiado por el nuevo alquiler y el consumo de electricidad. Si bien su alquiler de $110.000 se encuentra dentro del límite permitido para ambas categorías, el aspecto más relevante para su recategorización es el consumo de energía eléctrica. Martín consume 400 kWh mensuales, lo que equivale a 4.800 kWh anuales, superando el límite de 3.330 kWh establecido para la categoría A. Sin embargo, este consumo está dentro del límite de 5.000 kWh anuales permitido para la categoría B. Por lo tanto, Martín debe recategorizarse a la categoría B para alinearse con los límites de consumo de electricidad, lo que le permitirá mantener su actividad sin enfrentar sanciones por exceder los límites establecidos en su categoría anterior. ",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Martín no puede continuar en la categoría A y debe inscribirse en el Régimen General, ya que sus gastos son muy altos.",
+        "Devolucion": "Esta opción es incorrecta. Si bien Martín no puede continuar en la categoría A debido al exceso en el consumo eléctrico, no debe inscribirse necesariamente en el Régimen General ya que cumple con los límites establecidos para pasarse a la categoría B pues cumple con los límites establecidos.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Martín puede continuar en la categoría A, ya que su consumo de electricidad no es significativo y no afectará su inscripción.",
+        "Devolucion": "Esta opción es incorrecta. Aunque Martín puede pensar que su consumo de electricidad de 400 kWh mensuales no es significativo, en realidad representa un total de 4.800 kWh anuales, que excede el límite de 3.330 kWh establecido para la categoría A. El Monotributo no solo evalúa los ingresos anuales, sino que también tiene en cuenta los costos asociados, como el alquiler y el consumo de electricidad. Ignorar el impacto de estos costos puede llevar a Martín a enfrentar problemas de incumplimiento con la AFIP, lo que podría resultar en sanciones o recategorizaciones forzadas. Por lo tanto, no puede continuar en la categoría A simplemente porque considere que su consumo no es relevante; debe tener en cuenta todos los criterios establecidos para su categoría.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Titulo",
+        "Texto": "Caso 4: Precio Máximo Unitario",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Situación: Martín vende productos de electrónica y ha fijado el precio de sus impresoras 3D en $400.000 cada una. Según la tabla de categorías del Monotributo, el precio unitario máximo para venta de cosas muebles es de $385.000.",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Puede Martín inscribirse como Monotributista por la venta de sus impresoras? ¿Qué debe considerar para estar en regla?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, Martín puede inscribirse como Monotributista ya que el precio de sus impresoras no afecta su inscripción.",
+        "Devolucion": "Esta opción es incorrecta. El precio de los productos que vende Martín debe estar dentro del límite permitido por el Monotributo. Como sus impresoras están fijadas a $400.000, supera el límite de $385.000, lo que impide su inscripción como Monotributista.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No, Martín no puede inscribirse como Monotributista debido a que el precio de sus impresoras excede el límite permitido.",
+        "Devolucion": "Martín debe ajustarse al precio máximo unitario permitido para poder inscribirse en el Monotributo. Con un precio de $400.000 por unidad, no puede inscribirse en este régimen.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Martín puede inscribirse como Monotributista si baja el precio de sus auriculares a $385.000 o menos.",
+        "Devolucion": "Si Martín reduce el precio de sus impresoras a $385.000 o menos, podría inscribirse como Monotributista, siempre y cuando cumpla con los demás requisitos del régimen.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, puede inscribirse en el Monotributo y pagar una multa por exceder el precio máximo permitido.",
+        "Devolucion": "Esta opción es incorrecta. No existe una opción de multa por exceder el precio máximo unitario en el Monotributo; Martín simplemente no puede inscribirse en el régimen si su precio unitario supera el límite establecido.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    }
+]

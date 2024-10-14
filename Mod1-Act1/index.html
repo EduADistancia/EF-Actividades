@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Area Educación a Distacia - Min. de Educación GCABA">
+    <meta name="description" content="Material didáctico adicional.">
+    <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.5/dist/html2canvas.min.js"></script>
+    <link rel="stylesheet" href="./css/estilos.css">
+    <link rel="stylesheet" href="./css/cuestionario.css">
+    <link rel="stylesheet" href="./css/carousel.css">
+    <title>EF - Actividad</title>
+</head>
+<body id="captura" class="colorFondo2">
+    <div id="contenedor" class="colorFondo4">
+        
+        <!-- Membrete superior -->
+        <div id="membsup">
+            <img class="membrete" src="./img/membreteHeader.jpg" alt="Membrete Ministerio de Educación GCABA">
+        </div>
+
+        <!-- Contenido del documento -->
+        <div id="contenido" class="colorTexto2 imgFondo">
+            <header>
+                <div class="divHeader">
+                    <h1>Educación Financiera</h1>
+                    <img src="./img/inspeccion.png" alt="Imagen análisis" class="imgCabecera">
+                </div>
+            </header>
+            <main>
+                <section>
+                    <h2>Actividad: Casos prácticos</h2>
+                    <p>A continuación te proponemos analizar algunos ejemplos prácticos para comprender mejor el funcionamiento del Monotributo. Elegí en cada caso, la respuesta correcta.</p>
+                    <img src="./img/catMonotributo.png" alt="AFIP - Categorias Monotributo octubre 2024" class="imgActividad">
+                    <p>Nota: Los montos y límites mencionados en los casos prácticos son reales en base a Octubre del 2024. Para conocer en detalle los límites anuales establecidos y categorías actualizadas a la fecha, deben consultar el siguiente enlace: <a href="https://www.afip.gob.ar/monotributo/categorias.asp">AFIP - Montos y categorías</a>.</p>
+                    <div id="contenidoDinamico">
+
+                    </div>
+                </section>
+            </main>
+            <div class="botonera">
+                <button id="anterior" class="boton colorFondo1"><< Anterior</button>
+                <button id="siguiente" class="boton colorFondo1">Siguiente >></button>
+            </div>
+            <div class="botonera">
+                <button id="descarga" class="boton colorFondo1">Descargar resultados</button>
+            </div>
+        </div>
+
+    </div>
+    <script type="module" src="./js/main.js"></script>
+</body>
+</html>
