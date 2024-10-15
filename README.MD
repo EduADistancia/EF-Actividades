@@ -44,6 +44,7 @@ Vista de actividades:
 - [Actividad 2 - Afirmaciones: Verdadero o Falso](https://eduadistancia.github.io/EF-Actividades/Mod5-Act2/)
 - [Actividad 3 - Completar la frase (drag'n'drop)](https://eduadistancia.github.io/EF-Actividades/Mod5-Act3/)
 - [Actividad 4 - Unir conceptos y definiciones (ordenar tabla)](https://eduadistancia.github.io/EF-Actividades/Mod5-Act4/)
+- [Autoevaluación - Cuestionario de opción múltiple](https://eduadistancia.github.io/EF-Actividades/Mod5-Autoevaluacion/)
 
 
 ### Módulo 6

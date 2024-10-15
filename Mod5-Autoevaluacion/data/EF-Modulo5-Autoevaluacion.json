@@ -1,0 +1,352 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué es un presupuesto?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Un plan detallado para ahorrar dinero cada mes.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Un registro de todos los ingresos y gastos en un período específico. ",
+        "Devolucion": "¡Correcto! Un presupuesto te permite identificar patrones de gasto y ajustar tus hábitos financieros para cumplir tus objetivos.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Una estrategia para invertir en acciones.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Un documento para solicitar un préstamo.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál es la función principal de un presupuesto?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Ayudar a entender nuestras finanzas y evitar el endeudamiento innecesario. ",
+        "Devolucion": "¡Correcto! Por ejemplo, al utilizar un presupuesto, puedes ver claramente en qué áreas estás gastando más de lo necesario y tomar medidas para reducir esos gastos, lo que te ayudará a mantenerse financieramente saludable.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Reducir los gastos mensuales.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Aumentar los gastos personales.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Solicitar tarjetas de crédito.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué beneficios obtiene Julia al usar un presupuesto?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Puede gastar más sin preocupaciones.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tiene una visión clara de sus finanzas y puede tomar decisiones informadas. ",
+        "Devolucion": "¡Correcta! Por ejemplo, Julia puede planificar mejor sus compras de materiales para su negocio de artesanía y asegurarse de que siempre tiene suficiente dinero para cubrir sus necesidades básicas.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Evita trabajar como freelance.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Incrementa sus deudas personales.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué son los \"gastos hormiga\"?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Grandes inversiones a largo plazo.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Pequeños gastos diarios que se acumulan y pueden representar una cantidad significativa a fin de mes. ",
+        "Devolucion": "¡Correcta! Un ejemplo de gasto hormiga es comprar un café diario; si lo eliminas, podrías ahorrar una cantidad considerable cada mes que podrías destinar a un fondo de emergencia o inversión.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Gastos fijos y periódicos.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Ingresos variables y esporádicos.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál de las siguientes opciones es un gasto variable?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alquiler de vivienda.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Servicios (Luz, gas, teléfono)  ",
+        "Devolucion": "¡Correcta! Los servicios pueden variar según el uso y la temporada, por lo que es importante monitorearlos y ajustarlos cuando sea posible para optimizar el presupuesto.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Cuota del monotributo.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Pago de préstamos",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál es el primer paso para crear un presupuesto efectivo?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Gastar sin control.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Definir prioridades de gastos.",
+        "Devolucion": "¡Correcta! Identificar tus gastos esenciales, como vivienda y alimentos, y distinguirlos de los gastos secundarios te ayudará a enfocar tu presupuesto en lo que realmente importa.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Evitar registrar los ingresos.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Ignorar los gastos innecesarios.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Por cuánto tiempo se recomienda realizar un presupuesto mensual para familiarizarse con los hábitos financieros?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "1 semana.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "3 meses.",
+        "Devolucion": "Correcta! Realizar un presupuesto durante tres meses te permitirá observar patrones y ajustar tu planificación para lograr una gestión financiera más efectiva a largo plazo.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "6 meses.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "1 año.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué es la planificación financiera?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Un proceso que organiza y personaliza las finanzas para alcanzar objetivos concretos.",
+        "Devolucion": "¡Correcta! La planificación financiera te ayuda a establecer metas claras, como ahorrar para la compra de un vehículo o realizar un viaje, y a crear un plan detallado para alcanzarlas.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Un método para gastar más dinero cada mes.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Una estrategia para obtener préstamos.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Un plan para evitar gastar dinero.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál es el objetivo principal del ahorro?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Gastar más en lujos.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Estar preparado para imprevistos y alcanzar metas financieras. ",
+        "Devolucion": "¡Correcta! Por ejemplo, tener un fondo de emergencia puede ayudarte a cubrir gastos inesperados sin tener que endeudarte.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Evitar planificar las finanzas.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Incrementar las deudas personales.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál es la proporción sugerida en el Plan de Ahorro 50/30/20?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "50% para deseos, 30% para necesidades básicas, 20% para ahorro.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "50% para necesidades básicas, 30% para ahorro, 20% para deseos. .",
+        "Devolucion": "¡Correcta! Este plan ayuda a mantener un equilibrio financiero saludable, asegurando que la mayor parte de tus ingresos se destinen a necesidades esenciales, mientras aún puedes ahorrar y disfrutar de algunos lujos.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "50% para ahorro, 30% para necesidades básicas, 20% para deseos.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "50% para pago de deudas, 30% para ahorro, 20% para deseos.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    }
+]
