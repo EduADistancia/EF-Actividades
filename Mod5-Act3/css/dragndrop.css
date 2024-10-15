@@ -1,0 +1,31 @@
+.completar {
+    line-height: 2rem;
+}
+.word {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    margin: 0.5rem;
+    background-color: #153244;
+    color: white;
+    cursor: pointer;
+}
+.drop-area {
+    width: 3rem;
+    height: 1rem;
+    border: 2px dashed #ccc;
+    margin: 0.5rem 0;
+    padding: 0.25rem;
+}
+.drop-highlight {
+    color: #153244;
+    background-color: #ffcc00;
+}
+
+.oculto {
+    display: none;
+}
+
+.drop-mov {
+    background-color: #8de2d6;
+    border-radius: 5px;
+}

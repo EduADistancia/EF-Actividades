@@ -1,9 +1,10 @@
-// Arrastrar las filas
-function dragndrop () {
-    /* Incluídos dispositivos móbiles */
+// // Arrastrar las filas
+function dragndrop() {
+    /* Incluidos dispositivos móviles */
     const filas = document.querySelectorAll('#datos tr.ordenar');
     let filaArrastrada = null;
     let touchStartY = 0;
+    let touchStartX = 0;
     let touchTarget = null;
 
     filas.forEach(fila => {
@@ -21,6 +22,15 @@ function dragndrop () {
 
         fila.addEventListener('dragover', function (e) {
             e.preventDefault();
+            const currentY = e.clientY;
+            const elementBelow = document.elementFromPoint(e.clientX, currentY);
+            
+            if (elementBelow && elementBelow.tagName === 'TD') {
+                const filaDebajo = elementBelow.parentNode;
+                if (filaDebajo !== filaArrastrada) {
+                    intercambiarFilas(filaDebajo);
+                }
+            }
         });
 
         fila.addEventListener('drop', function (e) {
@@ -31,20 +41,30 @@ function dragndrop () {
         // Eventos para dispositivos táctiles
         fila.addEventListener('touchstart', function (e) {
             touchStartY = e.touches[0].clientY;
+            touchStartX = e.touches[0].clientX;
             touchTarget = this;
             this.classList.add('dragging');
         });
 
         fila.addEventListener('touchmove', function (e) {
-            e.preventDefault(); // Prevenir el desplazamiento de la página mientras se arrastra
+            const currentX = e.touches[0].clientX;
             const currentY = e.touches[0].clientY;
-            const elementBelow = document.elementFromPoint(e.touches[0].clientX, currentY);
 
-            if (elementBelow && elementBelow.tagName === 'TD') {
-                const filaDebajo = elementBelow.parentNode;
-                if (filaDebajo !== touchTarget && filaDebajo.parentElement.parentElement.id === "datos") {
-                    intercambiarFilas(filaDebajo);
+            // Verifica si el movimiento es mayor en el eje Y que en el eje X
+            if (Math.abs(currentY - touchStartY) > Math.abs(currentX - touchStartX)) {
+                e.preventDefault(); // Prevenir el desplazamiento vertical de la página
+
+                const elementBelow = document.elementFromPoint(currentX, currentY);
+
+                if (elementBelow && elementBelow.tagName === 'TD') {
+                    const filaDebajo = elementBelow.parentNode;
+                    if (filaDebajo !== touchTarget  && filaDebajo.parentElement.id === "datos") {
+                        intercambiarFilas(filaDebajo);
+                    }
                 }
+            } else {
+                // Si el movimiento es principalmente horizontal, no hacer nada
+                return;
             }
         });
 

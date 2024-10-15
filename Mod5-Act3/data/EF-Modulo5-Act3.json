@@ -1,0 +1,122 @@
+[
+    {
+        "Tipo": "Frase",
+        "Texto": "Un presupuesto es una herramienta que ayuda a <span>__________</span> nuestros ingresos y gastos.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "controlar",
+        "Devolucion": "El presupuesto tiene como objetivo permitirnos supervisar nuestros ingresos y gastos, para evitar desbalances financieros.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "ignorar",
+        "Devolucion": "Incorrecta. Ignorar ingresos y gastos lleva a una mala planificación financiera, lo opuesto a lo que busca un presupuesto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "aumentar",
+        "Devolucion": "Incorrecta. Un presupuesto no aumenta los ingresos o gastos, simplemente los organiza.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Frase",
+        "Texto": "Un presupuesto mensual debe ser revisado y <span>__________</span> regularmente para adaptarse a cambios en los ingresos o gastos.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "ajustado",
+        "Devolucion": "El presupuesto debe modificarse para reflejar cambios financieros, como un aumento en los gastos o una disminución en los ingresos.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "ignorado",
+        "Devolucion": "Incorrecta. Ignorar el presupuesto es un error común que lleva a problemas financieros, y no es la respuesta adecuada.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "creado",
+        "Devolucion": "Incorrecta. Crear un presupuesto es importante, pero esta acción se realiza al principio del proceso, no como un ajuste regular.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Frase",
+        "Texto": "El uso de <span>__________</span> en la planificación financiera ayuda a convertir deseos en objetivos concretos.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "objetivos SMART",
+        "Devolucion": "Los Objetivos SMART (específicos, medibles, alcanzables, relevantes y temporales) ayudan a convertir los deseos en metas financieras claras y alcanzables.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "ahorros",
+        "Devolucion": "Incorrecta. Aunque ahorrar es importante, en este contexto la frase habla de convertir deseos en objetivos, no de ahorro directamente.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "gastos",
+        "Devolucion": "Incorrecta. Los gastos son la parte que intentamos controlar con el presupuesto, pero no son el elemento clave para convertir deseos en objetivos.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Frase",
+        "Texto": "Para hacer un presupuesto efectivo, es importante considerar tanto los <span>__________</span> como los __________.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "ingresos / gastos",
+        "Devolucion": "Un presupuesto efectivo considera tanto lo que se gana como lo que se gasta para evitar desequilibrios.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "ahorros / deudas",
+        "Devolucion": "Incorrecta. Aunque ahorrar y pagar deudas son fundamentales, un presupuesto se enfoca en los ingresos y gastos, que son más amplios.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "metas / deseos",
+        "Devolucion": "Incorrecta. Si bien establecer metas y deseos es importante, el presupuesto en sí considera principalmente ingresos y gastos.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Frase",
+        "Texto": "Los <span>__________</span> pueden variar en función del consumo, como los gastos en entretenimiento o comida.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "gastos variables",
+        "Devolucion": "Los gastos variables fluctúan según el consumo, como entretenimiento o alimentación.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "gastos fijos",
+        "Devolucion": "Incorrecta. Los gastos fijos son constantes, como el alquiler, y no cambian en función del consumo.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "ahorros fijos",
+        "Devolucion": "Incorrecta. Aunque los ahorros pueden cambiar, esta categoría no corresponde a la variabilidad en función del consumo.",
+        "Estado": 0
+    }
+]

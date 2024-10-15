@@ -1,0 +1,102 @@
+[
+    {
+        "Tipo": "Concepto",
+        "Texto": "Presupuesto",
+        "Valor": 2
+    },
+    {
+        "Tipo": "Concepto",
+        "Texto": "Ingresos variables",
+        "Valor": 10
+    },
+    {
+        "Tipo": "Concepto",
+        "Texto": "Gastos fijos",
+        "Valor": 9
+    },
+    {
+        "Tipo": "Concepto",
+        "Texto": "Gastos variables",
+        "Valor": 6
+    },
+    {
+        "Tipo": "Concepto",
+        "Texto": "Planificación financiera a corto plazo",
+        "Valor": 7
+    },
+    {
+        "Tipo": "Concepto",
+        "Texto": "Estrategias de ahorro",
+        "Valor": 5
+    },
+    {
+        "Tipo": "Concepto",
+        "Texto": "Objetivos SMART",
+        "Valor": 8
+    },
+    {
+        "Tipo": "Concepto",
+        "Texto": "Plan de ahorro",
+        "Valor": 1
+    },
+    {
+        "Tipo": "Concepto",
+        "Texto": "Planificación financiera a largo plazo",
+        "Valor": 3
+    },
+    {
+        "Tipo": "Concepto",
+        "Texto": "Ingresos fijos",
+        "Valor": 4
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Estrategia para acumular dinero con metas específicas.",
+        "Valor": 1
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Registro detallado de todos los ingresos y gastos.",
+        "Valor": 2
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Estrategia para planificar el futuro financiero, incluyendo inversiones.",
+        "Valor": 3
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Cantidades de dinero que permanecen constantes, como un salario fijo.",
+        "Valor": 4
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Técnicas para reducir gastos y ahorrar dinero.",
+        "Valor": 5
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Gastos que fluctúan, como entretenimiento o comida.",
+        "Valor": 6
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Metas financieras que se logran en menos de un año.",
+        "Valor": 7
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Estrategia para definir metas específicas, medibles, alcanzables, relevantes y con límite de tiempo.",
+        "Valor": 8
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Gastos que deben cubrirse cada mes, como el alquiler.",
+        "Valor": 9
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Cantidades de dinero que fluctúan, como comisiones o bonos.",
+        "Valor": 10
+    }
+]
