@@ -1,0 +1,92 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "La jornada laboral no debe exceder las ocho horas diarias o cuarenta y ocho horas semanales.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "La ley establece que la duración de la jornada laboral no debe exceder las ocho horas diarias o cuarenta y ocho horas semanales.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "La ley establece que la duración de la jornada laboral no debe exceder las ocho horas diarias o cuarenta y ocho horas semanales.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "El trabajo nocturno está limitado a un máximo de 8 horas diarias.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "El trabajo nocturno está limitado a un máximo de 7 horas, no 8 horas.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "El trabajo nocturno está limitado a un máximo de 7 horas, no 8 horas.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "En un trabajo insalubre, la jornada no debe superar las 6 horas diarias.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "En ambientes insalubres, la jornada laboral no debe superar las 6 horas diarias.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "En ambientes insalubres, la jornada laboral no debe superar las 6 horas diarias.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Las horas trabajadas entre las 21:00 y las 06:00 se contabilizan como horas normales en un trabajo nocturno.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "Las horas trabajadas entre las 21:00 y las 06:00 se contabilizan como 1 hora y 8 minutos cada una para el cálculo de la jornada total.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "Las horas trabajadas entre las 21:00 y las 06:00 se contabilizan como 1 hora y 8 minutos cada una para el cálculo de la jornada total.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Si un trabajador realiza tareas insalubres durante su jornada, puede permanecer en ese ambiente durante 4 horas.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "En un entorno insalubre, no se puede permanecer más de 3 horas diarias.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "En un entorno insalubre, no se puede permanecer más de 3 horas diarias.",
+        "Estado": 1
+    }
+]
