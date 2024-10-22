@@ -1,0 +1,252 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cómo describirías tu comprensión sobre lo que es una deuda?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alta: Entiendo claramente qué es una deuda y los diferentes tipos.",
+        "Devolucion": "Aprovechá esta base sólida y revisá la sección \"Deuda, Préstamo y Crédito\" para perfeccionar tu habilidad de distinguir y gestionar los tipos de deuda según su impacto financiero. Esto te permitirá mejorar tu capacidad de tomar decisiones informadas sobre endeudamiento."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderada: Tengo una idea general, pero me faltan algunos detalles.",
+        "Devolucion": "Te sugerimos explorar la sección \"Deuda, Préstamo y Crédito\" para fortalecer tu comprensión sobre las diferentes formas de deuda. Esto te ayudará a mejorar tu capacidad de identificar deudas productivas e improductivas."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Baja: Sé lo básico, pero no estoy muy seguro/a de las diferencias entre tipos de deudas.",
+        "Devolucion": "Te sugerimos explorar la sección \"Deuda, Préstamo y Crédito\" para consolidar tus conocimientos sobre las características de cada tipo de deuda. Esto te permitirá reforzar tus habilidades para gestionar adecuadamente tus obligaciones financieras."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nula: No tengo conocimientos previos sobre el tema.",
+        "Devolucion": "Te sugerimos explorar la sección \"Deuda, Préstamo y Crédito\" para familiarizarte con los conceptos básicos de la deuda. Entender este punto es clave para mejorar tu capacidad de tomar decisiones informadas sobre créditos y préstamos."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué tan bien entendés la diferencia entre una deuda \"buena\" y una deuda \"mala\"?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alta: Puedo diferenciar claramente entre ambos tipos.",
+        "Devolucion": "Aprovechá tu comprensión avanzada y revisá \"La deuda ¿buena o mala?\" para seguir perfeccionando tu habilidad de gestionar deudas de manera efectiva según sus beneficios o riesgos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderada: Conozco la diferencia, pero no estoy completamente seguro/a.",
+        "Devolucion": "Te sugerimos revisar la sección \"La deuda ¿buena o mala?\" para fortalecer tu capacidad de evaluar la utilidad de cada tipo de deuda y su impacto en tu situación financiera."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Baja: Solo tengo una noción general de la diferencia.",
+        "Devolucion": "Te sugerimos explorar la sección \"La deuda ¿buena o mala?\" para aprender a distinguir entre deudas productivas e improductivas. Mejorarás así tus habilidades para tomar decisiones financieras más inteligentes."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nula: No estoy familiarizado/a con este concepto.",
+        "Devolucion": "Te sugerimos explorar la sección \"La deuda ¿buena o mala?\". Desarrollar esta habilidad te ayudará a tomar mejores decisiones sobre cuándo y cómo endeudarte."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cómo calificarías tu conocimiento sobre los pagos mínimos de la tarjeta de crédito y cómo contribuyen a la acumulación de deuda (efecto \"bola de nieve\")?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alto: Entiendo completamente cómo funcionan los pagos mínimos y sus efectos.",
+        "Devolucion": "Te sugerimos explorar la sección Pagos mínimos y la \"bola de nieve\" de deuda para profundizar en cómo evitar la acumulación de deuda. Esto te permitirá perfeccionar tu capacidad de manejar tarjetas de crédito de forma responsable."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderado: Lo comprendo, pero no en profundidad.",
+        "Devolucion": "Te sugerimos explorar la sección  Pagos mínimos y la \"bola de nieve\" de deuda para reforzar tu habilidad de controlar mejor el uso de tarjetas de crédito y minimizar el riesgo de sobreendeudamiento."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Bajo: Solo tengo un conocimiento básico.",
+        "Devolucion": "Te sugerimos explorar la sección  Pagos mínimos y la \"bola de nieve\" de deuda para mejorar tu comprensión y habilidades en la gestión de los pagos mínimos, evitando así el aumento innecesario de deuda."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nulo: No sé cómo funcionan los pagos mínimos.",
+        "Devolucion": "Te sugerimos explorar la sección  Pagos mínimos y la \"bola de nieve\" de deuda\". Desarrollar esta habilidad es clave para aprender a gestionar tu crédito de manera eficiente y evitar deudas insostenibles.\""
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Tenés claro cómo funcionan las fechas de cierre y vencimiento de la tarjeta de crédito?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Claro: Conozco cómo afectan el saldo y los pagos.",
+        "Devolucion": "Aprovechá esta comprensión y revisá \"Fechas de cierre y vencimiento\" para optimizar tu capacidad de organizar los pagos de tus tarjetas de crédito de forma estratégica y eficiente."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algo claro: Entiendo en general, pero tengo dudas.",
+        "Devolucion": "Te sugerimos explorar la sección \"Fechas de cierre y vencimiento\"  para mejorar tu habilidad de gestionar correctamente los plazos de pago y así evitar intereses adicionales."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Poco claro: Tengo una idea básica, pero no sé todos los detalles.",
+        "Devolucion": "Te sugerimos explorar la sección \"Fechas de cierre y vencimiento\" para fortalecer tu capacidad de controlar tus deudas de tarjeta de crédito de manera efectiva y evitar el cobro de intereses."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No tengo idea.",
+        "Devolucion": "Te sugerimos explorar la sección \"Fechas de cierre y vencimiento\". Mejorar esta habilidad te permitirá organizar tus pagos y manejar tu crédito con mayor confianza."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cómo evaluarías tu conocimiento sobre lo que es un perfil crediticio y cómo afecta la calificación crediticia?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alto: Sé cómo se construye y mantiene un buen perfil crediticio.",
+        "Devolucion": "Te sugerimos explorar la sección \"Perfil crediticio y calificación crediticia\" para seguir perfeccionando tu habilidad de mantener un perfil crediticio saludable y aprovecharlo al máximo en futuras decisiones financieras."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderado: Conozco algunos aspectos, pero me faltan detalles.",
+        "Devolucion": "Te sugerimos explorar la sección \"Perfil crediticio y calificación crediticia\" para reforzar tu capacidad de interpretar tu historial y mejorarlo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Bajo: Tengo una comprensión mínima.",
+        "Devolucion": "Focalizate en la sección de \"Perfil crediticio y calificación crediticia\" para fortalecer tus habilidades en el manejo del crédito y la interpretación de tu calificación."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nulo: No sé cómo funciona el perfil crediticio.",
+        "Devolucion": "Focalizate en el apartado de \"Perfil crediticio y calificación crediticia\" para adquirir las habilidades necesarias para construir y mantener un perfil crediticio sólido."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué tan familiarizado/a estás con los diferentes tipos de financiamiento disponibles para personas y emprendimientos?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Muy familiarizado/a: Conozco las opciones y cómo elegir la adecuada.",
+        "Devolucion": "Te sugerimos explorar la sección \"Tipos y fuentes de financiamiento\" para seguir perfeccionando tu capacidad de seleccionar las fuentes de financiamiento más convenientes según el contexto."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderadamente familiarizado/a: Conozco algunas opciones, pero no todas.",
+        "Devolucion": "Te sugerimos explorar la sección \"Tipos y fuentes de financiamiento\" para mejorar tu habilidad de evaluar opciones de financiamiento y cómo aplicarlas en tus proyectos personales o profesionales."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Poco familiarizado/a: Sé que existen opciones, pero no las diferencias.",
+        "Devolucion": "Focalizate en el apartado de \"Tipos y fuentes de financiamiento\" para fortalecer tu conocimiento y capacidad de identificar la fuente de financiamiento adecuada para cada situación."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Desconozco: No tengo conocimiento sobre esto.",
+        "Devolucion": "Te sugerimos explorar la sección \"Tipos y fuentes de financiamiento\" . Esto te permitirá desarrollar las habilidades necesarias para tomar decisiones estratégicas en cuanto al financiamiento."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cómo manejás actualmente tus deudas de tarjeta de crédito?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Pago el total del saldo cada mes para evitar intereses.",
+        "Devolucion": "Estás gestionando tu tarjeta de crédito de manera eficiente. Para seguir mejorando, revisá la sección \"Deuda de tarjeta de crédito\". Aquí podrás optimizar aún más el uso de tu tarjeta, aprovechando estratégicamente las fechas de cierre y vencimiento para evitar intereses innecesarios."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "A veces pago el mínimo, pero trato de liquidar el saldo lo más pronto posible.",
+        "Devolucion": "Vas por buen camino, pero es importante que refines tu estrategia. Te sugerimos revisar la sección \"Pagos mínimos y la 'bola de nieve' de deuda\". Ahí aprenderás cómo los intereses se acumulan con el tiempo y cómo podés planificar mejor para liquidar tus deudas de manera más eficiente."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Frecuentemente hago solo el pago mínimo.",
+        "Devolucion": "Es crucial que evalúes el impacto a largo plazo de esta práctica. Te sugerimos explorar la sección \"Pagos mínimos y la 'bola de nieve' de deuda\". Aprenderás cómo esta estrategia puede aumentar considerablemente tus intereses acumulados y descubrirás métodos para gestionar tu deuda de manera más sostenible."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No tengo tarjeta de crédito.",
+        "Devolucion": "Aunque no utilizás tarjetas de crédito en este momento, puede ser útil familiarizarte con su funcionamiento para el futuro. Te sugerimos explorar la sección \"Deuda de tarjeta de crédito\", donde obtendrás información valiosa para tomar decisiones informadas si en algún momento optás por utilizar este tipo de financiamiento."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Sabés cómo calcular la capacidad de endeudamiento personal?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, sé cómo calcularlo y aplicarlo a mi situación.",
+        "Devolucion": "Te recomendamos explorar la sección \"Capacidad de endeudamiento\" para perfeccionar tu capacidad de calcular y aplicar tu límite de endeudamiento de manera más efectiva en diversas situaciones."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algo: Tengo una idea general, pero no sé cómo hacer el cálculo exacto.",
+        "Devolucion": "Te recomendamos explorar la sección \"Capacidad de endeudamiento\" para fortalecer tu habilidad de calcular correctamente cuánto endeudarte sin afectar tu estabilidad financiera."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Poco: Tengo una noción básica, pero no sé bien cómo aplicarlo.",
+        "Devolucion": "Te recomendamos explorar la sección \"Capacidad de endeudamiento\" para mejorar tu comprensión sobre cómo calcular tu endeudamiento ideal."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No: No sé cómo calcularlo.",
+        "Devolucion": "Te sugerimos explorar la sección \"Capacidad de endeudamiento\" para desarrollar esta habilidad clave en la gestión financiera responsable."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué tan bien entendés la relación entre la tasa nominal anual (TNA), la tasa efectiva anual (TEA) y el costo financiero total (CFT) en un crédito?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alto: Entiendo claramente cómo se relacionan estas tasas y su impacto en el costo total del crédito.",
+        "Devolucion": "Te recomendamos explorar la sección \"¿Qué son la Tasa de Interés, la TNA, la TEA y el CFT en un préstamo?\" para perfeccionar tu habilidad de evaluar y comparar diferentes opciones de crédito. Esto mejorará tu capacidad de tomar decisiones financieras informadas sobre préstamos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderado: Conozco los conceptos básicos, pero me falta profundizar en algunos detalles.",
+        "Devolucion": "Recomendación: Te recomendamos explorar la sección \"¿Qué son la Tasa de Interés, la TNA, la TEA y el CFT en un préstamo?\" para fortalecer tu capacidad de comprender cómo cada tasa afecta el costo total de tu deuda, lo que te permitirá mejorar tus habilidades en la gestión de financiamientos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Bajo: Solo tengo una idea general, pero no entiendo completamente cómo funcionan.",
+        "Devolucion": "Te recomendamos explorar la sección \"¿Qué son la Tasa de Interés, la TNA, la TEA y el CFT en un préstamo?\" para reforzar tu comprensión sobre cómo estas tasas se calculan y cómo impactan en tus finanzas, mejorando así tu capacidad de analizar créditos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nulo: No estoy familiarizado/a con estos conceptos.",
+        "Devolucion": "Te recomendamos explorar la sección \"¿Qué son la Tasa de Interés, la TNA, la TEA y el CFT en un préstamo?\". Esto te permitirá desarrollar las habilidades necesarias para interpretar correctamente los costos asociados a los préstamos y evitar sorpresas financieras."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Sabés cómo identificar los riesgos de impago en un préstamo y cómo gestionarlos?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, puedo identificar claramente los riesgos y cómo manejarlos.",
+        "Devolucion": "Te recomendamos explorar la sección \"¿Cómo crear un plan para liberarte de las deudas?\" para perfeccionar tu habilidad de prever y disminuir los riesgos en el pago de préstamos, asegurando así la estabilidad de tus finanzas personales."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algo: Tengo una idea de algunos riesgos, pero no sé cómo gestionarlos completamente.",
+        "Devolucion": "Te sugerimos visitar la sección  \"¿Cómo crear un plan para liberarte de las deudas?\" para fortalecer tu capacidad de reconocer posibles señales de impago y aplicar estrategias para manejar de manera efectiva cualquier riesgo asociado."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Poco: Sé lo básico, pero no estoy muy seguro/a de cómo manejar el riesgo de impago.",
+        "Devolucion": "Te sugerimos visitar la sección \"¿Cómo crear un plan para liberarte de las deudas?\" para mejorar tu comprensión y habilidades en la identificación y gestión de riesgos de impago en préstamos, asegurando que tus decisiones financieras sean más seguras."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No: No sé cómo identificar o gestionar los riesgos de impago.",
+        "Devolucion": "Te sugerimos visitar la sección \"¿Cómo crear un plan para liberarte de las deudas?\" para desarrollar las habilidades necesarias para identificar y evitar riesgos financieros, mejorando tu capacidad de gestionar adecuadamente tus obligaciones de deuda."
+    }
+]

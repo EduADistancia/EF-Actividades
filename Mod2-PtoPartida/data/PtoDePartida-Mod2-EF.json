@@ -1,0 +1,277 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué tan familiarizado/a estás con los derechos y obligaciones de un trabajador en relación de dependencia?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Muy familiarizado/a: Conozco bien los derechos y obligaciones que tengo como trabajador.",
+        "Devolucion": "Utilizá tu experiencia para aplicar este conocimiento en situaciones reales y revisá la sección sobre \"Trabajadores en relación de dependencia: derechos y obligaciones\" para fortalecer aún más tus habilidades en la defensa de tus derechos laborales."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algo familiarizado/a: He oído hablar de algunos derechos y obligaciones, pero no conozco todos los detalles.",
+        "Devolucion": "Revisá la sección \"Trabajadores en relación de dependencia: derechos y obligaciones\" para ampliar tu comprensión sobre el tema y asegurate de conocerlos aspectos importantes."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Poco familiarizado/a: Sólo tengo un conocimiento básico sobre los derechos de los trabajadores.",
+        "Devolucion": "Dedicá tiempo a estudiar la sección sobre \"Trabajadores en relación de dependencia: derechos y obligaciones\" en el módulo. Construir una base sólida en este tema te permitirá adoptar habilidades clave para identificar y hacer valer tus derechos en el entorno laboral."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No estoy familiarizado: Desconozco los derechos y obligaciones de un trabajador.",
+        "Devolucion": "Comenzá con los temas básicos propuestos en la sección de \"Trabajadores en relación de dependencia: derechos y obligaciones\".Conocer los conceptos fundamentales es crucial para desarrollar las habilidades y la confianza para transitar tu vida laboral."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál crees que es tu nivel de conocimiento sobre el funcionamiento del recibo de sueldo y los conceptos que en él se detallan?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alto : Entiendo bien el desglose de los conceptos y las deducciones dentro del recibo.",
+        "Devolucion": "Aprovechá tu comprensión del tema para revisar la sección \"Estructura salarial\" y mejorar tu habilidad a la hora de interpretar los detalles de tus ingresos, aportes y deducciones."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderado: Entiendo algunos conceptos, pero tengo dudas sobre otros.",
+        "Devolucion": "Revisá la sección  \"Estructura salarial\" para afianzar tu habilidad para interpretar correctamente cada apartado del recibo de sueldo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Bajo: Tengo una idea general del tema, pero no conozco los detalles.",
+        "Devolucion": "Explorá la sección \"Estructura salarial\" para aprender el desglose de los ingresos, aportes y deducciones, y cómo estas cifras afectan el salario neto."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nulo: Desconozco cómo interpretar un recibo de sueldo.",
+        "Devolucion": "Te sugerimos enfocarte en la sección  \"Estructura salarial\" para familiarizarte con los conceptos fundamentales que componen el recibo de sueldo."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál crees que es tu es tu nivel de conocimiento sobre los derechos del trabajador en caso de ser despedido en un trabajo en relación de dependencia?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alto: Conozco los pasos a seguir y los derechos que protegen a los trabajadores.",
+        "Devolucion": "Aprovechá tu conocimiento, revisá la sección Despido\" y asegurate de comprender todos los derechos y los pasos a seguir frente a un despido injustificado o conflictivo.\""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderado: Conozco algunos aspectos, pero no estoy completamente seguro de que sean correctos.",
+        "Devolucion": "Te sugerimos revisar la sección \"Despido\" para fortalecer tu comprensión sobre los derechos que protegen a los trabajadores en caso de despido."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Bajo: Solo tengo una idea básica sobre el tema.",
+        "Devolucion": "Explorá la sección \"Despido\" para aprender más sobre los derechos de los trabajadores en caso de despido y cómo lograr que éstos sean respetados."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nulo: No tengo conocimientos sobre los derechos en caso de despido.",
+        "Devolucion": "Te sugerimos explorar la sección \"Despido\" para familiarizarte con los derechos que protegen a los trabajadores frente a un despido y los pasos a seguir para actuar en estas situaciones."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué nivel de comprensión tenés sobre la importancia de formalizar una relación laboral?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alto: Comprendo perfectamente por qué es importante registrar una relación laboral y sus beneficios.",
+        "Devolucion": "Enfocate en la sección  \"¿Qué es una relación laboral?\" para fortalecer aún más tu comprensión sobre la relevancia de este tema."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderado: Entiendo que la formalización es importante pero me gustaría saber más sobre sus implicaciones.",
+        "Devolucion": "Enfócate en la sección \"¿Qué es una relación laboral?\" para entender mejor sus beneficios y el impacto en los derechos de los trabajadores."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Bajo: Tengo una idea vaga sobre la formalización, pero no estoy seguro de sus beneficios.",
+        "Devolucion": "Dedicale tiempo y atención a la sección  \"¿Qué es una relación laboral?\"  para mejorar tu comprensión sobre el tema."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nulo: No tengo conocimientos sobre la formalización de relaciones laborales.",
+        "Devolucion": "Comenzá con los conceptos básicos en la sección \"¿Qué es una relación laboral?\" para aprender sobre la importancia de registrar una relación laboral y los derechos que de ello derivan."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Conocés cómo se calcula el salario neto en un recibo de sueldo?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, entiendo cómo se desglosan los ingresos y deducciones.",
+        "Devolucion": "Profundizá en este tema revisando la sección \"Estructura salarial\" y optimizá tus finanzas y asegurándote de estar aprovechando al máximo tus ingresos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tengo una idea general, pero me gustaría saber más sobre el tema.",
+        "Devolucion": "Explorá la sección \"Estructura salarial\" para obtener una comprensión más detallada sobre el impacto de las deducciones en el salario neto."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No estoy seguro de cómo se calcula.",
+        "Devolucion": "Es esencial comprender este tema este aspecto. Para ello, revisá la sección Estructura salarial\" para familiarizarte con el cálculo del salario neto y potenciar tu manejo financiero.\""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No tengo conocimiento sobre el recibo de sueldo.",
+        "Devolucion": "Comenzá por aprender los componentes básicos del recibo de sueldo y su importancia en la relación laboral. Esto te ayudará a establecer una base sólida para comprender tu situación financiera y tus derechos laborales."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué tan familiarizado estás con las modalidades de contrato de trabajo?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Muy familiarizado: Conozco las diferentes modalidades y cómo se aplican en la práctica.",
+        "Devolucion": "Utilizá tu experiencia para aplicar tus conocimientos a los casos prácticos que se presenten en el módulo. Profundizá en los temas presentados en la sección \"Modalidades de contrato de trabajo\" para mejorar tu comprensión y habilidades."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algo familiarizado: Sé que existen diferentes modalidades pero no conozco todos los detalles.",
+        "Devolucion": "Revisá en detalle la sección \"Modalidades de contrato de trabajo\" para obtener una comprensión más amplia sobre el tema. Practicá con los casos y ejemplos del módulo para fortalecer tus habilidades."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Poco familiarizado: He oído hablar de las modalidades de contrato pero no sé cómo funcionan.",
+        "Devolucion": "Enfocate en las explicaciones y ejemplos de cada modalidad en el apartado \"Modalidades de contrato de trabajo\" para aprender su uso práctico y la relevancia en el ámbito laboral."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No estoy familiarizado: No conozco las modalidades de contrato de trabajo.",
+        "Devolucion": "Comenzá con la sección básica\"Modalidades de contrato de trabajo\" para familiarizarte con los tipos de contratos y su importancia en la relación laboral."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué nivel de conocimiento tenés sobre la jornada laboral y las horas extra?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alto: Tengo una comprensión clara sobre las normativas que regulan la jornada laboral y las horas extra.",
+        "Devolucion": "Utilizá esta comprensión del tema para profundizar en la gestión de horas extra y los derechos asociados. Revisá la sección \"Jornada laboral y horas extra\" para mejorar tu conocimiento práctico."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderado: Entiendo los conceptos básicos pero me falta información sobre casos específicos.",
+        "Devolucion": "Enfócate en mejorar tu comprensión revisando la sección\"Jornada laboral y horas extra\" Esto te permitirá mejorar tu habilidad para aplicar estos conceptos en situaciones laborales reales."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Bajo: Conozco poco sobre la jornada laboral y las horas extra.",
+        "Devolucion": "Dedicá tiempo a estudiar la sección \"Jornada laboral y horas extra\". Entender este tema te permitirá comprender cuál es la mejor forma de abordar las negociaciones laborales y establecer límites claros en cada jornada."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nulo: No tengo conocimientos sobre la jornada laboral.",
+        "Devolucion": "Enfocate en los del apartado\"Jornada laboral y horas extra\" para ir construyendo una base sólida sobre este aspecto de la relación laboral. Aprender sobre los derechos y responsabilidades te ayudará a desarrollar confianza y las habilidades necesarias para gestionar tu tiempo y condiciones laborales cuando sea necesario."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Conocés cómo funcionan las asignaciones familiares y a quiénes están dirigidas?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, estoy bien informado sobre cómo acceder a ellas.",
+        "Devolucion": "Aprovechá tu conocimiento para maximizar los beneficios de las asignaciones familiares. Revisá la sección sobre \"Asignaciones familiares\" y asegúrate de estar al tanto de todos los requisitos y procedimientos. Esto te permitirá gestionar de manera efectiva los recursos disponibles para vos y tu familia cuando lo necesites."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tengo nociones básicas pero me gustaría entender mejor el tema.",
+        "Devolucion": "Profundizá en la sección \"Asignaciones familiares\" para aclarar dudas y obtener información detallada sobre su funcionamiento de las asignaciones. Esto te permitirá, en caso de que sea necesario, acceder adecuadamente a cada una de ellas y aprovecharlas las oportunidades que te corresponden."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No estoy seguro de cómo funcionan las asignaciones familiares.",
+        "Devolucion": "Es recomendable que te informes sobre las asignaciones familiares y su relevancia en el contexto laboral y familiar. Consultá la sección \"Asignaciones familiares\" para entender tus derechos y a gestionar mejor tus beneficios."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No tengo conocimiento sobre las asignaciones familiares.",
+        "Devolucion": "Comenzá por familiarizarte con los conceptos básicos en el apartado sobre \"Asignaciones familiares\". Comprender este tema es esencial para aprovechar los beneficios que pueden ofrecerte en tu situación laboral, ayudándote a mejorar tu bienestar y el de tu familia."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cómo calificarías tu nivel de conocimiento sobre las licencias laborales?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alto: Estoy bien informado sobre las diferentes licencias y sus requisitos.",
+        "Devolucion": "Revisá la sección \"Licencias\" para explorar ejemplos prácticos que te ayudarán a aplicar este conocimiento en situaciones reales."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderado: Conozco algunas licencias pero me falta información sobre el tema.",
+        "Devolucion": "Profundizá en la sección \"Licencias\" y ampliá tu comprensión sobre los procedimientos y requisitos específicos. Esto te permitirá tomar decisiones informadas y hacer valer tus derechos en caso de que lo necesites."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Bajo: Sé poco sobre las licencias laborales.",
+        "Devolucion": "Aprendé sobre este tema recorriendo la sección \"Licencias\" para obtener una visión clara de tus derechos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nulo: No tengo conocimiento sobre licencias laborales.",
+        "Devolucion": "Empezá por conocer los conceptos básicos sobre las licencias laborales y su importancia en la vida profesional. Esto te ayudará a desenvolverte con confianza en el entorno laboral y a cuidar de tus derechos."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Conoces las diferencias entre trabajo salubre e insalubre?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, estoy al tanto de las diferencias y sus implicaciones en la salud laboral.",
+        "Devolucion": "Aprovechá tu comprensión sobre el tema y profundizá en sus aspectos prácticos revisando la sección \"Trabajadores en relación de dependencia: derechos y obligaciones\". Esto te permitirá utilizar tu conocimiento en situaciones reales y conocer las condiciones para construir un entorno laboral seguro."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Si, Tengo una idea general pero no estoy seguro de los detalles.",
+        "Devolucion": "Recorré con atención la sección \"Trabajadores en relación de dependencia: derechos y obligaciones\" para enriquecer tu entendimiento. Conocer ejemplos concretos de ambos tipos de trabajo, te ayudará a reconocer correctamente sus diferencias y a comprender su impacto en el bienestar de los empleados."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No tengo claro qué significa trabajo salubre e insalubre.",
+        "Devolucion": "Revisá la sección \"Trabajadores en relación de dependencia: derechos y obligaciones\" para entender las características clave de cada tipo de trabajo y conocer cuales son las condiciones para construir un entorno laboral saludable."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No tengo conocimiento sobre el tema.",
+        "Devolucion": "Comenzá enfocandote en los conceptos básicos que se presentan en la introducción del módulo, específicamente en la sección Trabajadores en relación de dependencia: derechos y obligaciones\". Comprender estos conceptos te ayudará a identificar las condiciones que pueden afectar la salud en el trabajo y a reconocer aquellas que son necesarias para construir un entorno laboral saludable.\""
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué nivel de conocimiento considerás que tenés sobre la forma en que se calcula la indemnización en caso de despido y qué factores pueden influir en su pago?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alto: Estoy bien informado sobre el proceso de cálculo y los factores que afectan la indemnización.",
+        "Devolucion": "Aprovechá tu conocimiento y revisá la sección \"Indemnización\" para fortalecer tu comprensión sobre el tema y asegurarte de que estás preparado para cualquier eventualidad laboral."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderado: Tengo nociones generales pero me gustaría entender mejor los detalles del tema.",
+        "Devolucion": "Potenciá tu conocimiento sobre el tema recorriendo la sección \"Indemnización\" donde obtendrás información específica sobre los derechos que te asisten en caso de despido."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Bajo: No estoy seguro de cómo funciona el proceso de indemnización.",
+        "Devolucion": "Consulta la sección sobre \"Indemnización\"correspondiente para familiarizarte con los aspectos clave de la indemnización por despido."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nulo: No tengo conocimiento sobre indemnización en caso de despido.",
+        "Devolucion": "Comenzá por conocer los conceptos básicos en el apartado \"Indemnización\" para entender su importancia en el contexto laboral y cómo puede afectar tu situación si enfrentas un despido."
+    }
+]

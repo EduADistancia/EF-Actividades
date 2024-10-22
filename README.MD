@@ -14,6 +14,7 @@ Vista de actividades:
 - [Actividad 7: Identificación de incumplimientos](https://eduadistancia.github.io/EF-Actividades/Mod1-Act7/)
 
 ### Módulo 2
+- [Punto de Partidad - Trabajo en Relación de Dependencia](https://eduadistancia.github.io/EF-Actividades/Mod2-PtoPartida/)
 - [Actividad 1 - Cuestionario Verdadero o Falso (Derechos y Obligaciones)](https://eduadistancia.github.io/EF-Actividades/Mod2-Act1/)
 - [Actividad 2 - Asociar tipos de contrato con definición](https://eduadistancia.github.io/EF-Actividades/Mod2-Act2/)
 - [Actividad 3 - Cuestionario Verdadero o Falso (Jornada Laboral y Hs. extra)](https://eduadistancia.github.io/EF-Actividades/Mod2-Act3/)
@@ -34,6 +35,7 @@ Vista de actividades:
 - [Modelo de negocio CANVA](https://eduadistancia.github.io/EF-Actividades/CanvasBM/)
 
 ### Módulo 4
+- [Punto de Partida - Endeudamiento y Financiamiento](https://eduadistancia.github.io/EF-Actividades/Mod4-PtoPartida/)
 - [Actividad de comprobación 1 (escenarios deuda)](https://eduadistancia.github.io/EF-Actividades/Mod4-ActComp1/)
 - [Actividad caso práctico (préstamo)](https://eduadistancia.github.io/EF-Actividades/Mod4-ActCaso1/)
 - [Actividad cuestionario de opción múltiple](https://eduadistancia.github.io/EF-Actividades/Mod4-ActQuiz1/)
