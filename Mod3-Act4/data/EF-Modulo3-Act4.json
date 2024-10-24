@@ -1,0 +1,74 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "El Modelo Canvas es especialmente útil para los emprendedores porque permite...",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "...visualizar y organizar los aspectos clave de un proyecto de manera clara y práctica.",
+        "Devolucion": "El Modelo Canvas es una herramienta visual diseñada específicamente para emprendedores que les ayuda a organizar y visualizar todos los aspectos clave del proyecto o negocio.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "...escribir la misión y visión de la empresa de manera detallada.",
+        "Devolucion": "El Modelo Canvas es una herramienta visual diseñada específicamente para emprendedores que les ayuda a organizar y visualizar todos los aspectos clave del proyecto o negocio.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "...realizar un análisis financiero exhaustivo de la competencia.",
+        "Devolucion": "El Modelo Canvas es una herramienta visual diseñada específicamente para emprendedores que les ayuda a organizar y visualizar todos los aspectos clave del proyecto o negocio.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "La misión de una empresa describe...",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "...cómo el emprendimiento interactuará con sus clientes para construir relaciones duraderas.",
+        "Devolucion": "La misión de una empresa define su propósito fundamental y su razón de existir en el mercado. Expresa el objetivo principal de la empresa y cómo contribuye a satisfacer las necesidades del mercado.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "...el propósito esencial de la empresa y su razón de ser en el mercado.",
+        "Devolucion": "La misión de una empresa define su propósito fundamental y su razón de existir en el mercado. Expresa el objetivo principal de la empresa y cómo contribuye a satisfacer las necesidades del mercado.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "...las fuentes de ingresos que el negocio generará en el corto plazo.",
+        "Devolucion": "La misión de una empresa define su propósito fundamental y su razón de existir en el mercado. Expresa el objetivo principal de la empresa y cómo contribuye a satisfacer las necesidades del mercado.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "La propuesta de valor es crucial para un negocio porque...",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "...define los recursos clave que la empresa necesita para operar.",
+        "Devolucion": "Es lo que atrae a los clientes y les da una razón para elegir ese negocio en lugar de otro.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "...establece qué hace que el negocio sea único y cómo se diferencia de la competencia.",
+        "Devolucion": "Es lo que atrae a los clientes y les da una razón para elegir ese negocio en lugar de otro.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "...determina los canales a través de los cuales se distribuirán los productos.",
+        "Devolucion": "Es lo que atrae a los clientes y les da una razón para elegir ese negocio en lugar de otro.",
+        "Estado": 0
+    }
+]
