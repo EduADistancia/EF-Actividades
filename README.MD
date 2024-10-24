@@ -33,6 +33,7 @@ Vista de actividades:
 - [Mapeo de habilidades personales](https://eduadistancia.github.io/EF-Actividades/MapeoHP/)
 - [Actividad 4 - Completar la frase](https://eduadistancia.github.io/EF-Actividades/Mod3-Act4/)
 - [Actividad 5 - Seleccionar opción correcta](https://eduadistancia.github.io/EF-Actividades/Mod3-Act5/)
+- [Actividad 8 - Relacionar Herramientas con Objetivos (ordenar tabla)](https://eduadistancia.github.io/EF-Actividades/Mod3-Act8/)
 - [Matriz FODA](https://eduadistancia.github.io/EF-Actividades/MatrizFODA/)
 - [Modelo de negocio CANVA](https://eduadistancia.github.io/EF-Actividades/CanvasBM/)
 
