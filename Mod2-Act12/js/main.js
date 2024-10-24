@@ -16,10 +16,3 @@ let capturar = document.getElementById('descarga');
 capturar.addEventListener('click', ev => {
     descargar('#captura');
 });
-
-let reintentar = document.querySelector('#reintentar');
-reintentar.addEventListener('click', ev => {
-    window.location.reload();
-    scroll(5, 0);
-    ev.preventDefault();
-});

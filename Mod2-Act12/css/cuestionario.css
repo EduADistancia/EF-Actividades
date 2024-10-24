@@ -13,14 +13,18 @@
     padding: 0.5rem 0.5rem;
 }
 
+ul {
+    padding: 0 0.5rem;
+}
+
 li {
     margin: 0.5rem 0;
-    padding: 0 1rem;
+    padding: 0 1 rem;
     list-style-type: none;
 }
 
 input {
-    margin: 1rem 0.5rem 0 0;
+    margin: 0.5rem 1rem 0 0;
 }
 
 .seleccionado {
@@ -40,7 +44,7 @@ p.marco, .marco > p {
 }
 
 .imgEstado {
-    width: 5rem;
+    width: 4rem;
 }
 
 ul + div {
