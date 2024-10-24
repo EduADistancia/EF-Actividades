@@ -25,7 +25,7 @@ function calcular(){
     let options = {
         chart: {
             width: "100%",
-            height: 500,
+            height: 700,
             type: 'radar'
         },
         series: [
@@ -35,17 +35,20 @@ function calcular(){
         ],
         yaxis: {
                 max: 12,
-                stepSize: 1,
+                stepSize: 3,
         },
         plotOptions: {
             radar: {
-                size: 230,
+                size: 250,
                 offsetX: 0,
-                offsetY: 50,
+                offsetY: 0,
                 polygons: {
                     strokeColors: '#e8e8e8',
                     strokeWidth: 1,
                     connectorColors: '#e8e8e8',
+                    fill: {
+                        colors: ['#f8f8f8', '#fff']
+                    }
                 }
             }
         },
@@ -57,7 +60,22 @@ function calcular(){
                         colors: Array.from(campos, (x) => '#153244')
                 }
             }
-        }
+        },
+        responsive: [
+            {
+                breakpoint: 600,
+                options: {
+                    chart: {
+                        height: 350
+                    },
+                    plotOptions: {
+                        radar: {
+                            size: 100
+                        }
+                    },
+                }
+            }
+        ]
     }
         
     cargarContenido(options, resultados);
@@ -90,11 +108,16 @@ async function cargarContenido(options, resultados) {
             if (c["item"] == d) {
                 for (let e of escala) {
                     if (resultados[d] <= e) {
+                        let divItem = document.createElement('div');
+                        divItem.className = 'marco';
+                        let h3Item = document.createElement('h3');
+                        h3Item.textContent = d;
                         let p = document.createElement('p');
-                        p.className = 'marco';
+                        // p.className = 'marco';
                         p.innerHTML = c["valor_mensaje"][e];
                         // texto_dev.push(c["valor_mensaje"][e]);
-                        dev.append(p);
+                        divItem.append(h3Item, p);
+                        dev.append(divItem);
                         break;
                     }
                 }
