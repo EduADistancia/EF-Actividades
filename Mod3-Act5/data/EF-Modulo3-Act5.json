@@ -1,0 +1,182 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Publicidad en redes sociales (Facebook, Instagram, Twitter)",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tradicional",
+        "Devolucion": "Las redes sociales permiten la segmentación precisa y la interacción directa con usuarios a través de plataformas en línea.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Digital",
+        "Devolucion": "Las redes sociales permiten la segmentación precisa y la interacción directa con usuarios a través de plataformas en línea.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Anuncio en una revista impresa de circulación nacional",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tradicional",
+        "Devolucion": "Los anuncios impresos en revistas llegan a una amplia audiencia de manera física y tangible, sin la capacidad de medir la interacción en tiempo real.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Digital",
+        "Devolucion": "Los anuncios impresos en revistas llegan a una amplia audiencia de manera física y tangible, sin la capacidad de medir la interacción en tiempo real.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Campaña de marketing por e-mail dirigida a una lista de contactos suscriptos",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tradicional",
+        "Devolucion": "La campaña de marketing por e-mail permite enviar mensajes personalizados y medibles a una lista específica de suscriptores a través de internet.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Digital",
+        "Devolucion": "La campaña de marketing por e-mail permite enviar mensajes personalizados y medibles a una lista específica de suscriptores a través de internet.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Publicidad en televisión nacional",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tradicional",
+        "Devolucion": "La televisión llega a una audiencia masiva a través de medios visuales y auditivos, sin opciones de interacción directa o segmentación precisa en tiempo real.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Digital",
+        "Devolucion": "La televisión llega a una audiencia masiva a través de medios visuales y auditivos, sin opciones de interacción directa o segmentación precisa en tiempo real.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Video promocional en YouTube",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tradicional",
+        "Devolucion": "YouTube es una plataforma en línea que permite la distribución de videos promocionales, interactuando directamente con el público.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Digital",
+        "Devolucion": "YouTube es una plataforma en línea que permite la distribución de videos promocionales, interactuando directamente con el público.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Publicidad en carteles publicitarios en la vía pública",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tradicional",
+        "Devolucion": "Los carteles publicitarios proporcionan visibilidad en ubicaciones físicas, alcanzando a una audiencia amplia pero sin segmentación precisa ni interacción directa.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Digital",
+        "Devolucion": "Los carteles publicitarios proporcionan visibilidad en ubicaciones físicas, alcanzando a una audiencia amplia pero sin segmentación precisa ni interacción directa.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Anuncios pagados en Google",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tradicional",
+        "Devolucion": "Google permite crear anuncios que se muestran a usuarios específicos basados en búsquedas en línea, con capacidad para medir resultados y ajustar campañas en tiempo real.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Digital",
+        "Devolucion": "Google permite crear anuncios que se muestran a usuarios específicos basados en búsquedas en línea, con capacidad para medir resultados y ajustar campañas en tiempo real.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Folletos y flyers distribuidos en eventos locales",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tradicional",
+        "Devolucion": "Los folletos impresos se distribuyen físicamente en eventos para alcanzar a una audiencia local, sin la capacidad de medir la interacción digital.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Digital",
+        "Devolucion": "Los folletos impresos se distribuyen físicamente en eventos para alcanzar a una audiencia local, sin la capacidad de medir la interacción digital.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Publicidad en una aplicación de celular",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tradicional",
+        "Devolucion": "La publicidad en aplicaciones se realiza en entornos digitales y permite una interacción directa con los usuarios.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Digital",
+        "Devolucion": "La publicidad en aplicaciones se realiza en entornos digitales y permite una interacción directa con los usuarios.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Publicidad en estaciones de radio locales",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tradicional",
+        "Devolucion": "La radio llega a una audiencia local a través de medios auditivos, con un alcance amplio pero sin interacción digital o segmentación detallada.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Digital",
+        "Devolucion": "La radio llega a una audiencia local a través de medios auditivos, con un alcance amplio pero sin interacción digital o segmentación detallada.",
+        "Estado": 0
+    }
+]
