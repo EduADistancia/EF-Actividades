@@ -1,0 +1,42 @@
+[
+    {
+        "Tipo": "Concepto",
+        "Texto": "PESTEL",
+        "Valor": 1
+    },
+    {
+        "Tipo": "Concepto",
+        "Texto": "FODA",
+        "Valor": 2
+    },
+    {
+        "Tipo": "Concepto",
+        "Texto": "Porter",
+        "Valor": 3
+    },
+    {
+        "Tipo": "Concepto",
+        "Texto": "CAME",
+        "Valor": 4
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Identificar las fortalezas, debilidades, oportunidades y amenazas internas y externas.",
+        "Valor": 2
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Formular planes de acción para corregir debilidades, afrontar amenazas, mantener fortalezas y explotar oportunidades.",
+        "Valor": 4
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Comprender el entorno externo del negocio.",
+        "Valor": 1
+    },
+    {
+        "Tipo": "Descripcion",
+        "Texto": "Evaluar la competitividad y las fuerzas del mercado que afectan el negocio",
+        "Valor": 3
+    }
+]
