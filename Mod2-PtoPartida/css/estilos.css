@@ -61,6 +61,10 @@ h2, section {
     margin: 1rem 0;
 }
 
+section > p {
+    margin: 1rem 0;
+}
+
 #botonera {
     padding: 5%;
     display: flex;
