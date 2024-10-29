@@ -1,0 +1,32 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál sería el primer paso más adecuado para Laura en su camino hacia el éxito empresarial?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Desarrollar una campaña de marketing en redes sociales.",
+        "Devolucion": "El análisis de mercado es fundamental para Laura, ya que le proporcionará la información necesaria para comprender mejor a su público objetivo y la competencia. Con esta información, podrá desarrollar un plan de negocios más efectivo y tomar decisiones informadas sobre la producción y comercialización de sus productos. Sin una comprensión clara del mercado, cualquier inversión en marketing o producción podría no tener el impacto deseado.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Adquirir materiales y comenzar la producción de accesorios.",
+        "Devolucion": "El análisis de mercado es fundamental para Laura, ya que le proporcionará la información necesaria para comprender mejor a su público objetivo y la competencia. Con esta información, podrá desarrollar un plan de negocios más efectivo y tomar decisiones informadas sobre la producción y comercialización de sus productos. Sin una comprensión clara del mercado, cualquier inversión en marketing o producción podría no tener el impacto deseado.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Realizar un análisis de mercado para entender mejor a su público objetivo y la competencia.",
+        "Devolucion": "El análisis de mercado es fundamental para Laura, ya que le proporcionará la información necesaria para comprender mejor a su público objetivo y la competencia. Con esta información, podrá desarrollar un plan de negocios más efectivo y tomar decisiones informadas sobre la producción y comercialización de sus productos. Sin una comprensión clara del mercado, cualquier inversión en marketing o producción podría no tener el impacto deseado.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Buscar financiamiento para su negocio.",
+        "Devolucion": "El análisis de mercado es fundamental para Laura, ya que le proporcionará la información necesaria para comprender mejor a su público objetivo y la competencia. Con esta información, podrá desarrollar un plan de negocios más efectivo y tomar decisiones informadas sobre la producción y comercialización de sus productos. Sin una comprensión clara del mercado, cualquier inversión en marketing o producción podría no tener el impacto deseado.",
+        "Estado": 0
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "La innovación es siempre necesaria para el éxito emprendedor.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "Depende del contexto y del mercado; no todos los negocios exitosos requieren innovación radical.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "Depende del contexto y del mercado; no todos los negocios exitosos requieren innovación radical.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Un buen plan de negocios es suficiente para garantizar el éxito de un emprendimiento.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "La ejecución y la capacidad de adaptarse a cambios son igualmente cruciales.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "La ejecución y la capacidad de adaptarse a cambios son igualmente cruciales.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "La pasión por el producto o servicio es la única motivación que un emprendedor necesita.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "Además de la pasión, se necesitan habilidades, conocimientos y una sólida comprensión del mercado.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "Además de la pasión, se necesitan habilidades, conocimientos y una sólida comprensión del mercado.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "El marketing digital permite una segmentación precisa del público objetivo, mientras que el marketing tradicional no ofrece esta capacidad.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "El marketing digital permite una segmentación detallada basada en datos demográficos, intereses y comportamientos, lo que no es posible con la mayoría de las estrategias tradicionales, que tienden a ser más generalistas.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "El marketing digital permite una segmentación detallada basada en datos demográficos, intereses y comportamientos, lo que no es posible con la mayoría de las estrategias tradicionales, que tienden a ser más generalistas.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Las campañas de marketing tradicional pueden ser fácilmente ajustadas o modificadas una vez que se han lanzado.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "Una vez que se lanzan las campañas en medios tradicionales, es difícil hacer ajustes o modificaciones rápidas.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "Una vez que se lanzan las campañas en medios tradicionales, es difícil hacer ajustes o modificaciones rápidas.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "El análisis de la competencia debe realizarse solo al inicio del negocio.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "El análisis de la competencia es un proceso continuo que debe actualizarse regularmente para adaptarse a cambios en el mercado y en los competidores.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "El análisis de la competencia es un proceso continuo que debe actualizarse regularmente para adaptarse a cambios en el mercado y en los competidores.",
+        "Estado": 1
+    }
+]
