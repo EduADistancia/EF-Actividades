@@ -57,9 +57,20 @@ body {
     width: 20%;
 }
 
-h2, section {
+h2, h3, section {
     margin-top: 1rem;
     margin-bottom: 1rem;
+}
+
+.cabSection {
+    display: flex;
+    align-items: center;
+}
+
+i > img {
+    width: 3rem;
+    margin-right: 0.5rem;
+
 }
 
 #botonera {
