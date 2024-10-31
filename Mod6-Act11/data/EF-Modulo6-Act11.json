@@ -1,0 +1,38 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Un vendedor te ofrece una \"inversión exclusiva\" en una plataforma de criptomonedas, prometiéndote grandes beneficios sin riesgos. Sin embargo, no pudiste verificar el nombre de la empresa en los organismos reguladores y te piden una comisión de ingreso por adelantado.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Es una estafa.",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No es una estafa.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Un banco te ofrece un nuevo producto de inversión con un retorno garantizado y una tasa de interés alta. Al solicitar informació, el banco Además, el banco proporciona toda una carpeta con documentación que podés constatar en la CNV.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Es una estafa.",
+        "Devolucion": "Incorrecto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No es una estafa.",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    }
+]

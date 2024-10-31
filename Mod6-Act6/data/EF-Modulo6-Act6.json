@@ -1,0 +1,110 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Un inversor agresivo prefiere inversiones predecibles y de bajo riesgo.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "Incorrecto. El inversor agresivo suele buscar inversiones con mayor riesgo, como las acciones, esperando obtener rendimientos más altos.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "¡Correcto! Un inversor agresivo prefiere inversiones de alto riesgo, no predecibles.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "El perfil conservador de inversor busca maximizar sus beneficios, incluso si esto implica asumir riesgos significativos.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "Incorrecto. El inversor conservador prefiere mantener su capital seguro, aunque eso signifique menores rendimientos.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "¡Correcto! El inversor conservador prioriza la seguridad por encima de las ganancias.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "La capacidad de asumir riesgos se refiere al monto de riesgo financiero que el inversor puede permitirse sin comprometer su estabilidad.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "¡Correcto! La capacidad de riesgo es un concepto clave para mantener estabilidad financiera mientras se invierte.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "Incorrecto. La capacidad de asumir riesgos es un aspecto clave que todo inversor debe tener en cuenta para no comprometer su estabilidad financiera.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Un inversor moderado busca equilibrio entre seguridad y rentabilidad, asumiendo un riesgo controlado.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "¡Correcto! El inversor moderado asume riesgos medidos para lograr equilibrio entre crecimiento y seguridad.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "Incorrecto. El inversor moderado busca una combinación de seguridad y rendimiento, aceptando riesgos controlados.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Las preguntas clave para la planificación financiera incluyen el nivel de riesgo y las implicaciones fiscales.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "¡Correcto! Evaluar el riesgo y las implicaciones fiscales son aspectos fundamentales en la planificación financiera.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "Incorrecto. Las implicaciones fiscales y el nivel de riesgo son factores clave que afectan las decisiones de inversión.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "El perfil de inversor se determina únicamente por la cantidad de capital disponible para invertir.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "Incorrecto. El perfil del inversor se basa en varios factores, no solo en el capital disponible, sino también en su capacidad de asumir riesgos y sus metas.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "¡Correcto! El perfil de inversor se determina por más que solo el capital, incluyendo la tolerancia al riesgo y los objetivos.",
+        "Estado": 1
+    }
+]

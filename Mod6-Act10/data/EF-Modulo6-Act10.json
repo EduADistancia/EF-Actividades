@@ -1,0 +1,146 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál de las siguientes opciones representa una característica común de un esquema Ponzi?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Promete altos rendimientos sin riesgo",
+        "Devolucion": "Aunque los esquemas Ponzi suelen prometer altos rendimientos, esta opción es engañosa porque no menciona la necesidad de nuevos inversores. La promesa de \"sin riesgo\" es una característica típica de ofertas fraudulentas.",
+        "Estado": "0"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Usa dinero de nuevos inversores para pagar a los anteriores",
+        "Devolucion": "Esta es una de las características clave de un esquema Ponzi. En este tipo de fraude, el dinero de los nuevos inversores se utiliza para pagar las ganancias prometidas a los inversores anteriores, lo que hace que el esquema dependa continuamente de la entrada de nuevos fondos.",
+        "Estado": "1"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Vende productos con descuentos especiales",
+        "Devolucion": "Esta opción no se relaciona directamente con los esquemas Ponzi. Vender productos con descuentos puede ser una estrategia de marketing legítima, pero no es una característica de un esquema Ponzi.",
+        "Estado": "0"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué señal de advertencia indica que una oferta de inversión puede ser fraudulenta?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "La empresa está registrada en la CNV",
+        "Devolucion": "Si una empresa está registrada en la CNV (Comisión Nacional de Valores), esto suele ser un indicativo de que la oferta es legítima. La falta de registro es, de hecho, una señal de advertencia.",
+        "Estado": "0"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Ofrecen información confidencial sobre la inversión",
+        "Devolucion": "Ofrecer información confidencial no es necesariamente una señal de advertencia en sí misma. Sin embargo, la falta de transparencia y documentación accesible puede serlo.",
+        "Estado": "0"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "La oferta requiere una decisión rápida",
+        "Devolucion": "Esta es una señal clara de advertencia. Los estafadores a menudo presionan a los inversores para que tomen decisiones rápidas para evitar que hagan una investigación adecuada sobre la inversión.",
+        "Estado": "1"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál es una de las tácticas utilizadas en el fraude de tipo \"Pump-and-Dump\"?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Comprar activos y mantenerlos a largo plazo",
+        "Devolucion": "Esta opción describe una estrategia de inversión convencional y responsable, no una táctica de fraude.",
+        "Estado": "0"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Incrementar artificialmente el valor de un activo con información falsa",
+        "Devolucion": "En un esquema \"Pump-and-Dump\", los estafadores compran activos de bajo valor y luego difunden información falsa para inflar artificialmente su precio, para después venderlos a precios inflados, dejando a otros inversores con activos que pierden valor.",
+        "Estado": "1"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Ofrecer un reembolso en caso de incumplimiento",
+        "Devolucion": "Esta táctica es una estrategia engañosa que puede parecer atractiva, pero no se relaciona con el esquema \"Pump-and-Dump\".",
+        "Estado": "0"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "En un esquema piramidal, ¿qué sucede cuando ya no se pueden reclutar nuevos miembros?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El esquema continúa operando sin cambios",
+        "Devolucion": "Un esquema piramidal no puede operar indefinidamente sin nuevos miembros, ya que su funcionamiento depende de la incorporación constante de nuevos inversores.",
+        "Estado": "0"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El esquema se desmorona rápidamente",
+        "Devolucion": "Cuando no se pueden reclutar nuevos miembros, los ingresos disminuyen y el esquema colapsa, dejando a los últimos inversores sin retorno alguno.",
+        "Estado": "1"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Se aumenta la inversión inicial requerida",
+        "Devolucion": "Aunque algunos estafadores pueden intentar aumentar las inversiones iniciales para atraer más dinero, esto no es una característica inherente a los esquemas piramidales y no resolvería el problema de la falta de nuevos miembros.",
+        "Estado": "0"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué tipo de fraude implica una comisión por adelantado que no se recupera?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Esquema Ponzi",
+        "Devolucion": "Un esquema Ponzi se basa en el uso de fondos de nuevos inversores para pagar a los anteriores, no en el cobro de comisiones por adelantado.",
+        "Estado": "0"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Fraude de comisiones por adelantado",
+        "Devolucion": "Este tipo de fraude requiere que los inversores paguen comisiones por adelantado para participar en una inversión, pero nunca recuperan esos fondos, ya que la inversión no existe o no se ejecuta como se prometió.",
+        "Estado": "1"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Estafa a través de plataformas virtuales",
+        "Devolucion": "Aunque pueden involucrar diferentes tácticas de fraude, no todas las estafas en plataformas virtuales requieren comisiones por adelantado.",
+        "Estado": "0"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál de los siguientes es un signo de una oferta de inversión legítima?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "La oferta promete altos rendimientos garantizados",
+        "Devolucion": "Las promesas de altos rendimientos garantizados son típicamente señales de advertencia de estafas. Una oferta legítima debe incluir riesgos y no garantizar ganancias.",
+        "Estado": "0"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "La empresa está registrada y regulada por la CNV",
+        "Devolucion": "Una empresa registrada y regulada por la CNV es un signo de que la oferta de inversión es legítima y cumple con las normativas vigentes, lo que brinda mayor seguridad a los inversores.",
+        "Estado": "1"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "La oferta requiere una decisión inmediata para no perder la oportunidad",
+        "Devolucion": "Esta situación suele ser una táctica utilizada por estafadores para presionar a los inversores a tomar decisiones rápidas y evitar que realicen una investigación adecuada.",
+        "Estado": "0"
+    }
+]

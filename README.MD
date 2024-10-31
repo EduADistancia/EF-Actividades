@@ -58,4 +58,7 @@ Vista de actividades:
 ### Módulo 6
 - [Actividad 1 - Cuestionario de opción múltiple](https://eduadistancia.github.io/EF-Actividades/Mod6-Act1/)
 - [Actividad 5 - Completar la frase (drag'n'drop)](https://eduadistancia.github.io/EF-Actividades/Mod6-Act5/)
+- [Actividad 6 - Cuestionario Verdadero o Falso (Perfil de inversor)](https://eduadistancia.github.io/EF-Actividades/Mod6-Act6/)
+- [Actividad 10 - Cuestionario de opción múltiple (Identificar estafas)](https://eduadistancia.github.io/EF-Actividades/Mod6-Act10/)
+- [Actividad 11 - Seleccionar opción correcta (Identificar estafas)](https://eduadistancia.github.io/EF-Actividades/Mod6-Act11/)
 - [Calculadora de Interés Compuesto](https://eduadistancia.github.io/EF-Actividades/CalculadoraIC/)
