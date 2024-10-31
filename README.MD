@@ -56,4 +56,6 @@ Vista de actividades:
 
 
 ### Módulo 6
+- [Actividad 1 - Cuestionario de opción múltiple](https://eduadistancia.github.io/EF-Actividades/Mod6-Act1/)
+- [Actividad 5 - Completar la frase (drag'n'drop)](https://eduadistancia.github.io/EF-Actividades/Mod6-Act5/)
 - [Calculadora de Interés Compuesto](https://eduadistancia.github.io/EF-Actividades/CalculadoraIC/)

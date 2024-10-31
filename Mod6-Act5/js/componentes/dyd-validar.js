@@ -72,30 +72,24 @@ function dragndrop(dropArea){
     function touchStart(event) {
         draggedElement = event.target;
         event.target.style.opacity = '0.5';
+        event.target.style.position = 'fixed';
         event.target.style.zIndex = '1000';
     }
 
     function touchMove(event) {
-        if (draggedElement) {
+        event.preventDefault();
+        const touch = event.touches[0];
+        draggedElement.style.left = `${touch.clientX - draggedElement.offsetWidth / 2}px`;
+        draggedElement.style.top = `${touch.clientY - draggedElement.offsetHeight / 2}px`;
 
-            const touch = event.touches[0];
-            draggedElement.style.position = 'absolute';
-            draggedElement.style.left = `${touch.clientX - draggedElement.offsetWidth / 2}px`;
-            draggedElement.style.top = `${touch.clientY - draggedElement.offsetHeight / 2}px`;
-    
-            // Evitar el scroll en móviles
-            event.preventDefault();
-    
-            const dropAreaRect = dropArea.getBoundingClientRect();
-    
-            if (touch.clientX >= dropAreaRect.left &&
-                touch.clientX <= dropAreaRect.right &&
-                touch.clientY >= dropAreaRect.top &&
-                touch.clientY <= dropAreaRect.bottom) {
-                dropArea.classList.add('drop-highlight');
-            } else {
-                dropArea.classList.remove('drop-highlight');
-            }
+        const dropAreaRect = dropArea.getBoundingClientRect();
+        if (touch.clientX >= dropAreaRect.left &&
+            touch.clientX <= dropAreaRect.right &&
+            touch.clientY >= dropAreaRect.top &&
+            touch.clientY <= dropAreaRect.bottom) {
+            dropArea.classList.add('drop-highlight');
+        } else {
+            dropArea.classList.remove('drop-highlight');
         }
     }
 
@@ -122,20 +116,16 @@ function dragndrop(dropArea){
                 dropArea.removeChild(eliminar);
             }
             
-            dropArea.appendChild(draggedElement);
             let rta = document.querySelector(`p[name=${draggedElement.id}]`);
             rta.classList.remove('oculto');
             rta.nextElementSibling.classList.remove('oculto');
-            // draggedElement.style.opacity = '1';
-            // dropArea.classList.remove('drop-highlight')
+            dropArea.appendChild(draggedElement);
         }
         draggedElement.style.opacity = '1';
-        dropArea.classList.remove('drop-highlight');
         draggedElement.style.position = 'static';
         draggedElement.style.zIndex = 'initial';
+        dropArea.classList.remove('drop-highlight');
         draggedElement = null;
-
-        
     }
 }
 
