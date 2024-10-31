@@ -1,0 +1,98 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué aspecto se refiere a la posibilidad de que el valor de una inversión fluctúe?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Rentabilidad",
+        "Devolucion": "La rentabilidad se refiere a la ganancia o rendimiento que se obtiene de una inversión, expresada como un porcentaje del capital invertido. No mide la fluctuación en el valor de la inversión, sino el beneficio que se puede obtener de ella.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Volatilidad",
+        "Devolucion": "La volatilidad mide la variabilidad de los precios de una inversión a lo largo del tiempo. Una inversión con alta volatilidad tiene precios que fluctúan considerablemente en cortos períodos, lo que refleja el riesgo asociado a la inversión.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Liquidez",
+        "Devolucion": "La liquidez se refiere a la facilidad con la que un activo puede ser convertido en efectivo sin afectar significativamente su valor. No está relacionada con la fluctuación del valor de la inversión, sino con la rapidez y facilidad de acceso a ese valor.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál es una diferencia clave entre el interés compuesto y el interés simple?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El interés compuesto se calcula solo sobre el capital original.",
+        "Devolucion": "El interés compuesto se calcula sobre el capital inicial más los intereses acumulados en períodos anteriores, lo que permite que el capital crezca de forma exponencial, a diferencia del interés simple.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El interés simple permite que los intereses generados se sumen al capital.",
+        "Devolucion": "El interés simple no permite que los intereses se sumen al capital; se calcula solo sobre el monto inicial depositado, lo que significa que los intereses son siempre los mismos en cada período.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El interés compuesto crea un efecto multiplicador al sumar los intereses generados al capital inicial.",
+        "Devolucion": "El interés compuesto permite que los intereses acumulados se sumen al capital inicial, generando nuevos intereses en períodos subsiguientes. Esto crea un efecto multiplicador que puede llevar a un crecimiento significativo del capital a lo largo del tiempo.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál de las siguientes preguntas es clave para evaluar el riesgo de una inversión?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "¿Cuál es la rentabilidad histórica de la inversión?",
+        "Devolucion": "Aunque la rentabilidad histórica puede ofrecer información sobre el desempeño pasado de una inversión, no es una medida directa del riesgo. No ayuda a un inversor a comprender cuánto capital puede estar dispuesto a perder en el futuro.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "¿Cuál es la facilidad de convertir la inversión en efectivo?",
+        "Devolucion": "Esta pregunta se refiere a la liquidez de la inversión, no al riesgo. Aunque la liquidez es importante para entender cómo se puede acceder a los fondos, no aborda la posibilidad de pérdidas en el capital invertido.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "¿Cuánto de mi capital estoy dispuesto a perder?",
+        "Devolucion": "Esta pregunta es fundamental para evaluar la tolerancia al riesgo del inversor. Conocer cuánto capital está dispuesto a arriesgar ayuda a determinar el tipo de inversiones adecuadas para su perfil de riesgo y a gestionar mejor las expectativas sobre posibles pérdidas.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué factor se refiere a la facilidad con la que una inversión se puede convertir en efectivo sin afectar significativamente su valor?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Rentabilidad",
+        "Devolucion": "La rentabilidad se refiere a los beneficios que se obtienen de una inversión, no a su capacidad de ser convertida en efectivo. Por lo tanto, no es un factor que describa la liquidez de una inversión.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Liquidez",
+        "Devolucion": "La liquidez mide la rapidez y facilidad con que una inversión puede ser convertida en efectivo sin que su valor se vea afectado de manera significativa. Inversiones con alta liquidez permiten un acceso rápido a los fondos.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Diversificación",
+        "Devolucion": "La diversificación es una estrategia de inversión que consiste en repartir el capital entre diferentes activos para reducir el riesgo. No se relaciona directamente con la facilidad de convertir una inversión en efectivo, sino con la gestión del riesgo dentro de una cartera de inversiones.",
+        "Estado": 0
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "Tipo": "Frase",
+        "Texto": "El inversor <span>__________</span> prioriza la seguridad de su capital y busca opciones de inversión que minimicen la posibilidad de pérdida, aunque obtenga rendimientos bajos.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "moderado",
+        "Devolucion": "El inversor moderado equilibra entre seguridad y rentabilidad, aceptando riesgos moderados.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "conservador",
+        "Devolucion": "El inversor conservador prioriza la seguridad y prefiere rendimientos bajos pero seguros.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "agresivo",
+        "Devolucion": "El inversor agresivo se enfoca en maximizar beneficios, incluso con alto riesgo.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Frase",
+        "Texto": "El inversor <span>__________</span> equilibra la seguridad con la rentabilidad, dispuesto a asumir un riesgo controlado para mejorar sus rendimientos a mediano o largo plazo.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "moderado",
+        "Devolucion": "El inversor moderado busca un balance entre riesgo y rendimiento.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "conservador",
+        "Devolucion": "El inversor conservador no asume riesgos controlados, busca seguridad completa.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "agresivo",
+        "Devolucion": "El inversor agresivo toma más riesgos que un moderado para obtener mayores ganancias.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Frase",
+        "Texto": "El inversor <span>__________</span> tiene alta tolerancia al riesgo y busca maximizar sus beneficios, incluso si esto implica afrontar la posibilidad de pérdidas importantes, invirtiendo en activos volátiles.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "moderado",
+        "Devolucion": "Aunque acepta cierto riesgo, el moderado lo controla para evitar pérdidas importantes.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "conservador",
+        "Devolucion": "El inversor agresivo asume riesgos elevados para obtener mayores beneficios.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "agresivo",
+        "Devolucion": "El conservador evita los activos volátiles y las grandes pérdidas potenciales.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Frase",
+        "Texto": "Para identificar el perfil de riesgo de un inversor, se deben evaluar tres aspectos fundamentales: el <span>__________</span> necesario para alcanzar los objetivos financieros, la __________ de asumir riesgos y la __________ al riesgo.",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "capital / volatilidad / estrategia",
+        "Devolucion": "El capital es el monto invertido, no el tiempo para lograr los objetivos. La volatilidad se refiere a la fluctuación del mercado, no a la capacidad del inversor. La estrategia es cómo un inversor implementa decisiones, no su tolerancia al riesgo.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "horizonte / capacidad / tolerancia",
+        "Devolucion": "El horizonte temporal refleja el tiempo necesario para alcanzar objetivos financieros. La capacidad de asumir riesgos es clave en la evaluación del perfil de un inversor. La tolerancia al riesgo mide cuánto riesgo está dispuesto a asumir un inversor.",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Palabra",
+        "Texto": "liquidez / diversificación / objetivo",
+        "Devolucion": "La liquidez es la capacidad de convertir inversiones en efectivo rápidamente. La diversificación es una estrategia de inversión, no una característica del inversor. El objetivo es la meta financiera, no una característica del perfil de riesgo.",
+        "Estado": 0
+    }
+]
