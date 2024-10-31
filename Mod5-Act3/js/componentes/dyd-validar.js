@@ -15,13 +15,13 @@ function dragndrop(dropArea){
         word.addEventListener('dragstart', dragStart);
         word.addEventListener('dragend', dragEnd);
         word.addEventListener('touchstart', touchStart);
+        word.addEventListener('touchmove', touchMove);
+        word.addEventListener('touchend', touchEnd);
     });
     
     dropArea.addEventListener('dragover', dragOver);
     dropArea.addEventListener('dragleave', dragLeave);
     dropArea.addEventListener('drop', drop);
-    dropArea.addEventListener('touchmove', touchMove);
-    dropArea.addEventListener('touchend', touchEnd);
 
     function dragStart(event) {
         draggedElement = event.target;
@@ -72,15 +72,15 @@ function dragndrop(dropArea){
     function touchStart(event) {
         draggedElement = event.target;
         event.target.style.opacity = '0.5';
-        event.target.style.position = 'absolute';
+        event.target.style.position = 'fixed';
         event.target.style.zIndex = '1000';
     }
 
     function touchMove(event) {
         event.preventDefault();
         const touch = event.touches[0];
-        draggedElement.style.left = `${touch.clientX - draggedElement.offsetWidth / 2}px`;
-        draggedElement.style.top = `${touch.clientY - draggedElement.offsetHeight / 2}px`;
+        draggedElement.style.left = `${touch.clientX - draggedElement.offsetWidth}px`;
+        draggedElement.style.top = `${touch.clientY - draggedElement.offsetHeight}px`;
         
         const dropAreaRect = dropArea.getBoundingClientRect();
         if (touch.clientX >= dropAreaRect.left &&
@@ -107,12 +107,18 @@ function dragndrop(dropArea){
             if (dropArea.childNodes[0]) {
                 let eliminar = dropArea.childNodes[0];
                 let rtaVista = document.querySelector(`p[name=${eliminar.id}]`);
-                rtaVista.classList.add('oculto');
+                
+                if (rtaVista) {
+                    rtaVista.classList.add('oculto');
+                    rtaVista.nextElementSibling.classList.add('oculto');
+                }
+
                 dropArea.removeChild(eliminar);
             }
             
             let rta = document.querySelector(`p[name=${draggedElement.id}]`);
             rta.classList.remove('oculto');
+            rta.nextElementSibling.classList.remove('oculto');
             dropArea.appendChild(draggedElement);
         }
         draggedElement.style.opacity = '1';
