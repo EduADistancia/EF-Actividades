@@ -22,8 +22,8 @@ body {
 }
 
 #contenido {
-    padding: 2%;
-    margin: 1%;
+    padding: 0 2%;
+    margin: 0 1%;
 }
 
 /* MEMBRETE */
@@ -43,8 +43,7 @@ body {
 #contenido > header, 
 #contenido > main, 
 #contenido > footer {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    margin: 0.5rem 0;
 }
 
 .divHeader {
@@ -58,7 +57,7 @@ body {
     width: 20%;
 }
 
-h2, section {
+h2, h3, section {
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
@@ -69,6 +68,15 @@ iframe {
     height: 600px;
 } 
     
+.cabSection {
+    display: flex;
+    align-items: center;
+}
+
+i > img {
+    width: 3rem;
+    margin-right: 0.5rem;
+}    
 
 #botonera {
     padding: 5%;
