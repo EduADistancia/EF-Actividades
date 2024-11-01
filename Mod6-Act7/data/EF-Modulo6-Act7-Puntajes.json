@@ -1,0 +1,22 @@
+[
+    {
+        "Puntaje": "12",
+        "Titulo": "",
+        "Devolucion": "No respondiste suficientes preguntas cómo para evaluar tu perfil."
+    },
+    {
+        "Puntaje": "22",
+        "Titulo": "Inversor conservador",
+        "Devolucion": "Sos un inversor que valora la seguridad por encima de las ganancias. Prefieres evitar cualquier riesgo y mantener tu capital a salvo. Para vos, las inversiones ideales son aquellas que te ofrecen estabilidad y protección del capital, como los plazos fijos, bonos del gobierno y fondos de inversión de bajo riesgo. Asegurate de diversificar, pero sin salir de tu zona de confort."
+    },
+    {
+        "Puntaje": "42",
+        "Titulo": "Inversor moderado",
+        "Devolucion": "Buscás un balance entre riesgo y rentabilidad. Eres lo suficientemente cauteloso como para proteger tu capital, pero también sabés que asumir un riesgo controlado puede llevarte a obtener mejores resultados a largo plazo. Las inversiones diversificadas en bonos, acciones y fondos equilibrados pueden ser adecuadas para vos Seguí monitoreando el mercado, pero sin caer en decisiones apresuradas."
+    },
+    {
+        "Puntaje": "60",
+        "Titulo": "Inversor agresivo",
+        "Devolucion": "Tenés alta tolerancia al riesgo y buscás maximizar tus rendimientos. Estás dispuesto a asumir pérdidas temporales si creés que, a largo plazo, las ganancias serán significativas. Activos como acciones de alto crecimiento, criptomonedas y startups te resultan atractivos. Sin embargo, recordá que es importante no poner en juego todo tu capital en inversiones riesgosas; una adecuada diversificación te ayudará a equilibrar tus objetivos con la protección de tu patrimonio."
+    }
+]

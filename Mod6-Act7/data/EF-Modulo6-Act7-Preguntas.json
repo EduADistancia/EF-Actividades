@@ -1,0 +1,247 @@
+[
+    {
+        "Tipo": "Tipo",
+        "Texto": "Texto",
+        "Valor": "Valor"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuánto tiempo estás dispuesto a mantener tu dinero invertido antes de necesitarlo?",
+        "Valor": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Menos de 1 año",
+        "Valor": "1"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Entre 1 y 3 años",
+        "Valor": "3"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Más de 3 años",
+        "Valor": "5"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué harías si una de tus inversiones pierde un 10% de su valor en el corto plazo?",
+        "Valor": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Vendería inmediatamente para evitar más pérdidas",
+        "Valor": "1"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Esperaría un poco para ver si recupera su valor",
+        "Valor": "3"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Aprovecharía para invertir más, confiando en que el mercado subirá",
+        "Valor": "5"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué es lo más importante para vos al invertir?",
+        "Valor": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Preservar mi capital",
+        "Valor": "1"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Equilibrar el riesgo y la ganancia",
+        "Valor": "3"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Maximizar mis ganancias",
+        "Valor": "5"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cómo reaccionás usualmente ante la volatilidad de los mercados financieros?",
+        "Valor": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Me genera mucha ansiedad y prefiero evitarla",
+        "Valor": "1"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Me preocupo un poco pero lo puedo tolerar",
+        "Valor": "3"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Me parece una oportunidad para obtener mayores rendimientos",
+        "Valor": "5"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Estarías dispuesto a asumir una pequeña pérdida temporal para lograr mayores ganancias a largo plazo?",
+        "Valor": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No, prefiero evitar cualquier tipo de pérdida",
+        "Valor": "1"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Dependería de las circunstancias",
+        "Valor": "3"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, estoy dispuesto a asumir ese riesgo",
+        "Valor": "5"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué porcentaje de tus ahorros estás dispuesto a invertir en activos de alto riesgo?",
+        "Valor": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Menos del 25%",
+        "Valor": "1"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Entre el 25% y el 50%",
+        "Valor": "3"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Más del 50%",
+        "Valor": "5"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cómo describirías tu conocimiento sobre el mercado financiero?",
+        "Valor": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Muy básico, prefiero asesorarme con un experto",
+        "Valor": "1"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tengo un conocimiento moderado, puedo seguir noticias financieras y entender la mayoría de los términos",
+        "Valor": "3"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tengo un conocimiento avanzado y me siento cómodo tomando decisiones por mi cuenta",
+        "Valor": "5"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál es tu principal objetivo al invertir?",
+        "Valor": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Mantener mis ahorros a salvo",
+        "Valor": "1"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Hacer Crecer mi capital a largo plazo, pero sin riesgos excesivos",
+        "Valor": "3"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Generar la mayor cantidad de ganancias posible, incluso si implica riesgos altos",
+        "Valor": "5"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cómo reaccionás usualmente ante las noticias sobre inestabilidad económica o recesiones?",
+        "Valor": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Prefiero mantenerme fuera de los mercados hasta que la situación mejore",
+        "Valor": "1"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Ajusto mi cartera para reducir riesgos, pero no dejo de invertir",
+        "Valor": "3"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Veo una oportunidad para comprar activos a precios bajos",
+        "Valor": "5"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Si una inversión tiene el potencial de duplicar su valor, pero también puede perder el 40% ¿Cómo reaccionarías?",
+        "Valor": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No invertiría, el riesgo es demasiado alto",
+        "Valor": "1"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Invertiría una pequeña parte de mi dinero",
+        "Valor": "3"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Invertiría una cantidad significativa, el potencial de ganancia me parece atractivo",
+        "Valor": "5"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Si tuvieras inversiones, ¿con qué frecuencia creés que revisarías tu desempeño?",
+        "Valor": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Las revisaría muy seguido, ya que me preocupa cualquier cambio.",
+        "Valor": "1"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Las revisaría periódicamente de manera tranquila.",
+        "Valor": "3"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No las revisaría muy a menudo, confiaría en mi estrategia a largo plazo.",
+        "Valor": "5"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cómo te sentirías si el valor de tu inversión varía mucho a corto plazo?",
+        "Valor": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Me sentiría incómodo y buscaría alternativas más estables",
+        "Valor": "1"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Me generaría preocupación, pero no tomaría decisiones apresuradas",
+        "Valor": "3"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Me sentiría cómodo si creo que a largo plazo recuperaré la inversión y obtendré ganancias",
+        "Valor": "5"
+    }
+]

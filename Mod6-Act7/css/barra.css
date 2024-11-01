@@ -1,0 +1,25 @@
+#chart {
+    display: flex;
+    justify-content: center;
+}
+
+.progress-container {
+    width: 80%;
+    height: 3rem;
+    background-color: #e0e0e0;
+    border-radius: 999px;
+    overflow: hidden;
+    margin: 2rem 1rem;
+    position: relative; /* Necesario para posicionar la barra */
+}
+
+.progress-bar {
+    position: absolute; /* Para superponer la barra de progreso */
+    height: 100%;
+    width: 100%; /* Ancho completo */
+    background: linear-gradient(90deg, #93ABB7, #4AE244, #10F317); 
+    /* clip-path: inset(0 100% 0 0); Inicia ocultando el contenido */
+    /* transition: clip-path 0.5s ease; Transición suave al cambiar */
+    transition: width 20s ease; /* Transición suave */
+}
+
