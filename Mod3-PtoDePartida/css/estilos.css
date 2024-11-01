@@ -128,6 +128,16 @@ i > img {
     background-color: #3c3c3b;
 }
 
+#mjeFinal {
+    background-color: #3c3c3b;
+    color: #ffffff;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+#mjeFinal > p {
+    margin: 1rem 0;
+}
 
 /* PUNTOS DE CORTE */
 

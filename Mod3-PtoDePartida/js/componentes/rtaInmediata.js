@@ -1,4 +1,5 @@
 // Muestra de respuesta de acuerdo a opción seleccionada
+import { mostrarRtaFinal } from "./rtaFinal.js";
 
 function mostrarRtaInmediata() {
     let opciones = document.querySelectorAll('input');
@@ -11,6 +12,7 @@ function mostrarRtaInmediata() {
             devoluciones.childNodes.forEach(d => d.classList.add('oculto'));
             devolucion.classList.remove('oculto');
             devolucion.classList.add('visible');
+            mostrarRtaFinal();
         });
     });
 }

@@ -22,8 +22,8 @@ body {
 }
 
 #contenido {
-    padding: 2%;
-    margin: 1%;
+    padding: 0 2%;
+    margin: 0 1%;
 }
 
 /* MEMBRETE */
@@ -57,9 +57,19 @@ body {
     width: 20%;
 }
 
-h2, section {
+h2, h3, section, section > p {
     margin: 1rem 0;
 }
+
+.cabSection {
+    display: flex;
+    align-items: center;
+}
+
+i > img {
+    width: 3rem;
+    margin-right: 0.5rem;
+}   
 
 #botonera {
     padding: 5%;
@@ -74,10 +84,8 @@ h2, section {
     font-weight: 700;
     border: none;
     font-size: large;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding: 0.5rem 5%;
+    margin: 0.25rem;
     border-radius: 999px;
 }
 

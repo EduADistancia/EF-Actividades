@@ -29,7 +29,7 @@ Vista de actividades:
 - [Actividad 12 - Cuestionario](https://eduadistancia.github.io/EF-Actividades/Mod2-Act12/)
 
 ### Módulo 3
-- [Punto de Partida - Emprendedorismo](https://eduadistancia.github.io/EF-Actividades/PuntoDePartida/)
+- [Punto de Partida - Emprendedorismo](https://eduadistancia.github.io/EF-Actividades/Mod3-PtoDePartida/)
 - [Mapeo de habilidades personales](https://eduadistancia.github.io/EF-Actividades/MapeoHP/)
 - [Actividad 4 - Completar la frase](https://eduadistancia.github.io/EF-Actividades/Mod3-Act4/)
 - [Actividad 5 - Seleccionar opción correcta](https://eduadistancia.github.io/EF-Actividades/Mod3-Act5/)

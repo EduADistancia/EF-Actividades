@@ -57,7 +57,7 @@ input {
 
 .seleccionado {
     background-color: #ffcc008a;
-    padding: 0.25rem 2rem;
+    padding: 0.25rem 0.5rem;
     border: 1px solid #153244;
     border-radius: 5px;
 }
