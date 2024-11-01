@@ -1,10 +1,5 @@
 [
     {
-        "Tipo": "Tipo",
-        "Texto": "Texto",
-        "Valor": "Valor"
-    },
-    {
         "Tipo": "Pregunta",
         "Texto": "¿Cuánto tiempo estás dispuesto a mantener tu dinero invertido antes de necesitarlo?",
         "Valor": ""
