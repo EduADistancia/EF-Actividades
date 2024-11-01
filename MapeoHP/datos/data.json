@@ -1,6 +1,6 @@
 {
     "titulo": "Mapeo de Habilidades Personales",
-    "contenido": "Descripción: Reflexiona sobre tus propias habilidades como emprendedor. Evalúa tus fortalezas y debilidades en áreas como liderazgo, gestión del tiempo, toma de decisiones, y creatividad. Basándote en tu autodiagnóstico, identifica áreas que necesitas mejorar y planteá un plan de acción para desarrollar estas habilidades.\nReflexión: ¿Qué habilidades deberías desarrollar más para mejorar tus posibilidades de éxito como emprendedor?",
+    "contenido": "Reflexiona sobre tus propias habilidades como emprendedor. Evalúa tus fortalezas y debilidades en áreas como liderazgo, gestión del tiempo, toma de decisiones, y creatividad. Basándote en tu autodiagnóstico, identifica áreas que necesitas mejorar y planteá un plan de acción para desarrollar estas habilidades.\nReflexión: ¿Qué habilidades deberías desarrollar más para mejorar tus posibilidades de éxito como emprendedor?",
 
     "habilidades":  [
         {
@@ -64,7 +64,7 @@
             
                     "0": "Evito tomar decisiones difíciles. ",
                     "1": "Enfrento las decisiones con temor.",
-                    "2": "Tomo decisiones difíciles con anális,is y calma. ",
+                    "2": "Tomo decisiones difíciles con análisis y calma. ",
                     "3": "Siempre enfrento situaciones difíciles con confianza. "
                 }
             },

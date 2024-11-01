@@ -57,7 +57,7 @@ body {
     width: 20%;
 }
 
-h2, section, section > p {
+h2, h3, section, section > p {
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
@@ -68,6 +68,15 @@ iframe {
     height: 600px;
 } 
     
+.cabSection {
+    display: flex;
+    align-items: center;
+}
+
+i > img {
+    width: 3rem;
+    margin-right: 0.5rem;
+}  
 
 #botonera {
     padding: 5%;

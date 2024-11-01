@@ -56,6 +56,17 @@ h2, h3, p, section {
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
+ 
+.cabSection {
+    display: flex;
+    align-items: center;
+}
+
+i > img {
+    width: 3rem;
+    margin-right: 0.5rem;
+
+}    
 
 #botonera {
     padding: 5%;
@@ -70,10 +81,8 @@ h2, h3, p, section {
     font-weight: 700;
     border: none;
     font-size: large;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding: 0.5rem 5%;
+    margin: 0.25rem;
     border-radius: 999px;
 }
 
