@@ -25,6 +25,7 @@ Vista de actividades:
 - [Actividad 9 - Cálculo de salario neto](https://eduadistancia.github.io/EF-Actividades/Mod2-Act9/)
 - [Actividad 10 - Relacionar conceptos](https://eduadistancia.github.io/EF-Actividades/Mod2-Act10/)
 - [Calculadora de Sueldo Neto](https://eduadistancia.github.io/EF-Actividades/CalculadoraSN/)
+- [Composición de un Recibo de Haberes](https://eduadistancia.github.io/EF-Actividades/Mod2-RH/)
 - [Actividad 11 - Comprobación](https://eduadistancia.github.io/EF-Actividades/Mod2-Act11/)
 - [Actividad 12 - Cuestionario](https://eduadistancia.github.io/EF-Actividades/Mod2-Act12/)
 
