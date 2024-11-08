@@ -37,6 +37,7 @@ Vista de actividades:
 - [Actividad 8 - Relacionar Herramientas con Objetivos (ordenar tabla)](https://eduadistancia.github.io/EF-Actividades/Mod3-Act8/)
 - [Matriz FODA](https://eduadistancia.github.io/EF-Actividades/MatrizFODA/)
 - [Modelo de negocio CANVA](https://eduadistancia.github.io/EF-Actividades/CanvasBM/)
+- [Diagrama PESTEL](https://eduadistancia.github.io/EF-Actividades/Mod3-PESTEL/)
 - [Actividad 9 - Repaso (Verdadero o Falso)](https://eduadistancia.github.io/EF-Actividades/Mod3-Act9/)
 - [Actividad 10 - Comprobación - "El emprendimiento de Laura"](https://eduadistancia.github.io/EF-Actividades/Mod3-Act10/)
 
