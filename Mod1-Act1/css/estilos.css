@@ -22,8 +22,8 @@ body {
 }
 
 #contenido {
-    padding: 2%;
-    margin: 1%;
+    padding: 0 2%;
+    margin: 0 1%;
 }
 
 /* MEMBRETE */
@@ -44,8 +44,7 @@ body {
 #contenido > main, 
 #contenido > footer {
     z-index: 20;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    margin: 0.5rem 0;
 }
 
 #contenido::before {
@@ -84,6 +83,16 @@ h2, h3, p, section {
     margin-bottom: 1rem;
 }
 
+.cabSection {
+    display: flex;
+    align-items: center;
+}
+
+i > img {
+    width: 3rem;
+    margin-right: 0.5rem;
+}
+
 .botonera {
     padding: 5%;
     display: flex;
@@ -97,11 +106,9 @@ h2, h3, p, section {
     font-weight: 700;
     border: none;
     font-size: large;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    padding-left: 5%;
-    padding-right: 5%;
     border-radius: 999px;
+    padding: 0.5rem 5%;
+    margin: 0.25rem 0.25rem;
 }
 
 .boton:hover {
