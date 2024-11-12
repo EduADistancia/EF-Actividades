@@ -9,7 +9,7 @@
         "Tipo": "Respuesta",
         "Texto": "Mostrar respuesta",
         "TituloDevolucion": "Repercusiones de estar mal categorizado en términos de obligaciones fiscales:",
-        "TextoDevolucion": "Estar mal categorizado puede traeralgunas consecuencias negativas. En primer lugar, si tus ingresos superan el límite establecido para tu categoría actual,  podrías ser recategorizado de oficio por la AFIP. Esto implicaría un cambio inesperado en tu obligación tributaria mensual ya que deberías realizar el  pago de una categoría superior, que conlleva una carga impositiva más alta. Además, si no se realizan los pagos correctos, podrías acumular deudas con la AFIP y posteriormente tener sanciones, intereses moratorios o embargos sobre tus cuentas."
+        "TextoDevolucion": "Estar mal categorizado puede traeralgunas consecuencias negativas. En primer lugar, si tus ingresos superan el límite establecido para tu categoría actual,  podrías ser recategorizado de oficio por la Agencia de Recaudación y Control Aduanero (ARCA). Esto implicaría un cambio inesperado en tu obligación tributaria mensual ya que deberías realizar el  pago de una categoría superior, que conlleva una carga impositiva más alta. Además, si no se realizan los pagos correctos, podrías acumular deudas con la Agencia de Recaudación y Control Aduanero (ARCA) y posteriormente tener sanciones, intereses moratorios o embargos sobre tus cuentas."
     },
     {
         "Tipo": "Pregunta",
@@ -21,7 +21,7 @@
         "Tipo": "Respuesta",
         "Texto": "Mostrar respuesta",
         "TituloDevolucion": "Afectación a tu negocio por no realizar la recategorización adecuada:",
-        "TextoDevolucion": "No realizar la recategorización adecuada puede limitar el crecimiento de tu negocio. Si estás inscripto en una categoría inferior a la que realmente te corresponde, estarías abonando menos impuestos, pero también estarías exponiéndote a una fiscalización más intensa por parte de la AFIP, lo que podría resultar en auditorías. Esto puede generar problemas financieros y también dañar tu reputación como contribuyente responsable."
+        "TextoDevolucion": "No realizar la recategorización adecuada puede limitar el crecimiento de tu negocio. Si estás inscripto en una categoría inferior a la que realmente te corresponde, estarías abonando menos impuestos, pero también estarías exponiéndote a una fiscalización más intensa por parte de la Agencia de Recaudación y Control Aduanero (ARCA), lo que podría resultar en auditorías. Esto puede generar problemas financieros y también dañar tu reputación como contribuyente responsable."
     },
     {
         "Tipo": "Pregunta",
@@ -33,6 +33,6 @@
         "Tipo": "Respuesta",
         "Texto": "Mostrar respuesta",
         "TituloDevolucion": "Acciones para asegurarte de estar siempre al día con la recategorización:",
-        "TextoDevolucion": "Para mantenerte al día con la recategorización, es fundamental realizar el  de ingresos y gastos de manera regular. Podrías establecer recordatorios cada seis meses (enero y julio) para evaluar tu situación financiera y verificar si necesitas recategorizarte. Además, sería recomendable familiarizarte con la página de AFIP y su proceso de recategorización, asegurándote de tener tus datos actualizados y listos para ingresar al portal con tu clave fiscal. Por último, también podrías considerar consultar con un contador o asesor fiscal para obtener orientación y asegurarte de que estás cumpliendo con todas tus obligaciones tributarias de manera correcta."
+        "TextoDevolucion": "Para mantenerte al día con la recategorización, es fundamental realizar el  de ingresos y gastos de manera regular. Podrías establecer recordatorios cada seis meses (enero y julio) para evaluar tu situación financiera y verificar si necesitas recategorizarte. Además, sería recomendable familiarizarte con la página de la Agencia de Recaudación y Control Aduanero (ARCA) y su proceso de recategorización, asegurándote de tener tus datos actualizados y listos para ingresar al portal con tu clave fiscal. Por último, también podrías considerar consultar con un contador o asesor fiscal para obtener orientación y asegurarte de que estás cumpliendo con todas tus obligaciones tributarias de manera correcta."
     }
 ]

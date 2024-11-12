@@ -78,8 +78,8 @@
     },
     {
         "Tipo": "Respuesta",
-        "Texto": "Contar con un punto de venta declarado ante la AFIP",
-        "Devolucion": "¡Correcto! Para poder emitir facturas electrónicas, es necesario haber declarado al menos un punto de venta ante la AFIP. Este paso es fundamental para identificar el lugar desde donde se emitirán las facturas y para el correcto registro fiscal.",
+        "Texto": "Contar con un punto de venta declarado ante la Agencia de Recaudación y Control Aduanero (ARCA)",
+        "Devolucion": "¡Correcto! Para poder emitir facturas electrónicas, es necesario haber declarado al menos un punto de venta ante la Agencia de Recaudación y Control Aduanero (ARCA). Este paso es fundamental para identificar el lugar desde donde se emitirán las facturas y para el correcto registro fiscal.",
         "Estado": 1,
         "Etiqueta": "radio"
     },
@@ -93,7 +93,7 @@
     {
         "Tipo": "Respuesta",
         "Texto": "Haber presentado la declaración de impuestos en los últimos dos años",
-        "Devolucion": "Incorrecto. Si bien presentar declaraciones es importante para la administración fiscal, no es un requisito específico para emitir facturas electrónicas. La habilitación para la facturación electrónica está más relacionada con la Clave Fiscal y la inscripción en la AFIP.",
+        "Devolucion": "Incorrecto. Si bien presentar declaraciones es importante para la administración fiscal, no es un requisito específico para emitir facturas electrónicas. La habilitación para la facturación electrónica está más relacionada con la Clave Fiscal y la inscripción en la Agencia de Recaudación y Control Aduanero (ARCA).",
         "Estado": 0,
         "Etiqueta": "radio"
     },

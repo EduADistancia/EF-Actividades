@@ -22,8 +22,8 @@ body {
 }
 
 #contenido {
-    padding: 2%;
-    margin: 1%;
+    padding: 0 2%;
+    margin: 0 1%;
 }
 
 /* MEMBRETE */
@@ -43,25 +43,7 @@ body {
 #contenido > header, 
 #contenido > main, 
 #contenido > footer {
-    z-index: 20;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-}
-
-#contenido::before {
-    content: "";
-    background-image: url('../img/oficina-de-impuestos.png');
-    background-repeat: no-repeat;
-    background-position: top;
-    position: absolute;
-    top: 5rem;
-    right: 0px;
-    bottom: 0px;
-    left: 0px;
-    height: 20%;
-    opacity: 0.06;
-    width: 100%;
-    z-index: 1;
+    margin: 0.5rem 0;
 }
 
 .divHeader {
@@ -82,6 +64,16 @@ body {
 h2, h3, p, section {
     margin-top: 1rem;
     margin-bottom: 1rem;
+}
+
+.cabSection {
+    display: flex;
+    align-items: center;
+}
+
+i > img {
+    width: 3rem;
+    margin-right: 0.5rem;
 }
 
 #botonera {
@@ -153,11 +145,6 @@ h2, h3, p, section {
 
     #contenido {
         font-size: larger;
-    }
-
-    #contenido::before {
-        top: 2rem;
-        height: 15%;
     }
 }
 

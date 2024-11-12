@@ -7,15 +7,15 @@
     {
         "Opcion": "No realizar la recategorización en julio, a pesar de haber superado los límites de ingresos establecidos.",
         "Valor": 1,
-        "Devolucion": "No recategorizarse puede llevar a la AFIP a recategorizar de oficio y a imponer multas y penalidades por incumplimiento."
+        "Devolucion": "No recategorizarse puede llevar a la Agencia de Recaudación y Control Aduanero (ARCA) a recategorizar de oficio y a imponer multas y penalidades por incumplimiento."
     },
     {
         "Opcion": "Emitir una factura de venta sin los datos correctos de la operación.",
         "Valor": 1,
-        "Devolucion": "Emitir facturas incorrectas puede resultar en sanciones económicas y en la posibilidad de suspensión temporal del CUIT por parte de la AFIP"
+        "Devolucion": "Emitir facturas incorrectas puede resultar en sanciones económicas y en la posibilidad de suspensión temporal del CUIT por parte de la Agencia de Recaudación y Control Aduanero (ARCA)"
     },
     {
-        "Opcion": "Un monotributista actualiza su Clave Fiscal a un nivel superior para acceder a más servicios de la AFIP.",
+        "Opcion": "Un monotributista actualiza su Clave Fiscal a un nivel superior para acceder a más servicios de la Agencia de Recaudación y Control Aduanero (ARCA).",
         "Valor": 0,
         "Devolucion": "Actualizar la Clave Fiscal es una acción positiva que permite al monotributista acceder a una gama más amplia de servicios y beneficios, lo que mejora la gestión de sus obligaciones fiscales y administrativas."
     },
@@ -37,10 +37,10 @@
     {
         "Opcion": "No realizar el pago de las cuotas del Monotributo durante tres meses consecutivos.",
         "Valor": 1,
-        "Devolucion": "El incumplimiento en los pagos por más de tres meses puede dar lugar a embargos y otras acciones legales por parte de la AFIP."
+        "Devolucion": "El incumplimiento en los pagos por más de tres meses puede dar lugar a embargos y otras acciones legales por parte de la Agencia de Recaudación y Control Aduanero (ARCA)."
     },
     {
-        "Opcion": "Operar con un CUIT que ha sido suspendido por la AFIP.",
+        "Opcion": "Operar con un CUIT que ha sido suspendido por la Agencia de Recaudación y Control Aduanero (ARCA).",
         "Valor": 1,
         "Devolucion": "Un CUIT suspendido imposibilita al contribuyente operar formalmente, lo que puede llevar a multas y sanciones administrativas."
     },
@@ -50,7 +50,7 @@
         "Devolucion": "La omisión de emitir facturas electrónicas puede resultar en multas que oscilan entre el 50% y el 100% del valor de las operaciones no facturadas."
     },
     {
-        "Opcion": "Superar el límite de ingresos permitidos en su categoría, pero no informar a la AFIP.",
+        "Opcion": "Superar el límite de ingresos permitidos en su categoría, pero no informar a la Agencia de Recaudación y Control Aduanero (ARCA).",
         "Valor": 1,
         "Devolucion": "Superar los límites de ingresos sin informar puede resultar en recategorización de oficio y sanciones monetarias."
     },
@@ -65,13 +65,13 @@
         "Devolucion": "La acumulación de deudas impagas por más de diez meses puede dar lugar a embargos y acciones legales para el cobro de la deuda."
     },
     {
-        "Opcion": "No tener habilitada la Clave Fiscal necesaria para operar con la AFIP.",
+        "Opcion": "No tener habilitada la Clave Fiscal necesaria para operar con la Agencia de Recaudación y Control Aduanero (ARCA).",
         "Valor": 1,
         "Devolucion": "Carecer de la Clave Fiscal impide el acceso a servicios y la correcta emisión de facturas, lo que puede llevar a sanciones por incumplimiento."
     },
     {
-        "Opcion": "No actualizar la información personal o de contacto en la AFIP",
+        "Opcion": "No actualizar la información personal o de contacto en la Agencia de Recaudación y Control Aduanero (ARCA)",
         "Valor": 1,
-        "Devolucion": "No mantener actualizada la información puede resultar en problemas de comunicación con la AFIP, dificultando la recepción de notificaciones y sanciones."
+        "Devolucion": "No mantener actualizada la información puede resultar en problemas de comunicación con la Agencia de Recaudación y Control Aduanero (ARCA), dificultando la recepción de notificaciones y sanciones."
     }
 ]

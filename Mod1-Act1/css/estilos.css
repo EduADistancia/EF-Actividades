@@ -43,24 +43,7 @@ body {
 #contenido > header, 
 #contenido > main, 
 #contenido > footer {
-    z-index: 20;
     margin: 0.5rem 0;
-}
-
-#contenido::before {
-    content: "";
-    background-image: url('../img/oficina-de-impuestos.png');
-    background-repeat: no-repeat;
-    background-position: top;
-    position: absolute;
-    top: 5rem;
-    right: 0px;
-    bottom: 0px;
-    left: 0px;
-    height: 20%;
-    opacity: 0.06;
-    width: 100%;
-    z-index: 1;
 }
 
 .divHeader {
@@ -160,11 +143,6 @@ i > img {
 
     #contenido {
         font-size: larger;
-    }
-
-    #contenido::before {
-        top: 2rem;
-        height: 15%;
     }
 }
 
