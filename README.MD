@@ -38,6 +38,7 @@ Vista de actividades:
 - [Matriz FODA](https://eduadistancia.github.io/EF-Actividades/MatrizFODA/)
 - [Modelo de negocio CANVA](https://eduadistancia.github.io/EF-Actividades/CanvasBM/)
 - [Diagrama PESTEL](https://eduadistancia.github.io/EF-Actividades/Mod3-PESTEL/)
+- [Análisis de Riesgos](https://eduadistancia.github.io/EF-Actividades/Mod3-RiesgoImp/)
 - [Actividad 9 - Repaso (Verdadero o Falso)](https://eduadistancia.github.io/EF-Actividades/Mod3-Act9/)
 - [Actividad 10 - Comprobación - "El emprendimiento de Laura"](https://eduadistancia.github.io/EF-Actividades/Mod3-Act10/)
 
