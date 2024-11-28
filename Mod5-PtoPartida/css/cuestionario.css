@@ -1,0 +1,51 @@
+.visible {
+    display: inherit;
+}
+
+.oculto {
+    display: none;
+}
+
+.marco {
+    border: 1px solid #153244;
+    border-radius: 5px;
+    margin: 1rem 0;
+    padding: 0.5rem 0.5rem;
+}
+
+p.marco, .marco > p {
+    font-size: larger;
+    margin: 1rem 0.5rem;
+    padding: 0.75rem ;
+    border-radius: 10px;
+}
+
+.marco > p {
+    background-color: #153244;
+    color: white;
+}
+
+p.marco {
+    background-color: #3c3c3b;
+    color: #ffffff;
+}
+
+input {
+    margin: 1rem 0.5rem 0 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+ul {
+    padding-left: 0;
+    margin: 1rem 0.5rem;
+}
+
+.seleccionado {
+    background-color: #ffcc008a;
+    padding: 0.25rem 0.5rem;
+    border: 1px solid #153244;
+    border-radius: 5px;
+}

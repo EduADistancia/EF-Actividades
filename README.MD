@@ -53,6 +53,7 @@ Vista de actividades:
 - [Actividad de comprobación 3 (cuestionario)](https://eduadistancia.github.io/EF-Actividades/Mod4-ActComp3/)
 
 ### Módulo 5
+- [Punto de Partida - Planificación Financiera](https://eduadistancia.github.io/EF-Actividades/Mod5-PtoPartida/)
 - [Actividad 2 - Afirmaciones: Verdadero o Falso](https://eduadistancia.github.io/EF-Actividades/Mod5-Act2/)
 - [Actividad 3 - Completar la frase (drag'n'drop)](https://eduadistancia.github.io/EF-Actividades/Mod5-Act3/)
 - [Actividad 4 - Unir conceptos y definiciones (ordenar tabla)](https://eduadistancia.github.io/EF-Actividades/Mod5-Act4/)

@@ -1,0 +1,222 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué tan familiarizado estás con los componentes que integran un presupuesto?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Muy familiarizado: Conozco todos los componentes y sé cómo integrarlos en mi presupuesto correctamente. ",
+        "Devolucion": "Aprovechá tu conocimiento y revisá la sección \"Componentes de un presupuesto\" para optimizar aún más tu habilidad para elaborar presupuestos detallados y efectivos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algo familiarizado: Conozco todos los componentes pero no sé elaborar un presupuesto correctamente .",
+        "Devolucion": "Explorá la sección \"Componentes de un presupuesto\" para reforzar tu comprensión sobre cómo incluir todos los elementos necesarios en un presupuesto completo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Poco familiarizado: Conozco algunos de los componentes pero no sé elaborar un presupuesto correctamente. ",
+        "Devolucion": "Revisá la sección \"Componentes de un presupuesto\" para mejorar tu conocimiento sobre los diferentes componentes y cómo deben ser utilizados en la planificación financiera."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No estoy familiarizado: No tengo conocimiento sobre los componentes de un presupuesto. ",
+        "Devolucion": "Se recomienda explorar la sección \"Componentes de un presupuesto\" para familiarizarte con los elementos clave que conforman un presupuesto eficaz. "
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Con qué frecuencia considerás que tu  tu presupuesto mensual no se ajusta adecuadamente a tus necesidades y objetivos?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca.",
+        "Devolucion": "Si no tenés problemas para ajustar tu presupuesto, te sugerimos que en este módulo revises la sección \"Presupuesto: ¿Qué es? ¿Para qué sirve?\" para seguir optimizando tus estrategias financieras."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Casi nunca.",
+        "Devolucion": "Es común tener dificultades ocasionales para ajustar el presupuesto. En este caso, te recomendamos revisar el apartado \"Componentes de un presupuesto\" para mejorar la flexibilidad de tu planificación financiera."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Casi siempre.",
+        "Devolucion": "Si frecuentemente encontrás complicado ajustar tu presupuesto, te sugerimos revisar el contenido de la sección \"¿Y ahora qué? Estrategias para comenzar a ordenar las finanzas\" para aprender cómo adaptar tu planificación a cambios en tus ingresos y gastos.\""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre.",
+        "Devolucion": "Si siempre tenés problemas para ajustar tu presupuesto, es importante que leas detenidamente la sección \"Presupuesto: ¿Qué es? ¿Para qué sirve?\" para aprender técnicas efectivas de planificación y ajuste continuo.\""
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cómo calificarías tu conocimiento sobre la estrategia de armar objetivos SMART?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alto: Entiendo completamente qué son los objetivos SMART y cómo aplicarlos.",
+        "Devolucion": "Aprovechá tu comprensión avanzada y revisá la sección  \"Del deseo al objetivo: La estrategia de armar objetivos SMART\" para perfeccionar la aplicación de esta estrategia en tus metas financieras."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderado: Entiendo los conceptos básicos pero desconozco cómo aplicarlos ",
+        "Devolucion": "Explorá la sección \"Del deseo al objetivo: La estrategia de armar objetivos SMART\" y realiza las actividades propuestas para fortalecer tu entendimiento sobre el tema y sobre todo la aplicación de los objetivos en situaciones específicas."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Bajo: Solo tengo una idea general sobre los objetivos SMART. ",
+        "Devolucion": "Revisá la sección  \"Del deseo al objetivo: La estrategia de armar objetivos SMART\" para mejorar tu comprensión y aplicación de esta estrategia en la definición de tus metas."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nulo: No conozco  los objetivos SMART. ",
+        "Devolucion": "Explorá la sección \"Del deseo al objetivo: La estrategia de armar objetivos SMART\" para adquirir una comprensión básica sobre cómo establecer objetivos efectivos en la planificación financiera."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cómo describirías tu nivel de conocimiento sobre las estrategias de ahorro?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alto: Conozco diversas estrategias de ahorro y cómo implementarlas efectivamente.",
+        "Devolucion": "Profundizá tu conocimiento en  la sección \"Estrategias de ahorro\" y explorá cómo optimizar tus técnicas para incrementar tu capacidad de ahorro. "
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderado: Conozco y utilizo  algunas estrategias, pero me gustaría aprender más. ",
+        "Devolucion": "Explorá la sección \"Estrategias de ahorro\" para fortalecer tu comprensión y aplicación de diferentes métodos para ahorrar de manera más efectiva."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Bajo: Conozco lo básico, pero no sé aplicar las estrategias de ahorro a mi situación.",
+        "Devolucion": "Revisá la sección \"Estrategias de ahorro\" para mejorar tu conocimiento y aplicación de técnicas de ahorro en tu vida financiera."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nulo: No tengo conocimientos sobre estrategias de ahorro.",
+        "Devolucion": "Explorá la sección \"Estrategias de ahorro\" para familiarizarte con diferentes técnicas y métodos que te ayudarán a optimizar tu ahorro."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Te cuesta seguir un plan de ahorro sistemático y constante?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca.",
+        "Devolucion": "Si no tenés problemas para seguir un plan de ahorro, revisá el contenido de las sección \"Métodos y técnicas\" para continuar fortaleciendo tus prácticas de ahorro.\""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Casi nunca.",
+        "Devolucion": "Si ocasionalmente te cuesta seguir tu plan de ahorro, enfócate en la sección \"Estrategias de ahorro\" para aprender cómo mantener la constancia en tus hábitos de ahorro.\""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Casi siempre.",
+        "Devolucion": "Si frecuentemente tenés dificultades con tu plan, revisá el apartado  \"Estrategias de ahorro\" para descubrir nuevas técnicas que te ayudarán a mantener el ahorro constante.\""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre.",
+        "Devolucion": "Si siempre te resulta difícil seguir un plan de ahorro, enfocate en el apartado \"Planificación financiera: Corto mediano y largo plazo\" para conocer y mejorar tu estrategia de ahorro de manera más efectiva."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Te resulta difícil establecer metas financieras a corto, mediano y largo plazo?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca.",
+        "Devolucion": "Si no te resulta difícil establecer metas financieras, revisá el contenido  contenido de la sección \"Planificación financiera: Corto mediano y largo plazo\" y seguí perfeccionando tu habilidad para definir y alcanzar metas claras."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Casi nunca.",
+        "Devolucion": "Si a veces tenés dificultades con la definición de tus metas financieras, enfócate en el apartado \"Del deseo al objetivo: La estrategia de armar objetivos SMART\" y mejorá tu estrategia para  establecer objetivos específicos y alcanzables.\""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Casi siempre.",
+        "Devolucion": "Si frecuentemente te resulta complicado establecer metas financieras, revisá  el apartado \"Planificación financiera: Corto mediano y largo plazo\" para aprender a elaborar metas realistas y efectivas."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre.",
+        "Devolucion": "Si siempre te cuesta establecer metas financieras, revisá la sección sobre \"Estrategias de ahorro\" para mejorar tu habilidad en la formulación y seguimiento de objetivos financieros."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Alguna vez has experimentado problemas para equilibrar tus ingresos con tus gastos mensuales?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca.",
+        "Devolucion": "Si no experimentás problemas con el equilibrio entre ingresos y gastos, revisá la sección sobre \"Organizarse para crecer\" para seguir optimizando tu equilibrio financiero."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Casi nunca.",
+        "Devolucion": "Si ocasionalmente encontrás dificultades para equilibrar ingresos y gastos, enfocate en la sección \"¿Y ahora qué? Estrategias para comenzar a ordenar las finanzas\" para mejorar tu estrategia de gestión financiera."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Casi siempre.",
+        "Devolucion": "Si frecuentemente encontrás complicado equilibrar tus ingresos y gastos,s revisar el apartado \"Componentes de un presupuesto\" te ayudará a comprender y manejar mejor tus recursos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre.",
+        "Devolucion": "Si siempre tenés problemas para equilibrar tus ingresos y gastos, enfocate en la sección\"¿Y ahora qué? Estrategias para comenzar a ordenar las finanzas\" para conocer estrategias efectivas para el manejo de tu presupuesto."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Con qué frecuencia encontrás dificultades para identificar los gastos fijos y variables en tu presupuesto?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca.",
+        "Devolucion": "Si ya manejas bien la distinción entre gastos fijos y variables, continuá revisando el contenido de la sección\"Presupuesto: ¿Qué es? ¿Para qué sirve?\" para consolidar tu comprensión del tema y explorar cómo estos conceptos se aplican a diferentes situaciones financieras. También podés profundizar en técnicas avanzadas de presupuesto en la sección \"Componentes de un presupuesto\"."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Casi nunca.",
+        "Devolucion": "Si a veces te resulta desafiante distinguir entre gastos fijos y variables, revisá la sección \"Componentes de un presupuesto\". Allí encontrarás ejemplos prácticos y herramientas para clasificar tus gastos de manera efectiva. Además el material del apartado \"¿Y ahora qué? Estrategias para comenzar a ordenar las finanzas\" te ayudará a sumar herramientas adicionales para gestionar tus finanzas de manera clara."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Casi siempre.",
+        "Devolucion": "Si frecuentemente te cuesta identificar estos tipos de gastos, te recomendamos que te enfoques en la sección \"¿Y ahora qué? Estrategias para comenzar a ordenar las finanzas\". Allí encontrarás estrategias detalladas para clasificar y gestionar tus gastos de forma efectiva. También puede ser útil revisar el contenido de la sección\"Presupuesto: ¿Qué es? ¿Para qué sirve?\" para reforzar tu entendimiento de cómo los gastos fijos y variables impactan en tu presupuesto general."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué nivel de dificultad te genera ajustar tu presupuesto a medida que cambian tus ingresos o gastos?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alta: Siempre encuentro muy difícil ajustar mi presupuesto a los cambios.",
+        "Devolucion": "Si siempre te resulta difícil ajustar tu presupuesto, es fundamental que explores la sección sobre \"¿Y ahora qué? Estrategias para comenzar a ordenar las finanzas\". Allí encontrarás estrategias clave para adaptar tu presupuesto y mejorar tu capacidad para manejar los cambios en tus ingresos y gastos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderada: Me resulta bastante complicado ajustar mi presupuesto cuando las cosas cambian.",
+        "Devolucion": "Si frecuentemente tenés dificultades para ajustar tu presupuesto, enfócate en la sección sobre \"Organizarse para crecer\" donde encontrarás técnicas y herramientas específicas para manejar cambios en tus finanzas y mantener tu presupuesto equilibrado."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Baja: A veces me cuesta, pero generalmente puedo ajustarme sin problemas mayores.",
+        "Devolucion": "Si a veces encontrás complicado ajustar tu presupuesto, revisá el apartado \"Estrategias de ahorro\". Ahí encontrarás métodos prácticos que te ayudarán a mejorar tu capacidad para manejar los cambios en tus ingresos y gastos.\""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nula:  Nunca tengo dificultades para ajustar mi presupuesto a los cambios.",
+        "Devolucion": "Si ajustar tu presupuesto nunca te ha presentado dificultades, seguí explorando el contenido de la sección \"Planificación financiera: Corto mediano y largo plazo\" para fortalecer tu habilidad de gestionar las finanzas y asegurarte de que tu estrategia sigue siendo efectiva frente a diferentes escenarios."
+    }
+]

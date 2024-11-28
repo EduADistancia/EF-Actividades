@@ -1,7 +1,6 @@
 // Botón de captura y descarga
 let descargar = function (fragmento) {
         document.querySelector('#descarga').classList.add('oculto');
-        document.querySelector('#reintentar').classList.add('oculto');
         html2canvas(document.querySelector(fragmento))
             .then(function(canvas) {
 
@@ -15,13 +14,12 @@ let descargar = function (fragmento) {
             // Create an anchor element
             const link = document.createElement('a');
             link.href = dataURL;
-            link.download = `ordenarConceptosEF${fecha}.png`;
+            link.download = `ptoPartidaMod2EF${fecha}.png`;
             
             // Trigger a click event on the anchor to start the download
             link.click();
             });
         document.querySelector('#descarga').classList.remove('oculto');
-        document.querySelector('#reintentar').classList.remove('oculto');
 };
 
 
