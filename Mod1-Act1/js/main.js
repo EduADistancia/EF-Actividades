@@ -1,5 +1,4 @@
 import { cambiarTarjeta } from "./componentes/carousel.js";
-import { descargar } from "./componentes/captura.js";
 import { cargarDatos } from "./componentes/carga.js";
 import { mostrarRtaInmediata } from "./componentes/rtaInmediata.js";
 import { cambiarEstiloSeleccion } from "./componentes/checkItems.js";
@@ -13,8 +12,3 @@ window.addEventListener("DOMContentLoaded", evento => {
     setTimeout(mostrarRtaInmediata, 500);
     setTimeout(cambiarEstiloSeleccion, 500);
 });
-
-let capturar = document.getElementById('descarga');
-    capturar.addEventListener('click', ev => {
-        descargar('#captura');
-    });

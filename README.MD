@@ -5,6 +5,7 @@
 Vista de actividades:
 
 ### Módulo 1
+- [Punto de Partida - Monotributo](https://eduadistancia.github.io/EF-Actividades/Mod1-PtoPartida/)
 - [Actividad 1: Casos prácticos](https://eduadistancia.github.io/EF-Actividades/Mod1-Act1/)
 - [Actividad 2: Análisis de categorías](https://eduadistancia.github.io/EF-Actividades/Mod1-Act2/)
 - [Actividad 3: Comparación de costos y límites](https://eduadistancia.github.io/EF-Actividades/Mod1-Act3/)
@@ -14,7 +15,7 @@ Vista de actividades:
 - [Actividad 7: Identificación de incumplimientos](https://eduadistancia.github.io/EF-Actividades/Mod1-Act7/)
 
 ### Módulo 2
-- [Punto de Partidad - Trabajo en Relación de Dependencia](https://eduadistancia.github.io/EF-Actividades/Mod2-PtoPartida/)
+- [Punto de Partida - Trabajo en Relación de Dependencia](https://eduadistancia.github.io/EF-Actividades/Mod2-PtoPartida/)
 - [Actividad 1 - Cuestionario Verdadero o Falso (Derechos y Obligaciones)](https://eduadistancia.github.io/EF-Actividades/Mod2-Act1/)
 - [Actividad 2 - Asociar tipos de contrato con definición](https://eduadistancia.github.io/EF-Actividades/Mod2-Act2/)
 - [Actividad 3 - Cuestionario Verdadero o Falso (Jornada Laboral y Hs. extra)](https://eduadistancia.github.io/EF-Actividades/Mod2-Act3/)

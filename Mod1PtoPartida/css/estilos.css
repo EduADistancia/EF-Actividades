@@ -46,10 +46,6 @@ body {
     margin: 0.5rem 0;
 }
 
-main {
-    padding: 0.5rem 0;
-}
-
 .divHeader {
     display: flex;
     flex-direction: row;
@@ -61,13 +57,8 @@ main {
     width: 20%;
 }
 
-.imgActividad {
-    width: 100%;
-}
-
-h2, h3, p, section {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+h2, h3, section, section > p {
+    margin: 1rem 0;
 }
 
 .cabSection {
@@ -93,10 +84,8 @@ i > img {
     font-weight: 700;
     border: none;
     font-size: large;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding: 0.5rem 5%;
+    margin: 0.25rem;
     border-radius: 999px;
 }
 
@@ -104,7 +93,6 @@ i > img {
     background-color: #153244;
     color: #ffcc00;
 }
-
 
 /* COLORES */
 .colorFondo1 {
@@ -131,13 +119,17 @@ i > img {
     background-color: #3c3c3b;
 }
 
-/* SCROLL HORIZONTAL PARA TABLAS E IMAGENES */
-
-#scrollH {
-    display: flex;
-    margin-top: 2rem;
-    overflow-x: scroll;
+#mjeFinal {
+    background-color: #3c3c3b;
+    color: #ffffff;
+    padding: 1rem;
+    border-radius: 5px;
 }
+
+#mjeFinal > p {
+    margin: 1rem 0;
+}
+
 
 /* PUNTOS DE CORTE */
 
@@ -154,7 +146,6 @@ i > img {
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 600px) {
-
     #contenido {
         font-size: larger;
     }

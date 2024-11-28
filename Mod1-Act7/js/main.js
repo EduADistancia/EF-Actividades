@@ -1,4 +1,3 @@
-import { descargar } from "./componentes/captura.js";
 import { cargarDatos } from "./componentes/carga.js";
 import { cambiarEstiloSeleccion } from "./componentes/checkItems.js";
 import { comprobar } from "./componentes/comprobar.js";
@@ -11,11 +10,6 @@ window.addEventListener("DOMContentLoaded", evento => {
     setTimeout(cambiarEstiloSeleccion, 500);
 });
 
-let capturar = document.getElementById('descarga');
-capturar.addEventListener('click', ev => {
-    descargar('#captura');
-});
-
 let reintentar = document.querySelector('#reintentar');
 reintentar.addEventListener('click', ev => {
     window.location.reload();
@@ -24,7 +18,6 @@ reintentar.addEventListener('click', ev => {
 let comprobacion = document.querySelector('#comprobar');
 comprobacion.addEventListener('click',() => {
     reintentar.classList.remove('oculto');
-    capturar.classList.remove('oculto');
     comprobacion.classList.add('oculto');
     comprobar();
 });

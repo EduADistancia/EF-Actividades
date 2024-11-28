@@ -1,0 +1,252 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué tan familiarizado estás con el régimen de Monotributo y sus características?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Muy familiarizado: Conozco bien las condiciones y beneficios que ofrece el Monotributo.",
+        "Devolucion": "Revisá la sección  \"Monotributo: concepto y finalidad\" para asegurarte de comprender los aspectos importantes. Esto te permitirá gestionar tu actividad económica de manera efectiva."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algo familiarizado: He oído hablar del Monotributo, pero no conozco todos los detalles.",
+        "Devolucion": "Revisá la sección  \"Monotributo: concepto y finalidad\" para asegurarte de comprender los aspectos importantes. Esto te permitirá gestionar tu actividad económica de manera efectiva."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Poco familiarizado: Solo tengo un conocimiento básico sobre el Monotributo.",
+        "Devolucion": "Dedicá tiempo a estudiar la sección  \"Monotributo: concepto y finalidad\". Construir una base sólida en este tema te permitirá identificar y aprovechar mejor las ventajas de este régimen."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No estoy familiarizado: No sé nada sobre el Monotributo.",
+        "Devolucion": "Comenzá desde lo más básico en la sección \"Monotributo: concepto y finalidad\". Incorporar los conceptos esenciales es crucial para desarrollar habilidades para gestionar tu actividad como monotributista con confianza."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuánto conocés sobre los requisitos y la documentación que son necesarios para inscribirse como monotributista?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Mucho: Conozco todos los requisitos y la documentación necesaria.",
+        "Devolucion": "Te sugerimos revisar la sección \"Requisitos documentación y pasos para inscribirse como monotributista\" para asegurarte de conocer al detalle el tema."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algo: Sé que hay requisitos, pero no estoy seguro de todos.",
+        "Devolucion": "Revisá la sección \"Requisitos documentación y pasos para inscribirse como monotributista\" para obtener información completa sobre el tema y evitar inconvenientes al inscribirte. Esto te ayudará en la gestión de los trámites asociados a estar más preparado para enfrentar desafíos burocráticos en el futuro."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Poco: Tengo dudas sobre qué es necesario para inscribirse.",
+        "Devolucion": "Consultá la sección \"Requisitos documentación y pasos para inscribirse como monotributista\" para aclarar tus dudas y asegurarte de tener todo lo necesario. Esto te permitirá fortalecer tu autogestión y reducir errores al momento de completar procesos administrativos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nada: Desconozco completamente los requisitos.",
+        "Devolucion": "Comenzá por la sección \"Requisitos documentación y pasos para inscribirse como monotributista\" para familiarizarte con el tema. Este paso será clave para que desarrolles una mejor comprensión de los procesos administrativos."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué nivel de conocimiento tenés sobre las categorías del monotributo y sus escalas de facturación?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alto: Conozco todas las categorías y cómo funcionan.",
+        "Devolucion": "Revisá la sección \"Categorías del monotributo y escalas de facturación\" para identificar correctamente las escalas y mantenerte dentro de los límites correspondientes. Esto te servirá para gestionar tus obligaciones fiscales de manera eficiente."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderado: Sé que hay categorías, pero desconozco las escalas.",
+        "Devolucion": "Te sugerimos explorar la sección \"Categorías del monotributo y escalas de facturación\"\" para obtener una comprensión más clara de las escalas de facturación y cómo aplicarlas. Esto te ayudará a identificar la categoría que mejor se ajuste a cada situación."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Bajo: Tengo una idea vaga sobre las categorías.",
+        "Devolucion": "Dedicá tiempo a estudiar la sección \"Categorías del monotributo y escalas de facturación\" para consolidar tu conocimiento sobre cómo se determinan las categorías y las implicancias fiscales. Esto te ayudará a gestionar mejor tus obligaciones tributarias y evitar errores en el futuro."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nulo: No tengo conocimientos sobre este tema.",
+        "Devolucion": "Te sugerimos comenzar por los conceptos básicos en la sección \"Categorías del monotributo y escalas de facturación\". Comprender estas escalas y categorías es clave para conocer cómo gestionar tu actividad en caso de que elijas inscribirte como monotributista y también para tomar decisiones informadas sobre tu facturación."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué tan familiarizado estás con los beneficios y obligaciones que tiene un monotributista?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Muy familiarizado: Conozco al detalle los beneficios y obligaciones de ser monotributista.",
+        "Devolucion": "Revisá la sección \"Beneficios y obligaciones del monotributista\" y potenciá tu habilidad para gestionar correctamente responsabilidades fiscales y tomar decisiones estratégicas sobre el uso de los beneficios. que te corresponden."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algo familiarizado: Conozco bien los beneficios y solo algunas obligaciones.",
+        "Devolucion": "Te sugerimos revisar la sección \"Beneficios y obligaciones del monotributista\" para obtener una visión más completa de los beneficios disponibles y las obligaciones a las que estás sujeto/a. Desarrollarás habilidades clave para administrar eficientemente tus derechos y responsabilidades."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Poco familiarizado: Tengo una idea general sobre beneficios y obligaciones , pero no sé los detalles.",
+        "Devolucion": "Estudiá la sección sobre \"Beneficios y obligaciones del monotributista\"para aclarar tus dudas y comprender mejor las ventajas y responsabilidades que tenés como monotributista. Esto te permitirá desarrollar una base sólida para gestionar tus obligaciones de manera más efectiva."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No estoy familiarizado: Desconozco completamente el tema.",
+        "Devolucion": "Comenzá con la sección \"Beneficios y obligaciones del monotributista\" para adquirir los conocimientos esenciales sobre este tema. Desarrollar estas habilidades básicas es crucial para que puedas cumplir con tus obligaciones fiscales y aprovechar al máximo los beneficios disponibles en caso que elijas inscribirte en el Monotributo."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cómo evaluarías tu comprensión sobre el funcionamiento de la factura electrónica y su correcta emisión?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alta: Entiendo bien el proceso de emisión de facturas electrónicas y sus requisitos.",
+        "Devolucion": "Aprovechá esta base sólida revisando la sección \"Facturación electrónica\" para perfeccionar tu habilidad de emitir facturas. Conocerás cómo mejorar la gestión de las obligaciones fiscales y asegurar el cumplimiento normativo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderada: Comprendo bien el tema , pero no tengo claridad sobre cómo aplicar el proceso completo.",
+        "Devolucion": "Te sugerimos revisar la sección \"Facturación electrónica\" para fortalecer tu comprensión y emitir facturas de manera correcta. Esto te permitirá integrar todo el proceso de manera efectiva y evitar posibles errores en tus emisiones si elegís inscribirte en el Monotributo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Baja: Tengo una idea básica del tema, pero no sé cómo llevarla a cabo en la práctica.",
+        "Devolucion": "Leé la sección \"Facturación electrónica\" con atención para familiarizarte con los pasos específicos y las herramientas necesarias. Esto, en el caso de estar inscripto en el Monotributo, te ayudará a ganar confianza en la emisión de facturas y cumplir con tus obligaciones fiscales."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nula: Desconozco cómo emitir una factura electrónica.",
+        "Devolucion": "Familiarizate con el proceso desde cero explorando la sección \"Facturación electrónica\". Allí encontrarás las pautas para manejar correctamente la facturación y cumplir con las normativas fiscales, lo que es clave para un mejor control financiero."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cómo describirías tu nivel de comprensión sobre las obligaciones tributarias como monotributista?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Alto: Conozco bien los plazos y las obligaciones que se deben cumplir como monotributista.",
+        "Devolucion": "Revisá la sección \"Beneficios y obligaciones del monotributista\" y fortalecé el manejo sobre los plazos fiscales. Esto te permitirá gestionar mejor tu actividad y evitar errores administrativos en caso de que estés inscripto en Monotributo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Moderado: Conozco el funcionamiento de las obligaciones tributarias , pero no estoy seguro de cómo se deben aplicar a situaciones específicas.",
+        "Devolucion": "Revisá los casos prácticos de la sección \"Beneficios y obligaciones del monotributista\" para identificar situaciones concretas que pueden surgir al llevar adelante una actividad económica bajo el régimen del Monotributo. Esto te permitirá anticipar errores y mejorar la toma de decisiones fiscales en caso de ser necesario."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Bajo: Sé lo qué es el monotributo, pero desconozco la mayoría de los detalles sobre las obligaciones tributarias.",
+        "Devolucion": "Explorá la sección \"Beneficios y obligaciones del monotributista\" para profundizar tu comprensión sobre el tema. Empezá por los conceptos fundamentales como los requisitos de inscripción y las fechas clave y avanzá hacia temas más específicos como los pagos mensuales y las recategorizaciones."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nulo: No tengo conocimientos sobre las obligaciones tributarias.",
+        "Devolucion": "Familiarizate con los aspectos clave desde cero revisando la sección \"Beneficios y obligaciones del monotributista\". Aprender estos conceptos te ayudará a desarrollar habilidades para gestionar correctamente tus responsabilidades fiscales evitar sanciones y organizar tu actividad económica de manera más eficiente en caso de inscribirte en el Monotributo."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Conocés cómo se calcula el monto a pagar en el Monotributo?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, entiendo cómo se determinan los montos a pagar y qué factores influyen.",
+        "Devolucion": "Aprovechá este conocimiento revisando la sección \"Cálculo del Monotributo\" para perfeccionar tu habilidad de gestionar tus finanzas y asegurarte de que estás optimizando tus pagos tributarios. Esto fortalecerá tu capacidad para cumplir eficientemente con tus obligaciones fiscales y evitar sorpresas a futuro."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, tengo una idea general de los factores que influyen en el cálculo, pero desconozco cómo se determina el monto a pagar.",
+        "Devolucion": "Revisá la sección \"Cálculo del Monotributo\" para comprender cómo impacta en el monto a pagar factores como la categoría asignada o el componente impositivo Esto te ayudará a tomar decisiones informadas sobre recategorizaciones y planificación de pagos en caso de estar inscripto en el Monotributo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No, no tengo claro cómo se calcula el monto del Monotributo aunque se que hay varios factores que influyen .",
+        "Devolucion": "Explorá la sección \"Cálculo del Monotributo\" para conocer cómo gestionar las obligaciones fiscales lo que te permitirá evitar errores y mejorar tu planificación financiera si te inscribís en el Monotributo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No tengo conocimiento: Desconozco cómo funciona el cálculo del Monotributo.",
+        "Devolucion": "Empezá por aprender los aspectos básicos del Monotributo en la sección \"Cálculo del Monotributo\". Esto te proporcionará una base sólida para gestionar correctamente tus obligaciones tributarias (en caso de inscribirte en el Monotributo) y evitar complicaciones en tu actividad económica."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué nivel de conocimiento tenés sobre la recategorización del Monotributo y su funcionamiento ?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Conocimiento alto: Conozco bien qué es la recategorización, cuándo debe hacerse y cómo completarla.",
+        "Devolucion": "Fortalecé tu base sólida sobre el tema, revisando la sección \"Proceso de recategorización: cuándo y cómo hacerlo\" para mantenerte al día con los plazos y procedimientos del Monotributo, en caso de estar inscripto."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Conocimiento intermedio: Entiendo el tema de manera general y algunos pasos, pero tengo dudas sobre los plazos o detalles específicos.",
+        "Devolucion": "Revisá la sección \"Proceso de recategorización: cuándo y cómo hacerlo\" para clarificar aspectos puntuales como los ingresos límites y los componentes del cálculo. Esto te permitirá gestionar de manera más segura las recategorizaciones y prevenir errores administrativos, si estás inscripto en Monotributo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Conocimiento básico: Sé que existe la recategorización, pero desconozco cómo se realiza y lo que implica.",
+        "Devolucion": "Explorá la sección \"Proceso de recategorización: cuándo y cómo hacerlo\" para construir una base sólida sobre este proceso. Aprender los fundamentos te dará confianza para cumplir con las normativas y organizar mejor tus responsabilidades fiscales, en caso de estar inscripto en Monotributo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Conocimiento nulo: Desconozco de qué trata la recategorización y cómo funciona.",
+        "Devolucion": "Comenzá por estudiar la sección \"Proceso de recategorización: cuándo y cómo hacerlo\" para adquirir una comprensión básica de este aspecto clave del Monotributo. Esto te permitirá, en caso de que te inscribas en el Monotributo, gestionar de manera más efectiva tus obligaciones fiscales y evitar errores que puedan impactar en tu actividad económica."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué tan familiarizado estás con los descuentos aplicables a los trabajadores en relación de dependencia y cómo funcionan?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Muy familiarizado: Conozco bien los descuentos que se aplican como monotributista y cómo afectan en el salario.",
+        "Devolucion": "En caso de estar trabajando en relación de dependencia, aprovechá este conocimiento para revisar regularmente tus recibos de sueldo, asegurarte de que los descuentos estén correctamente aplicados y verificar si podés optimizar tu situación fiscal, especialmente en caso de combinar esta relación laboral con la inscripción en el Monotributo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algo familiarizado: Tengo una noción general del tema; sé que se aplican descuentos (como jubilación y obra social), pero desconozco los detalles y cómo se calculan.",
+        "Devolucion": "Revisá la sección sobre \"Descuentos aplicables para trabajadores en relación de dependencia\" para ampliar tu conocimiento sobre los aportes obligatorios sus porcentajes y cómo afectan el salario neto. Esto te permitirá interpretar mejor los recibos y detectar inconsistencias."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Poco familiarizado: Sé que existen descuentos, pero no tengo claro cómo funcionan en conjunto con otros sistemas, como el Monotributo.",
+        "Devolucion": "Explorá la sección \"Descuentos aplicables para trabajadores en relación de dependencia\" para comprender la relación de estos descuentos con otras contribuciones como las del Monotributo y entender cómo optimizar tu situación fiscal si aplicás a ambos esquemas."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No estoy familiarizado: Desconozco qué descuentos se aplican o cómo funcionan.",
+        "Devolucion": "Comenzá estudiando la sección \"Descuentos aplicables para trabajadores en relación de dependencia\" para entender cómo se manejan los aportes y descuentos."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué tan familiarizado estás con las consecuencias de incumplimientos y sanciones del monotributo?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Muy familiarizado: Conozco bien las sanciones y consecuencias de incumplir con el Monotributo.",
+        "Devolucion": "Aprovechá este conocimiento para fortalecer tus saberes sobre la gestión de las obligaciones fiscales. Podés revisarla sección \"Consecuencias de incumplimientos y sanciones\" para asegurarte de evitar sanciones y cumplir con los plazos y requisitos necesarios."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algo familiarizado: Sé que hay consecuencias generales, como multas, pero no tengo claro en qué casos se aplican ni cómo se calculan.",
+        "Devolucion": "Revisá la sección \"Consecuencias de incumplimientos y sanciones\" para conocer los detalles específicos de cada sanción y cómo prevenirlas. Esto te permitirá identificar con mayor precisión las acciones necesarias para cumplir con las obligaciones fiscales."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Poco familiarizado/a: Tengo una idea básica sobre la existencia de sanciones, pero desconozco cómo impactan en la actividad económica o en los plazos relacionados.",
+        "Devolucion": "Estudiá la sección \"Consecuencias de incumplimientos y sanciones\" para entender las repercusiones de no cumplir con el Monotributo. Esto es fundamental para evitar problemas fiscales y mejorar la gestión de tus obligaciones, en caso de que te inscribas en el Monotributo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No estoy familiarizado: Desconozco las consecuencias o sanciones en el Monotributo.",
+        "Devolucion": "Comenzá explorando la sección sobre \"Consecuencias de incumplimientos y sanciones\" para conocer los riesgos que conlleva no cumplir con las obligaciones fiscales. Esto te permitirá evitar sanciones y gestionar mejor tus responsabilidades como monotributista, en caso de inscribirte."
+    }
+]
