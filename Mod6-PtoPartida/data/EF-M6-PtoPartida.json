@@ -1,0 +1,247 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Alguna vez realizaste una inversión o tenés nociones básicas sobre cómo invertir?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, ya he invertido y tengo una buena comprensión de cómo funcionan las inversiones.",
+        "Devolucion": "Explorá la sección \"Ahorro e Inversión\" y profundizá tus conocimientos para optimizar tus distintas inversiones."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, he realizado algunas inversiones, pero aún me falta conocimiento sobre el tema.",
+        "Devolucion": "Revisá la sección \"Ahorro e Inversión\" para fortalecer tus conocimientos básicos y mejorar tus estrategias financieras."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No he invertido aunque tengo algunas nociones básicas sobre inversión.",
+        "Devolucion": "Explorá la sección \"Ahorro e Inversión\" para familiarizarte con los conceptos clave y prepararte para dar el primer paso en tus inversiones."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No he invertido ni tengo conocimientos sobre el tema.",
+        "Devolucion": "Enfocate en la sección \"Ahorro e Inversión\" para adquirir las bases necesarias y entender cómo empezar a invertir de manera informada y segura."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Armaste o pensás armar un Fondo de Emergencia como parte de tu estrategia financiera?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, ya lo tengo armado.",
+        "Devolucion": "Explorá la sección \"Ahorro, presupuesto y el fondo de emergencia\" para seguir optimizando tu estrategia financiera."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, estoy en proceso de armarlo.",
+        "Devolucion": "Seguí aprendiendo enfocándote en la sección \"Ahorro, presupuesto y el fondo de emergencia\" para asegurar una planificación efectiva."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No lo tengo armado pero estoy considerando hacerlo.",
+        "Devolucion": "Explorá la sección \"Ahorro, presupuesto y el fondo de emergencia\" para entender la importancia de contar con este valioso recurso."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No lo tengo armado ni tampoco se lo que es un Fondo de Emergencia.",
+        "Devolucion": "Explorá la sección \"Ahorro, presupuesto y el fondo de emergencia\" para entender cómo este fondo puede brindarte seguridad financiera."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Con qué frecuencia evalúas el riesgo al momento de invertir?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre: Evalúo cuidadosamente los riesgos antes de realizar cualquier inversión.",
+        "Devolucion": "Continuá optimizando tus decisiones de inversión revisando la sección \"Inversiones\"."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Casi siempre: A veces tengo en cuenta los riesgos, pero no siempre.",
+        "Devolucion": "Revisá la sección \"Inversiones\" para entender cómo gestionar mejor los riesgos asociados a tus inversiones."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Casi nunca: No suelo prestar mucha atención a los riesgos cuando invierto.",
+        "Devolucion": "Es esencial que explores la sección \"Inversiones\" para aprender a evaluar y gestionar el riesgo de manera efectiva."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca: No tengo en cuenta el riesgo al invertir.",
+        "Devolucion": "Revisá la sección \"Inversiones\" para entender cómo los riesgos pueden afectar tus inversiones y de qué manera podés minimizarlos."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué tanto conocés sobre los activos de renta fija y variable?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Mucho: Conozco bien las características y diferencias entre ambos tipos de activos.",
+        "Devolucion": "Aprovechá tu conocimiento y revisá la sección \"Renta fija y renta variable\" para identificar nuevas oportunidades de inversión."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Bastante: Tengo conocimientos generales, pero me gustaría profundizar más en el tema.",
+        "Devolucion": "Explorá la sección \"Renta fija y renta variable\" para mejorar tu comprensión del tema y mejorar tu estrategia financiera."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Poco: Solo tengo una idea superficial sobre estos tipos de activos.",
+        "Devolucion": "Explorá la sección \"Renta fija y renta variable\" para ampliar tu conocimiento sobre el tema y tomar decisiones informadas."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nada: Desconozco sobre el tema de los activos de renta fija y variable.",
+        "Devolucion": "Enfocate en la sección \"Renta fija y renta variable\" para aprender los conceptos fundamentales y empezar a conocer cómo aplicarlos en tus inversiones."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuánto conocés sobre la estrategia de diversificación en inversiones?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Mucho: Conozco en profundidad y aplico la diversificación en mis inversiones.",
+        "Devolucion": "Explorá la sección \"La estrategia de diversificación\" para seguir mejorando tu enfoque."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Bastante:Tengo una idea general sobre la estrategia , pero no la aplico siempre.",
+        "Devolucion": "Explorá la sección \"La estrategia de diversificación\" para profundizar en este enfoque y mejorar tu cartera."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Poco: Apenas tengo una noción de la diversificación.",
+        "Devolucion": "Explorá la sección \"La estrategia de diversificación\" para aprender cómo reducir el riesgo diversificando tus inversiones."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nada: Desconozco la estrategia.",
+        "Devolucion": "Enfocate en la sección \"La estrategia de diversificación\"  para comprender cómo distribuir tu riesgo y optimizar tus inversiones."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Alguna vez evaluaste tu perfil de inversor?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, conozco mi perfil de inversor.",
+        "Devolucion": "Explorá la sección \"Perfil del inversor\" para asegurarte de que tu estrategia siga alineada con tu perfil."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No realicé una evaluación formal aunque considero hacerla.",
+        "Devolucion": "Explorá la sección \"Perfil del inversor\" para realizar una evaluación formal y precisa de tus decisiones de inversión."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No he considerado realizar una evaluación.",
+        "Devolucion": "Explorá la sección \"Perfil del inversor\" para conocer la importancia de identificar tu perfil antes de invertir."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Desconozco lo que es un perfil de inversor.",
+        "Devolucion": "Explorá la sección \"Perfil del inversor\" para entender cómo tu perfil puede guiar tus decisiones de inversión."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué tan claro tenés tu horizonte de inversión (plazos cortos, medianos o largos)?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Muy claro: Sé exactamente cuáles son mis metas y los plazos para cada una de mis inversiones.",
+        "Devolucion": "Te recomendamos explorar la sección \"Inversiones\" para asegurarte de que tus plazos de inversión sigan alineados con tus objetivos financieros."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Poco claro: Tengo una idea de los plazos en general (corto, mediano, largo), pero no sé cómo vincularlos con mis metas específicas.",
+        "Devolucion": "Recomendación: Explorá la sección \"Inversiones\" para profundizar en cómo conectar tus metas personales con los distintos horizontes de inversión. Esto te permitirá planificar con mayor precisión y efectividad."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algo claro: Tengo metas pero desconozco cómo organizarlas en plazos de inversión.",
+        "Devolucion": "Explorá la sección \"Inversiones\" para definir claramente tus horizontes de inversión."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nada claro: No tengo metas ni plazos de inversión definidos.",
+        "Devolucion": "Explorá la sección \"Inversiones\" para establecer metas claras y plazos que guíen favorablemente tus decisiones de inversión."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Conocés cuáles son y cómo identificar posibles estafas en el ámbito de las inversiones?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, conozco y sé cómo identificar posibles estafas para protegerme de ellas.",
+        "Devolucion": "Revisá la sección \"Identificación de estafas\" para profundizar y actualizar tu conocimiento sobre el tema."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, conozco cuáles son las estafas pero no sé identificarlas.",
+        "Devolucion": "Revisá la sección \"Identificación de estafas\" para conocer a fondo las señales de alerta que te ayudarán a protegerte de posibles fraudes en tus inversiones."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No conozco ni sé identificar posibles estafas.",
+        "Devolucion": "Explorá la sección \"Identificación de estafas\" para reconocer las señales de alerta que te ayudarán a protegerte de posibles fraudes en tus inversiones."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Conocés y/o usás herramientas digitales para tus inversiones?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, las conozco y utilizo regularmente para gestionar mis inversiones.",
+        "Devolucion": "Se recomienda explorar la sección \"Herramientas para empezar a invertir\" para optimizar tu uso de las plataformas más avanzadas."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, conozco algunas herramientas pero no las utilizo de forma habitual.",
+        "Devolucion": "Explorá la sección \"Herramientas para empezar a invertir\" para descubrir nuevas plataformas y mejorar tu experiencia."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí, conozco las herramientas pero no las he usado.",
+        "Devolucion": "Es recomendable que explores la sección \"Herramientas para empezar a invertir\" para ampliar tus opciones y acercarte a la experiencia de utilizar dichas plataformas."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No utilizo herramientas digitales para invertir.",
+        "Devolucion": "Te recomendamos explorar la sección \"Herramientas para empezar a invertir\"  para aprender cómo estas herramientas pueden ayudarte a gestionar mejor tus inversiones."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué tan confiado te sentís al utilizar simuladores de inversión para evaluar diferentes escenarios?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Muy confiado: Utilizo simuladores regularmente para planificar mis inversiones.",
+        "Devolucion": "Explorá la sección \"Herramientas para empezar a invertir\" para seguir perfeccionando tus análisis."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algo confiado: He usado algunos simuladores, pero no los manejo del todo bien.",
+        "Devolucion": "Revisá la sección \"Herramientas para empezar a invertir\" para mejorar tus habilidades en la evaluación de escenarios."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Poco confiado: He oído hablar de simuladores, pero no los utilizo con frecuencia.",
+        "Devolucion": "Explorá la sección \"Herramientas para empezar a invertir\" para familiarizarte con estas herramientas y usarlas a tu favor."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No sé cómo usar simuladores de inversión.",
+        "Devolucion": "Revisá la sección \"Herramientas para empezar a invertir\" para aprender a evaluar distintos escenarios de inversión con mayor precisión."
+    }
+]
