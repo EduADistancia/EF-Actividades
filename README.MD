@@ -1,5 +1,5 @@
 # Educación financiera - Programa Construí tu futuro
---
+
 ## Actividades adicionales
 
 Vista de actividades:
