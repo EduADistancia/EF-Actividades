@@ -62,14 +62,14 @@
     {
         "Tipo": "Palabra",
         "Texto": "conservador",
-        "Devolucion": "El inversor agresivo asume riesgos elevados para obtener mayores beneficios.",
-        "Estado": 1
+        "Devolucion": "El conservador evita los activos volátiles y las grandes pérdidas potenciales.",
+        "Estado": 0
     },
     {
         "Tipo": "Palabra",
         "Texto": "agresivo",
-        "Devolucion": "El conservador evita los activos volátiles y las grandes pérdidas potenciales.",
-        "Estado": 0
+        "Devolucion": "El inversor agresivo asume riesgos elevados para obtener mayores beneficios.",
+        "Estado": 1
     },
     {
         "Tipo": "Frase",
