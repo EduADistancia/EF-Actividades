@@ -1,7 +1,6 @@
 // Botón de captura y descarga
 let descargar = function (fragmento) {
     document.querySelector('#descarga').classList.add('oculto');
-    document.querySelector('iframe').classList.add('oculto');
     html2canvas(document.querySelector(fragmento))
         .then(function(canvas) {
 
@@ -21,7 +20,6 @@ let descargar = function (fragmento) {
         link.click();
         });
     document.querySelector('#descarga').classList.remove('oculto');
-    document.querySelector('iframe').classList.remove('oculto');
 };
 
 
