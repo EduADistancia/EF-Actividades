@@ -1,0 +1,37 @@
+<form id="interest-form">
+    <label for="principal">Monto inicial ($):</label>
+    <input type="number" id="principal" name="principal" step="0.01" required>
+
+    <label for="rate">Tasa de interés anual (%):</label>
+    <input type="number" id="rate" name="rate" step="0.01" required>
+
+    <label for="years">Número de años:</label>
+    <input type="number" id="years" name="years" step="1" required>
+
+    <label for="compoundings">Número de capitalizaciones por año:</label>
+    <input type="number" id="compoundings" name="compoundings" step="1" required>
+
+    <button type="button" id="calcularIC">Calcular</button>
+</form>
+
+<h2>Resultados</h2>
+<div class="result-summary">
+    <p id="summary-text"></p>
+    <p>La tabla a continuación muestra una estimación de cómo crecerá su inversión inicial a lo largo del tiempo, considerando la tasa de interés anual y el cronograma de capitalización especificado.</p>
+</div>
+
+<div class="auxTabla">
+    <table id="results-table">
+        <thead>
+            <tr>
+                <th>Mes</th>
+                <th>Valor final ($)</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+</div>
+
+<div id="chart-container">
+    <p>El gráfico proporciona una visualización de la evolución del capital mes a mes. Recuerde que ajustes menores en cualquiera de estas variables pueden afectar los resultados. Experimente con diferentes valores para ver cómo cambian los resultados.</p>
+</div>
