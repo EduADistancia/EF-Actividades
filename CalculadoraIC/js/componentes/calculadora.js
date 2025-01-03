@@ -1,4 +1,4 @@
-function calculateCompoundInterest() {
+async function calculateCompoundInterest() {
     const principal = parseFloat(document.getElementById('principal').value);
     const rate = parseFloat(document.getElementById('rate').value) / 100;
     const years = parseInt(document.getElementById('years').value);
@@ -37,6 +37,7 @@ function calculateCompoundInterest() {
     summaryText.innerHTML = `En ${years} ${yearText}, su inversión crecerá hasta alcanzar $${finalAmount}. La tabla y el gráfico a continuación muestran cómo evolucionará su capital mes a mes.`;
 
     // Crear gráfico
+    await import("https://cdn.jsdelivr.net/npm/chart.js");
     let divGrafico = document.querySelector('#chart-container');
     divGrafico.style["justify-content"] = 'flex-end';
     let canvas = document.getElementById('interest-chart');

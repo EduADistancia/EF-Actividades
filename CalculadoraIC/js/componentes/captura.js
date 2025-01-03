@@ -1,5 +1,6 @@
 // Botón de captura y descarga
-let descargar = function (fragmento) {
+let descargar = async function (fragmento) {
+    await import("https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.5/dist/html2canvas.min.js");
     document.querySelector('#descarga').classList.add('oculto');
     html2canvas(document.querySelector(fragmento))
         .then(function(canvas) {
