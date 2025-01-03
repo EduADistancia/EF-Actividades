@@ -46,6 +46,10 @@ body {
     margin: 0.5rem 0;
 }
 
+main {
+    padding-bottom: 0.5rem;
+}
+
 .divHeader {
     display: flex;
     flex-direction: row;
@@ -57,10 +61,16 @@ body {
     width: 20%;
 }
 
-h2, section, h3 {
+h2, section, h3  {
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
+
+iframe {
+    width: 1080px; 
+    max-width: 100%; 
+    height: 600px;
+} 
 
 .cabSection {
     display: flex;
@@ -71,10 +81,6 @@ i > img {
     width: 3rem;
     margin-right: 0.5rem;
 
-}
-
-iframe {
-    margin: 1rem 0;
 }
 
 #botonera {
@@ -136,12 +142,6 @@ iframe {
         display: block;
     }
 
-    iframe {
-        width: 100%; 
-        height: 450px;
-        overflow-y: hidden;
-    }
-
     #contenido {
         font-size: larger;
     }
@@ -152,23 +152,11 @@ iframe {
     #contenido {
         font-size: larger;
     }
-
-    iframe {
-        width: 100%; 
-        height: 800px;
-        overflow-y: hidden;
-    }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
     #contenido {
         font-size: large;
-    }
-    
-    iframe {
-        width: 100%; 
-        height: 900px;
-        overflow-y: hidden;
     }
 }

@@ -1,0 +1,242 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Solicitaste un préstamo para abrir un pequeño negocio que empezará a generar ingresos en seis meses."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Productiva",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Improductiva",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Usaste la tarjeta de crédito para comprar ropa y accesorios de lujo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Productiva",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Improductiva",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Pediste un crédito para completar una especialización que aumentará tus oportunidades laborales."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Productiva",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Improductiva",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Adquiriste un préstamo personal para pagar un casamiento extravagante que será en dos meses."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Productiva",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Improductiva",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Compraste un automóvil con financiamiento, pero lo usas exclusivamente para trabajar como conductor en una aplicación de transporte."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Productiva",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Improductiva",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Compraste un smartphone de última generación con tu tarjeta de crédito solo porque estaba en oferta."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Productiva",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Improductiva",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Contrataste un crédito hipotecario para comprar una casa donde pensas vivir a largo plazo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Productiva",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Improductiva",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Pediste un préstamo para financiar unas vacaciones familiares en un destino exótico."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Productiva",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Improductiva",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Solicitaste un crédito para realizar una reforma en tu casa, incrementando su valor de mercado."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Productiva",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Improductiva",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Usaste el límite de tu tarjeta de crédito para pagar cenas y salidas durante todo el mes."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Productiva",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Improductiva",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Pediste un préstamo para comprar equipo de trabajo que utilizarás para mejorar tu negocio."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Productiva",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Improductiva",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Financiaste la compra de una moto para uso personal, pero no cuentas con un plan para pagar el préstamo rápidamente."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Productiva",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Improductiva",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Solicitaste un crédito para pagar una cirugía médica que no cubre tu obra social y es necesaria para mejorar tu calidad de vida."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Productiva",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Improductiva",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Compraste muebles nuevos para tu casa utilizando un financiamiento especial que incluye altos intereses."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Productiva",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Improductiva",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Consolidaste varias deudas de tarjetas de crédito en un préstamo personal con una tasa de interés más baja, lo que te permite pagarlas de forma más eficiente."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Productiva",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Improductiva",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    }
+]
