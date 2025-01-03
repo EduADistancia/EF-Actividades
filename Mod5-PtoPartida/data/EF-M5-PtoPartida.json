@@ -195,6 +195,11 @@
         "Devolucion": "Si frecuentemente te cuesta identificar estos tipos de gastos, te recomendamos que te enfoques en la sección \"¿Y ahora qué? Estrategias para comenzar a ordenar las finanzas\". Allí encontrarás estrategias detalladas para clasificar y gestionar tus gastos de forma efectiva. También puede ser útil revisar el contenido de la sección\"Presupuesto: ¿Qué es? ¿Para qué sirve?\" para reforzar tu entendimiento de cómo los gastos fijos y variables impactan en tu presupuesto general."
     },
     {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre.",
+        "Devolucion": "Si siempre te resulta difícil distinguir entre gastos fijos y variables, examiná detalladamente la sección \"Presupuesto: ¿Qué es? ¿Para qué sirve?\". Esta sección ofrece una explicación clara sobre los diferentes tipos de gastos y cómo se reflejan en tu presupuesto. Además, revisá el apartado \"Componentes de un presupuesto\" para obtener ejemplos prácticos y herramientas que te ayudarán a clasificar y gestionar tus gastos de manera efectiva."
+    },
+    {
         "Tipo": "Pregunta",
         "Texto": "¿Qué nivel de dificultad te genera ajustar tu presupuesto a medida que cambian tus ingresos o gastos?",
         "Devolucion": ""
