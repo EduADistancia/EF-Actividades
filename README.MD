@@ -68,4 +68,4 @@ Vista de actividades:
 - [Actividad 7 - Test del Perfil Inversor](https://eduadistancia.github.io/EF-Actividades/Mod6-Act7/)
 - [Actividad 10 - Cuestionario de opción múltiple (Identificar estafas)](https://eduadistancia.github.io/EF-Actividades/Mod6-Act10/)
 - [Actividad 11 - Seleccionar opción correcta (Identificar estafas)](https://eduadistancia.github.io/EF-Actividades/Mod6-Act11/)
-- [Calculadora de Interés Compuesto](https://eduadistancia.github.io/EF-Actividades/CalculadoraIC/)
+- [Calculadora de Interés Compuesto](https://eduadistancia.github.io/EF-Actividades/Mod6-CalcIC/)
