@@ -7,7 +7,7 @@ async function cargar() {
     try {
         afipData = await obtenerDatosAFIP();
     } catch (error) {
-        msg= `<span style="display: block; text-align: center;"><b>Error al consultar datos en AFIP. Se utilizarán datos almacenados de Octubre/24.</b></span>`;
+        msg= `<span style="display: block; text-align: center;"><b>Error al consultar datos en ARCA. Se utilizarán datos almacenados de Octubre/24.</b></span>`;
         document.getElementById("result").innerHTML = msg;
         document.getElementById("result").style.display = "block";
         

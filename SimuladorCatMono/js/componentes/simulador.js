@@ -61,7 +61,7 @@ function calcularCategoria(afipData) {
     }
     if (Number(row) !== 99) {
         if (afipData) {
-            mensaje += "<br><strong>Comparación con datos de AFIP:</strong><br>";
+            mensaje += "<br><strong>Comparación con datos de ARCA:</strong><br>";
             mensaje += compararDatosAfip(row, ingresos, superficie, energia, alquileres, precio, afipData);
         }
     }
