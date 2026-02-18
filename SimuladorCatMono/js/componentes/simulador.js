@@ -34,7 +34,6 @@ function calcularCategoria(afipData) {
                             .replaceAll('.', '')
                             .replace(',', '.')
                 );
-                console.log(monto);
     
                 if (ingresos <= monto) {
                     categoria = `Categoría ${afipData[i].categoria}`;
@@ -46,7 +45,7 @@ function calcularCategoria(afipData) {
             mensaje += `Tu categoría es: ${categoria}<br>`;
         }
     }
-    
+
     if (Number(row) !== 99) {
         if (afipData) {
             mensaje += "<br><strong>Comparación con datos de ARCA:</strong><br>";
