@@ -16,6 +16,8 @@ async function cargar() {
                             .then(respuesta => respuesta.json());
     }
     
+
+    console.log(afipData)
     return afipData;
 };
 

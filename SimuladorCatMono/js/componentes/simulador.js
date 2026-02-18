@@ -16,49 +16,37 @@ function calcularCategoria(afipData) {
         alert("Debe escribir datos en el campo Ingresos");
         return;
     } else {
-        if (ingresos > 68000000) {
+        let montoMayorCategoria = Number(
+                afipData[afipData.length-1].ingresos
+                        .replace('$','')
+                        .replaceAll('.', '')
+                        .replace(',', '.')
+            );
+        if (ingresos > montoMayorCategoria) {
             mensaje = `<span style="display: block; text-align: center;"><b>Debes inscribirte en el Régimen General.</b></span>`;
             row = 99;
-        } else {
-
-            if (ingresos <= 1270000) {
-                categoria = "Categoría A";
-                row = 0;
-            } else if (ingresos <= 2375000) {
-                categoria = "Categoría B";
-                row = 1;
-            } else if (ingresos <= 3600000) {
-                categoria = "Categoría C";
-                row = 2;
-            } else if (ingresos <= 6000000) {
-                categoria = "Categoría D";
-                row = 3;
-            } else if (ingresos <= 19350000) {
-                categoria = "Categoría E";
-                row = 4;
-            } else if (ingresos <= 24250000) {
-                categoria = "Categoría F";
-                row = 5;
-            } else if (ingresos <= 29000000) {
-                categoria = "Categoría G";
-                row = 6;
-            } else if (ingresos <= 44000000) {
-                categoria = "Categoría H";
-                row = 7;
-            } else if (ingresos <= 49250000) {
-                categoria = "Categoría I";
-                row = 8;
-            } else if (ingresos <= 56400000) {
-                categoria = "Categoría J";
-                row = 9;
-            } else if (ingresos <= 68000000) {
-                categoria = "Categoría K";
-                row = 10;
+        }
+        else {
+            for (let i=0; i<afipData.length; i++) {
+                let monto = Number(
+                    afipData[i].ingresos
+                            .replace('$','')
+                            .replaceAll('.', '')
+                            .replace(',', '.')
+                );
+                console.log(monto);
+    
+                if (ingresos <= monto) {
+                    categoria = `Categoría ${afipData[i].categoria}`;
+                    row = i;
+                    break;
+                }
             }
 
             mensaje += `Tu categoría es: ${categoria}<br>`;
         }
     }
+    
     if (Number(row) !== 99) {
         if (afipData) {
             mensaje += "<br><strong>Comparación con datos de ARCA:</strong><br>";
